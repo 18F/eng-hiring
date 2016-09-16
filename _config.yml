@@ -36,6 +36,9 @@ navigation:
 - text: Resume review guide
   url: resume-review/
   internal: true
+- text: Tech Interview Guide
+  url: tech-interview-guide/
+  internal: true
 
 repos:
 - name: 18F Infosec Hiring Guide
