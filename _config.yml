@@ -33,6 +33,9 @@ expand_nav: true
 navigation:
 - text: Introduction
   internal: true
+- text: Resume review guide
+  url: resume-review/
+  internal: true
 
 repos:
 - name: 18F Infosec Hiring Guide
