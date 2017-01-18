@@ -2,42 +2,24 @@
 title: Resume review guide
 ---
 
-# Infosec resume review guide
-
-*A guide for staff conducting resume review for the infosec positions. Note that
-this is a different sort of resume review than for other 18F positions,
-which require a more formal qualification process. Specifically, the infosec
-jobs are Direct Hire, so we don’t need to follow the formal qualification
-process at this point. HR will qualify candidates after we submit them, at
-the end of the interview process.*
+This is a guide for staff conducting resume review.
 
 Resume reviews should be **quick** -- you should aim to spend maybe 3-5
 minutes per resume (less, even just a minute or two, for clearly
 unqualified candidates). You can’t tell a great deal about a candidate
-from a resume, so resume review is really about sorting out obviously
-unqualified candidates before we spend a bunch of our (and their) time
-interviewing.
+from a resume, so resume review is really about sorting candidates into
+rough "highly-qualified"/"maybe qualified"/"not qualified" buckets.
 
-Your goal should be to answer two fairly simple questions:
-
-1.  Should we pass this person on to the next step (a phone screen)?
-
-2.  Based on what you’ve seen so far, how strong a candidate is this?
-
-These questions together will be used to prioritize phone screens and
-interview time -- we want to try to look at the strongest candidates
-first. You’ll answer these questions by filling out a Lever feedback
-form. There’s also a space for general comments, if you want to leave
-them.
-
-I’ll go into some depth about how to look at a resume to answer these
-questions below.
+Each position will come with a guide to "scoring" the application (the formal
+term for this is a "crediting plan"). This'll tell you about the specalized
+experience required for the job, and will produce a "score" that prioritizes
+who'll move on to phone screen.
 
 ## Correcting for unconscious bias
 
-Remember that we all have unconscious bias, and that this sort of rough
-“gut check” review is especially susceptible to bias. A couple of
-suggestions to help correct for bias:
+As you review resumes, remember that we all have unconscious bias, and that this
+sort of  review is especially susceptible to bias. A couple of suggestions to
+help correct for bias:
 
 - **Remember that we’re especially susceptible to assume that underrepresented
   minorities -- women, people of color, etc. -- are less qualified than their
@@ -88,8 +70,8 @@ etc. Make sure to scan the whole package for info that’s there, but
 maybe not on the cover letter. (But [*see above for an important caveat
 about social media*](#correcting-for-unconscious-bias)!)
 
-You’ll want to have the job descriptions ([AppSec](FIXME) / [Pentest](FIXME) /
-[SecOps](FIXME)) open in front of you to compare to the resume as you go.
+You’ll want to have the job description and crediting plan open in front
+of you; that'll tell you what to look for.
 
 ### 1. Review job history 
 
@@ -105,10 +87,11 @@ have anything in common! However, looking at these items *can* quickly
 reveal obvious “red flags” and/or obviously unqualified candidates.
 You’re looking at things like:
 
-- Do the job titles and companies “make sense” for the position
-  they’re applying for. If a candidate’s resume doesn’t show any
-  titles with “security” in them, or is filled with companies that
-  aren’t in the technology sector at all, that’s a red flag.
+- Do the job titles and companies “make sense” show experience in the areas
+  required by the job description / scoring guide? For example, if a candidate’s
+  applying for a security role, but their resume doesn’t show any titles with
+  “security” in them, or is filled with companies that aren’t in the technology
+  sector at all, that’s a red flag.
 
 - Are the dates of employment relatively long and consistent? In tech
   it’s much more common to job-hop than in other fields, but a
@@ -118,10 +101,8 @@ You’re looking at things like:
   parenting, etc. But a pattern of repeated long gaps between every
   job over a long time indicates a weaker candidate.
 
-Remember: at this point, the goal is to look for "obviously
-unqualified", not to parse qualification out of a resume. We want to
-find people who just obviously won't pass the interview, and save us
-(and them) the time. Job titles won’t tell you if a candidate did a
+At this point, the goal is to look for "obviously unqualified", not to parse
+qualification out of job titles. Job titles won’t tell you if a candidate did a
 *good* job, but they will reveal obviously unqualified applicants.
 
 ### 2. Review responsibilities and accomplishments
@@ -140,43 +121,46 @@ You’re looking to see:
   applying for? You’ll look at this in more details next, so this is
   just a quick pass looking for obvious hits.
 
-Candidates who can’t clearly indicate what their job was and don’t have
-clear accomplishments are unlikely to be strong, and we should reject
-them at this point. Similarly, candidates who didn’t have jobs with
-responsibilities reasonably similar to what they’re going to do at 18F
-are unlikely to warrant an interview.
+Candidates who can’t clearly indicate what their job was and don’t have clear
+accomplishments are unlikely to be strong, and should get low scores. Similarly,
+candidates who didn’t have jobs with responsibilities reasonably similar to what
+they’re are required for the role should get low scores.
 
 At this point, you only need to proceed if you haven’t already decided
-“no”. The next steps are about separating a “yes” from a “maybe.”
+“no”. The next steps are about separating high scores from low scores.
 
 ### 3. Review relevant experience
 
-Next, look to see how well their submission aligns with the requirements
-for the job. This is more time consuming -- it can take 3-5 minutes,
-less as you get better -- but fairly simple: take the job requirements
-from the job description
-([*AppSec*](https://jobs.lever.co/18f/52e26cd1-0750-4481-af7f-8bb39e7dcde0)
-/
-[*Pentest*](https://jobs.lever.co/18f/a546d4f2-3db5-4a63-8af6-05fc9f0ec522)
-/
-[*SecOps*](https://jobs.lever.co/18f/8774d280-438e-487b-bacc-42056eb28d42))
-and compare against the roles the candidate has had in the past.
+Next, look to see how well their submission aligns with the requirements for the
+job. This is more time consuming -- it can take 3-5 minutes, less as you get
+better -- but fairly simple: one by one, take the job requirements from the job
+description and scoring guides, and compare against the roles the candidate has
+had in the past.
 
-You shouldn’t expect to find a 100% match -- nobody’s going to list all
-their skills on a short resume, and nobody is good at all the things.
-But you should expect to see a reasonable amount of matching experience,
-and the more you see the stronger the candidate is. Someone with a
-nearly complete overlap is someone we should interview first!
+See below under [Scoring the candidate](#scoring-the-candidate) for how to map
+experience here to score. In general, the scoring guide will tell you how to
+do this.
 
-### 4. Review the “bonus items”
+## Scoring the candidate
 
-Finally, you can spend a minute checking for “nice to haves”. Nothing in
-this section should be used to disqualify a candidate -- great
-candidates might lack everything in this list -- but these things might
-move a candidate from a weak to a strong recommendation, or from a “yes”
-to a “hell yes”. Look at:
+Once you've reviewed the resume, you'll need to submit a formal review and
+score. Each job will come with a formal scoring guide that'll list a series of
+competancies, the required criteria for each competancy, and an evaluation guide
+for that area. For example, you might see something like:
 
-- Open Source: candidates with open source experience are great!
-- Volunteerism, public service, or prior government service - this can indicate someone more aligned with our mission.
-- Education: a relevant Computer Security or Information Security degree is by no means required, but if they’ve got one, that makes them a stronger candidate.
-- Certifications: like education, a lack doesn’t indicate a weakness, a relevant cert does indicate someone invested in security as a career, which is good.
+    > **Teapot Engineering Skill (GS-15 level)**
+
+    > **Criteria for job readiness**:
+    > - Cites experience with building teapots using clay, cast iron, and wood.
+    > - Cites experience delivering teapots for various group sizes, including individual and large parties.
+    > - Cites pouring experience with teapots that are short and stout.
+
+    > **Evaluation**:
+    > (20) Yes, the candidate has studied this exact subject before, has done exactly what the job demands, and has mastered all the tools and skills needed. (Demonstrates 2+ of the Criteria for Job Readiness at the GS-15 level)
+    > (14) Yes, the candidate likely has the skills, education and/or experience to be job ready. (Demonstrates 1-2 of the Criteria for Job Readiness  at the GS-15 level)
+    > (0) No, the candidate does not have the skills, education and/or experience to be job ready. (Demonstrates 0 Criteria for Job Readiness )
+
+In other words, a score of (20) means the candidate is highly qualfied, a score of (14) means "somewhat qualfied", and a score of (0) is "not qualified". 
+
+Each position will have its own scoring guide, which you'll need to follow
+for each compentancy.

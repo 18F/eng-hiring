@@ -3,3 +3,45 @@ permalink: /
 title: Introduction
 ---
 
+This guide covers the engineering selection process, from resume review to
+turning over a candidate to HR for an offer.
+
+At a high level, the process looks like this:
+
+1. We post a job ad, and collect resumes.
+2. Resume review: we review and score resumes given our scoring guides. Top candidates move on.
+3. Phone screen: an initial 20-30 minute phone screen - passing candidates move on.
+4. Pre-work: candidates will be asked to come to interviews with some position-specific pre-work (typically, code to show)
+5. Interviews: 
+    - Technical: pre-work review with technical interviewer
+    - Technical: questions from the position-specific tech interview guide.
+    - Core values: questions from the (shared) core values guide
+    - Combined (technical + core values) from a senior interview
+6. Interviewers submit written recommendations to the hiring manager. Hiring manager makes the final decision.
+
+---
+
+For more details, dive into the following documents:
+
+* [Detailed process guide](detailed-process/) - read this if you need to "run" a hiring/selection process, or if you're a process nerd and want to know all the detailed steps from A-Z.
+
+* Resume review guides - read these if you need to review resumes:
+    * [General resume review guidance](resume-review/)
+    * Backend engineer scoring guide (TODO)
+    * Frontend engineer scoring guide (TODO)
+
+* Phone screen guide (TODO) - read this if you're conducting phone screens
+
+* Pre-work - read these if you're assigning or reviewing pre-work:
+    * [General pre-work assignment and review guidance](pre-work)
+    * [Back-end engineer pre-work](pre-work/backend)
+    * [Front-end engineer pre-work](pre-work/frontend)
+    * Infosec pre-work guide (TODO)
+
+* Interview guides - read these if you're conducting an interview
+    * [General interview guidance](interviews)
+    * [Core values interview guide](interviews/core-values)
+    * [Front-end/back-end engineer tech interview guide](interviews/engineer)
+    * [Infosec tech interview guide](interviews/infosec)
+
+* [How to check a reference](checking-references) - read this if you need to check a candidate's references.

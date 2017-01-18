@@ -1,5 +1,4 @@
-markdown: redcarpet
-name: 18F Infosec Hiring Guide
+name: 18F Engineering Hiring Guide
 exclude:
 - CONTRIBUTING.md
 - Gemfile
@@ -12,6 +11,9 @@ exclude:
 permalink: pretty
 highlighter: rouge
 incremental: true
+markdown: redcarpet
+redcarpet:
+    extensions: [with_toc_data]
 
 sass:
   style: :compressed
@@ -33,17 +35,43 @@ expand_nav: true
 navigation:
 - text: Introduction
   internal: true
+- text: Detailed process guide
+  url: detailed-process/
+  internal: true
 - text: Resume review guide
   url: resume-review/
   internal: true
-- text: Tech Interview Guide
-  url: tech-interview-guide/
+- text: Technical Pre-work
+  url: pre-work/
+  internal: true
+  children:
+  - text: Backend engineer pre-work
+    url: backend/
+    internal: true
+  - text: Frontend engineer pre-work
+    url: frontend/
+    internal: true
+- text: Interviewing
+  url: interviews/
+  internal: true
+  children:
+  - text: Infosec Interview Guide
+    url: infosec/
+    internal: true
+  - text: Core Values Interview Guide
+    url: core-values/
+    internal: true
+  - text: Engineer Interview Guide
+    url: engineer/
+    internal: true
+- text: Checking references
+  url: checking-references/
   internal: true
 
 repos:
-- name: 18F Infosec Hiring Guide
+- name: 18F Engineering Hiring Guide
   description: Main repository
-  url: https://github.com/18F/infosec-hiring
+  url: https://github.com/18F/engineering-hiring
 
 google_analytics_ua: UA-48605964-19
 
