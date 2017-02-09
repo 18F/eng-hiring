@@ -21,7 +21,9 @@ interviewing guide](..).
 
 # Introductory Statement
 
-**You should say this, or something close to it, before beginning:**
+**You should say this, or something close to it, before beginning. Also be sure to inform about any last minute changes to the interview, such as an interviewer not being able to make it.**
+
+> *Hello my name is ____ and my role at 18F is _____.*
 
 > *Thanks for interviewing with me today. This’ll be a behavioral interview,
 which means I’ll ask a series of questions about experiences you’ve had and
@@ -45,8 +47,6 @@ started!*
 #### Questions/follow-ups:
 
 - Has anyone given you any background on 18F or spoken with you in detail about 18F’s history, purpose, and mission?
-    - Be sure to introduce yourself! State your name and your role at 18F.
-    - Also be sure to inform about any last minute changes to the interview, such as an interviewer not being able to make it.
 - What drew you to 18F?
 
 Make a note of key phrases or words that the candidate mentions their response (e.g., “I want my work to have a meaningful impact”) so that there are hooks for questions later in the interview as you transition from one set of questions to the next.
@@ -66,7 +66,7 @@ After the introduction, follow up with a discussion around relevant work experie
 
 #### Specific questions/follow-ups
 
-- Could you tell me a bit more about your experience \[at &lt;X&gt; company / on &lt;Y&gt; project\]?
+- Tell me a bit more about your experience \[at &lt;X&gt; company / on &lt;Y&gt; project\]?
     - What challenges did you face and how did you overcome them?
     - If a project: Why did the project \[succeed / fail\]?
     - If a company: Why \[did / are\] you ultimately \[decide/deciding\] to move on?
@@ -74,7 +74,7 @@ After the introduction, follow up with a discussion around relevant work experie
 - Have you worked directly with customers/clients before?
     - If applicable: Could you speak about a time when you dealt with a particularly difficult client?
 
-- How have you participated with user-centered design and/or user research?
+- Have you had a chance to participate in user-centered design and/or user research?
     - If yes: Could you speak about a time when business needs or management directives conflicted with executing on a user-centered design approach?
     - If yes: How did you overcome this challenge and what was the resolution?
     - If no: What does user-centered design mean to you?
@@ -84,12 +84,12 @@ After the introduction, follow up with a discussion around relevant work experie
         - What challenges did you face, if any, and how did you overcome them?
     - If no: What does agile software development mean to you?
 
-A couple of things to keep in mind with the candidate’s responses in this area: pay attention to how they describe themselves in the context of any teams they’ve worked on and how they credit and fault themselves and others in the context of success and failures.
+A couple of things to keep in mind with the candidate’s responses in this area: pay attention to how they describe themselves in the context of any teams they’ve worked on and how they credit and fault themselves and others in the context of success and failures. Don't hesitate to asking clarifying questions to get a balanced view of their teammates' contributions and the candidate's.
 
 #### Warning signs
 
 - Candidate never speaks in the plural (we), even for team-based work.
-- Any failures are always attributed to others; lack of self-assessment / self-awareness.
+- Any failures are always attributed to others; which indicates a lack of self-assessment / self-awareness.
 - Work experience does not align with 18F needs or does not appear to have adequately prepared the candidate for what will be expected of them.
 - Candidate does not engender a positive attitude to learning from mistakes and/or a willingness to experiment (completely risk averse); conversely, candidate is needlessly reckless with taking risks.
 
@@ -119,7 +119,7 @@ Following a discussion around a candidate’s relevant work experience, transiti
 
 - What is your preferred work/management style?
 
-In general, a candidate that genuinely likes working with others to tackle challenges and isn’t afraid to step up to the plate when necessary to help keep things moving forward should be able to convey this easily with during this part of the interview. We also value candidates who do not silo themselves and/or the efforts of others.
+In general, a candidate that genuinely likes working with others to tackle challenges and isn’t afraid to step up to the plate when necessary to help keep things moving forward should be able to convey this clearly during this part of the interview. We also value candidates who do not silo themselves and/or the efforts of others.
 
 #### Warning signs
 
@@ -155,6 +155,19 @@ In this segment, we’re looking to see if the candidate has any experience work
 - Candidate does not see value in open source.
 - Candidate does not like sharing their work with others or is apprehensive about the notion of having their work critiqued openly.
 - Candidate does not appear open or willing to learning new things and improving themselves.
+
+## Diversity and Inclusion 
+
+Diversity and inclusion are core values for 18F and the engineering chapter. These questions are meant to shed light on the candidate's experience and thoughts towards diversity and inclusion.
+
+- At 18F we strive to be as representative of the populace as possible and work hard to ensure that everyone understands this notion and is treated fairly and respectfully.  Could you tell us what diversity and inclusion mean to you?  
+- What kind of impact do you think you might have or want to have in helping us continue to improve our efforts?
+
+#### Warning signs
+
+- Answers do not include multiple representations of diversity (race, cultural, Lesbian/Gay/Bisexual/Transgender (LGBT), disabilities, gender, age, religion, immigrants, socio-economic, etc.)
+- Demonstrates no experience working with diverse groups
+- Cannot explain why diversity is a positive thing
 
 ## Other/General Interview Questions
 
