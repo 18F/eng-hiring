@@ -38,6 +38,9 @@ navigation:
 - text: Detailed process guide
   url: detailed-process/
   internal: true
+- text: Correcting for unconscious bias
+  url: unconcious-bias/
+  internal: true
 - text: Resume review guide
   url: resume-review/
   internal: true

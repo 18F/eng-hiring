@@ -15,37 +15,11 @@ term for this is a "crediting plan"). This'll tell you about the specalized
 experience required for the job, and will produce a "score" that prioritizes
 who'll move on to phone screen.
 
-## Correcting for unconscious bias
-
-As you review resumes, remember that we all have unconscious bias, and that this
-sort of  review is especially susceptible to bias. A couple of suggestions to
-help correct for bias:
-
-- **Remember that we’re especially susceptible to assume that underrepresented
-  minorities -- women, people of color, etc. -- are less qualified than their
-  white male counterparts.** One way to correct for this bias by spending slightly
-  longer considering applications that appear to be from underrepresented
-  minorities, and try to view their qualifications in the best possible light.
-
-- **Don’t check out the candidate on social media, or Google them**. A person’s
-  public profile almost certainly won’t have anything relevant to work, and might
-  instead reveal all sorts of irrelevant information (age, gender, political
-  affiliation, race, etc.). If the candidate application/resume links to a
-  personal website, LinkedIn, or GitHub you can check those out -- these are more
-  work-focused, and we can assume a candidate has put what they want an employer
-  to see there. If you use Chrome, [*the Unbias Me*](https://chrome.google.com/webstore/detail/unbias-me/bghhadboobnoikppffdojcebigmcgmam?hl=en) extension (written by Fureigh) can help by removing avatars and names.
-
-- **If you come to a conclusion very quickly, before you’ve read the whole
-  resume, spend the next few minutes trying to disprove that snap judgement.**
-  Snap judgements are much more likely to be prone to bias than considered ones.
-  We tend to jump to conclusions and then look for evidence to support our
-  hypothesis. To compensate, if you find you’ve reached a Yes/No conclusion very
-  quickly, spend the next few minutes trying to *disprove* that hypothesis.
-  Explicitly look for evidence that you’re wrong. If you’ve decided immediately
-  that a candidate is not qualified, spend the next couple of minutes trying as
-  hard as you can to find evidence that they *are* qualified.
+Before you begin a review session, [remind yourself to watch out for unconcious bias](./unconcious-bias.md). Humans are not only biased, but we're almost never realize that we're being biased. However, when we realize and accept bias, and recognize it, we can be on the lookout for bias and it'll be less likely to unconciously guide our decisions.
 
 ## How to review a resume
+
+(FIXME below here)
 
 It may seem daunting to try to answer these questions in under 5
 minutes, but if you’re consistent and follow a simple checklist, you can

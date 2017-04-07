@@ -33,8 +33,6 @@ Now, **this isn’t an excuse to be a jerk!** Being selective is important, but 
 
 - **Be friendly and conversational.** This isn’t a police interview; it’s a two-way conversation. It’s entirely possible — easy, even — to be casual and conversational while also asking tough questions. You do it every day when you interact with your colleagues and discuss work topics; pretend the candidate is one of those co-workers.
 
-- **Be aware of unconscious bias.** Remember that we’re especially susceptible to assume that underrepresented minorities -- women, people of color, etc. -- are less qualified than their white male counterparts. Be wary of “gut decisions” that aren’t backed up by specific behavior you’ve noted during the interview (this is one reason we ask behavioral questions, and try to take notes behaviorally).
-
 - It’s OK to ask tough questions, dig deep, and be skeptical — but **absolutely not OK to mock or belittle someone for a weak or incorrect answer**. If someone gives an answer that’s weak or that you disagree with, just take a note and move on.
 
 - **Forgive a first mistake**. In an hour of interviewing, it’s almost a certainty that a candidate will make a mistake. Maybe they’ll get a technical thing wrong; maybe they’ll have a weak answer to one of your questions; maybe they’ll refer to engineers as “guys”. If this happens once: no big deal! Everyone makes mistakes. But, take a note, and watch for it to happen again. And compare notes with other interviewers at the end. Single mistakes are no big deal, but a pattern is a problem, so watch for it.
@@ -43,6 +41,8 @@ Now, **this isn’t an excuse to be a jerk!** Being selective is important, but 
 
 <a name="kick-off"></a>
 ## Kicking off the interview
+
+Before you begin each interview, [remind yourself to watch out for unconcious bias](./unconcious-bias.md). Remember that we’re especially susceptible to assume that underrepresented minorities -- women, people of color, etc. -- are less qualified than their white male counterparts. Be wary of “gut decisions” that aren’t backed up by specific behavior you’ve noted during the interview (this is one reason we ask behavioral questions, and try to take notes behaviorally). 
 
 When you first get on the call with the candidate, it’s a good idea to spend a quick minute explaining how the interview will go, and what the interviewee can expect. Here’s the script I use:
 
