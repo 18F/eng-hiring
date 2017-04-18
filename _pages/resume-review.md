@@ -2,50 +2,70 @@
 title: Resume review guide
 ---
 
-This is a guide for staff conducting resume review.
+This is a guide for staff conducting resume review (or, in formal speak "crediting").
 
-Resume reviews should be **quick** -- you should aim to spend maybe 3-5
-minutes per resume (less, even just a minute or two, for clearly
-unqualified candidates). You can’t tell a great deal about a candidate
-from a resume, so resume review is really about sorting candidates into
-rough "highly-qualified"/"maybe qualified"/"not qualified" buckets.
+Your main goal as a resume reviewer is to be **quick** and **fair**. You should aim to spend 5-10 minutes per
+candidate, and this guide will help you figure out how to do that.
 
-Each position will come with a guide to "scoring" the application (the formal
-term for this is a "crediting plan"). This'll tell you about the specalized
-experience required for the job, and will produce a "score" that prioritizes
-who'll move on to phone screen.
+Each position will come with a scoring rubric (the formal term for this is a "crediting plan"). This is how we get fairness out of the process: this guide gives the specific experience and qualifications required for the job, and lets you review resumes against a consistent set of requirements.
 
-Before you begin a review session, [remind yourself to watch out for unconcious bias](./unconcious-bias.md). Humans are not only biased, but we're almost never realize that we're being biased. However, when we realize and accept bias, and recognize it, we can be on the lookout for bias and it'll be less likely to unconciously guide our decisions.
+Before you begin a review session, [remind yourself to watch out for unconscious bias](./unconcious-bias.md). Humans are not only biased, but we're almost never realize that we're being biased. However, when we realize and accept bias, and recognize it, we can be on the lookout for bias and it'll be less likely to unconsciously guide our decisions.
+
+## Crediting plans
+
+Each position comes with a *crediting plan* -- a formal resume review rubric that we use to "score" resumes and separate applications into a set that'll move on to interviews, and a set we'll reject. 
+
+Check the sidebar for links to all the ones we have for engineering roles, and for convenient single-page checklists you can print out and use while reviewing resumes if you like.
+
+These guides are rather formal, so let's walk through what they look like. The relevant part of the guide for resume review purposes is the "crediting plan". The crediting plan breaks down into several *competencies*, with each competency having several *criteria*. As you review the resume, you're looking for evidence of these criteria. At the end, the application gets scored based on how many of each criteria are demonstrated, according to a scoring guide in the crediting plan. Note that there's a different crediting plan for each GS-level.
+
+Here's an example, from the Backend Engineer crediting plan, GS-15 version:
+
+> **Software Engineering Technical Experience**: Ability to use software engineering technologies to deliver technical solutions and products. 
+
+> **Criteria for Job Readiness:**
+>
+> - Cites software development experience using Python, Ruby, Javascript/Node.js, and/or Go.
+> - Cites experience using relational databases such as PostgreSQL, MySQL, Oracle, SQLServer, etc, and/or programming in > SQL.
+> - Cites experience using Unix-based operating systems (e.g. Linux, macOS, BSD, etc).
+> - Cites experience with Git/Mercurial/etc. or Github/Bitbucket/etc.-based software development workflow.
+> - Cites experience developing web applications that are database-backed, highly-interactive, serve large numbers of users > (100,000+), have scalability or performance concerns, and/or have high uptime or availability requirements. Simple, > hand-built web sites do not qualify.
+> - Cites experience with test-driven development and/or software testing tools such as PyUnit, JUnit, Rspec, Travis, > Circle CI, Pytest, Jest, Mocha, Selenium, etc.
+
+> **Evaluation (20 points total)**
+>
+> - (20) Yes, the candidate has studied this exact subject before, have done exactly what the job demands, and have > mastered all the tools and skills needed. (Demonstrates 4+ of the Criteria for Job Readiness at the GS-15 level)
+> - (14) Yes, the candidate likely has the skills, education and/or experience to be job ready. (Demonstrates 2-3 of the > Criteria for Job Readiness at the GS-15 level)
+> - (0) No, the candidate does not have the skills, education and/or experience to be job ready. (Demonstrates 0-1 Criteria > for Job Readiness)
+
+So, as you review the resume, you'll be looking for evidence of the things cited in the "criteria for job readiness" section: specific programming languages, relational databases, source control, etc. If the candidate meets 4 or more of those criteria, they'd get the full 20 points for this section. If the only have 2-3, they'd get 14 points. Just 1, or none? 0 points.
+
+(These numbers and point values will be the same for each competency, and we're going to try to keep them consistent throughout all the engineering roles.)
+
+It's hard to find "hard proof" of any of this on a resume, so don't concern yourself too much with quantifying exactly *how much* experience someone has, or how *well* they've done these things. If they mention the experience required, it counts. The interview process should shake out how *well* they know these things.
 
 ## How to review a resume
 
-(FIXME below here)
+OK, you've got the crediting plan; how do you use it to review a resume?
 
-It may seem daunting to try to answer these questions in under 5
-minutes, but if you’re consistent and follow a simple checklist, you can
-blaze through and get good results quickly. You should look for the
-following things, in this order:
+It may seem daunting to try to work through this guide in under 10
+minutes, but if you’re consistent and follow a simple workflow, you can
+blaze through and get good results quickly. 
+
+When you look at a resume, look at the following things, in this order:
 
 1.  Job history: titles, dates, companies, and career progression
 2.  Responsibilities and accomplishments
 3.  Relevant experience
-4.  “Bonus items”: education, open source, volunteerism, etc.
+4.  “Bonus items”: education, open source, volunteer work, etc.
 
 (More details on what to look for in each section below.)
 
-This order’s deliberate: the first couple items are quick, and can help
-to quickly spot unqualified candidates. \#3 is the hardest, and will
-reveal more about potentially-qualified candidates. The last is least
-important, but can add “bonus points” to an already-strong resume.
+This order’s deliberate: the first couple items are quick, and will help "orient" you to the candidate's overall experience, and help focus where you look for the rest. \#3 is the hardest, and will reveal the most detail. The last is least important, and you can skip it if you've already got a clearly qualified applicant. But for those on the edge, these parts can add a bit of extra experience that pushes someone over.
 
-Remember that you’re reviewing a candidate’s entire submission package,
-which’ll include a resume and some Q&A, and possibly other links/files
-etc. Make sure to scan the whole package for info that’s there, but
-maybe not on the cover letter. (But [*see above for an important caveat
-about social media*](#correcting-for-unconscious-bias)!)
+Remember that you’re reviewing a candidate’s entire submission package, which’ll include a resume and some Q&A, and possibly other links (e.g. to LinkedIn, a Github profile, etc). Make sure to scan the whole package for info that’s there, but maybe not on the cover letter. (But see [correcting for unconscious bias](./unconcious-bias.md) for an important note about avoiding social media).
 
-You’ll want to have the job description and crediting plan open in front
-of you; that'll tell you what to look for.
+You’ll want to have the crediting plan open in front of you as you proceed. You may want to print out the single-page checklist for the relevant position and grade level, and use it to mark off experience as you go.
 
 ### 1. Review job history 
 
@@ -58,8 +78,9 @@ There isn’t a lot here that can *qualify* a candidate: it’s really hard
 to tell whether a Senior Teapot Engineer at Company A is more qualified
 than a Lead Teapot Technician at Company B, or even if those two jobs
 have anything in common! However, looking at these items *can* quickly
-reveal obvious “red flags” and/or obviously unqualified candidates.
-You’re looking at things like:
+reveal where to look for the experience in the next steps.
+
+You're also looking for a couple of "red flags":
 
 - Do the job titles and companies “make sense” show experience in the areas
   required by the job description / scoring guide? For example, if a candidate’s
@@ -75,9 +96,7 @@ You’re looking at things like:
   parenting, etc. But a pattern of repeated long gaps between every
   job over a long time indicates a weaker candidate.
 
-At this point, the goal is to look for "obviously unqualified", not to parse
-qualification out of job titles. Job titles won’t tell you if a candidate did a
-*good* job, but they will reveal obviously unqualified applicants.
+These won't necessarily feed into the formal score the person receives at this step, but if you spot stuff like this, it's good to make a note of it to pass on to the phone screen and/or interviews for clarification.
 
 ### 2. Review responsibilities and accomplishments
 
@@ -86,55 +105,29 @@ role. This is also quick: another minute or two.
 
 You’re looking to see:
 
-- Does the candidate clearly list what their responsibilities were in
-  that role?
+- What were the candidate's responsibilities in that role?
 
 - What were their accomplishments relative to those responsibilities?
 
-- Are (some) of those responsibilities relevant to the job they’re
-  applying for? You’ll look at this in more details next, so this is
-  just a quick pass looking for obvious hits.
+- Are these applicable to the crediting plan you've got in front of you? If so, make a note of the relevant items on the checklist or wherever else you're talking notes.
 
-Candidates who can’t clearly indicate what their job was and don’t have clear
-accomplishments are unlikely to be strong, and should get low scores. Similarly,
-candidates who didn’t have jobs with responsibilities reasonably similar to what
-they’re are required for the role should get low scores.
-
-At this point, you only need to proceed if you haven’t already decided
-“no”. The next steps are about separating high scores from low scores.
+Candidates who don't clearly indicate what their job was and don’t have clear
+accomplishments will get low scores -- you're looking for specifics that match the crediting plan.
 
 ### 3. Review relevant experience
 
 Next, look to see how well their submission aligns with the requirements for the
-job. This is more time consuming -- it can take 3-5 minutes, less as you get
-better -- but fairly simple: one by one, take the job requirements from the job
-description and scoring guides, and compare against the roles the candidate has
-had in the past.
+job. This is the time consuming part, but as you get more familiar with each crediting plan it'll get quicker. 
 
-See below under [Scoring the candidate](#scoring-the-candidate) for how to map
-experience here to score. In general, the scoring guide will tell you how to
-do this.
+One by one, take the criteria from the job
+scoring guides, and compare against the experience the candidate has
+cites. As you find relevant experience, mark it off.
+
+### 4. Bonus items
+
+If you've got a candidate who's already clearly qualified (e.g. has shown 4+ criteria in each competency already), you can skip this step. But if not, you can look at a candidate's cited volunteer work, open source contributions, and the like -- there may be additional relevant experience there.
 
 ## Scoring the candidate
 
-Once you've reviewed the resume, you'll need to submit a formal review and
-score. Each job will come with a formal scoring guide that'll list a series of
-competancies, the required criteria for each competancy, and an evaluation guide
-for that area. For example, you might see something like:
-
-    > **Teapot Engineering Skill (GS-15 level)**
-
-    > **Criteria for job readiness**:
-    > - Cites experience with building teapots using clay, cast iron, and wood.
-    > - Cites experience delivering teapots for various group sizes, including individual and large parties.
-    > - Cites pouring experience with teapots that are short and stout.
-
-    > **Evaluation**:
-    > (20) Yes, the candidate has studied this exact subject before, has done exactly what the job demands, and has mastered all the tools and skills needed. (Demonstrates 2+ of the Criteria for Job Readiness at the GS-15 level)
-    > (14) Yes, the candidate likely has the skills, education and/or experience to be job ready. (Demonstrates 1-2 of the Criteria for Job Readiness  at the GS-15 level)
-    > (0) No, the candidate does not have the skills, education and/or experience to be job ready. (Demonstrates 0 Criteria for Job Readiness )
-
-In other words, a score of (20) means the candidate is highly qualfied, a score of (14) means "somewhat qualfied", and a score of (0) is "not qualified". 
-
-Each position will have its own scoring guide, which you'll need to follow
-for each compentancy.
+Once you've reviewed the resume and found all the relevant experience, you'll need to submit a formal review and
+score. There will be a Google Form for the role that you'll fill this information into, and you'll score according to the scoring guide (see [crediting plans](#crediting-plans), above, for details

@@ -44,6 +44,16 @@ navigation:
 - text: Resume review guide
   url: resume-review/
   internal: true
+  children:
+    - text: Backend engineer scoring guide
+      url: https://docs.google.com/document/d/1A0G5Xa6KV3Rmfa9YyDvwtvvxGUP-6V4SiN2sqEZEfzQ/edit
+      internal: false
+    - text: Backend engineer review checklist (GS-15)
+      url: https://docs.google.com/document/d/13rxXT3fpyHHtkRkIIjE0v0j_6dTgvpFJIjP14PqK5Jw/edit
+      internal: false
+    - text: Backend engineer review checklist (GS-14) (not done)
+      url: FIXME
+      internal: false
 - text: Technical Pre-work
   url: pre-work/
   internal: true
