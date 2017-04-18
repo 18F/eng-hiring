@@ -21,22 +21,7 @@ These guides are rather formal, so let's walk through what they look like. The r
 
 Here's an example, from the Backend Engineer crediting plan, GS-15 version:
 
-> **Software Engineering Technical Experience**: Ability to use software engineering technologies to deliver technical solutions and products. 
-
-> **Criteria for Job Readiness:**
->
-> - Cites software development experience using Python, Ruby, Javascript/Node.js, and/or Go.
-> - Cites experience using relational databases such as PostgreSQL, MySQL, Oracle, SQLServer, etc, and/or programming in > SQL.
-> - Cites experience using Unix-based operating systems (e.g. Linux, macOS, BSD, etc).
-> - Cites experience with Git/Mercurial/etc. or Github/Bitbucket/etc.-based software development workflow.
-> - Cites experience developing web applications that are database-backed, highly-interactive, serve large numbers of users > (100,000+), have scalability or performance concerns, and/or have high uptime or availability requirements. Simple, > hand-built web sites do not qualify.
-> - Cites experience with test-driven development and/or software testing tools such as PyUnit, JUnit, Rspec, Travis, > Circle CI, Pytest, Jest, Mocha, Selenium, etc.
-
-> **Evaluation (20 points total)**
->
-> - (20) Yes, the candidate has studied this exact subject before, have done exactly what the job demands, and have > mastered all the tools and skills needed. (Demonstrates 4+ of the Criteria for Job Readiness at the GS-15 level)
-> - (14) Yes, the candidate likely has the skills, education and/or experience to be job ready. (Demonstrates 2-3 of the > Criteria for Job Readiness at the GS-15 level)
-> - (0) No, the candidate does not have the skills, education and/or experience to be job ready. (Demonstrates 0-1 Criteria > for Job Readiness)
+![Crediting Plan Example]({{ site.url }}/assets/images/crediting-plan-example.png)
 
 So, as you review the resume, you'll be looking for evidence of the things cited in the "criteria for job readiness" section: specific programming languages, relational databases, source control, etc. If the candidate meets 4 or more of those criteria, they'd get the full 20 points for this section. If the only have 2-3, they'd get 14 points. Just 1, or none? 0 points.
 
