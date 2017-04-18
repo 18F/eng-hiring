@@ -55,13 +55,12 @@ blaze through and get good results quickly.
 When you look at a resume, look at the following things, in this order:
 
 1.  Job history: titles, dates, companies, and career progression
-2.  Responsibilities and accomplishments
-3.  Relevant experience
-4.  “Bonus items”: education, open source, volunteer work, etc.
+2.  Responsibilities, accomplishments, and relevant experience
+3.  “Bonus items”: education, open source, volunteer work, etc.
 
 (More details on what to look for in each section below.)
 
-This order’s deliberate: the first couple items are quick, and will help "orient" you to the candidate's overall experience, and help focus where you look for the rest. \#3 is the hardest, and will reveal the most detail. The last is least important, and you can skip it if you've already got a clearly qualified applicant. But for those on the edge, these parts can add a bit of extra experience that pushes someone over.
+This order’s deliberate: the first couple items are quick, and will help "orient" you to the candidate's overall experience, and help focus where you look for the rest. \#2 is the hardest, and will reveal the most detail. The last is least important, and you can skip it if you've already got a clearly qualified applicant. But for those on the edge, these parts can add a bit of extra experience that pushes someone over.
 
 Remember that you’re reviewing a candidate’s entire submission package, which’ll include a resume and some Q&A, and possibly other links (e.g. to LinkedIn, a Github profile, etc). Make sure to scan the whole package for info that’s there, but maybe not on the cover letter. (But see [correcting for unconscious bias](./unconcious-bias.md) for an important note about avoiding social media).
 
@@ -98,32 +97,20 @@ You're also looking for a couple of "red flags":
 
 These won't necessarily feed into the formal score the person receives at this step, but if you spot stuff like this, it's good to make a note of it to pass on to the phone screen and/or interviews for clarification.
 
-### 2. Review responsibilities and accomplishments
+### 2. Review responsibilities, accomplishments, and relevant experience
 
 Next, look at each role, and what the candidate has written about that
-role. This is also quick: another minute or two.
+role. his is the time consuming part, but as you get more familiar with each crediting plan it'll get quicker. 
 
-You’re looking to see:
+For each role, you're looking to see:
 
 - What were the candidate's responsibilities in that role?
-
 - What were their accomplishments relative to those responsibilities?
-
-- Are these applicable to the crediting plan you've got in front of you? If so, make a note of the relevant items on the checklist or wherever else you're talking notes.
-
-Candidates who don't clearly indicate what their job was and don’t have clear
-accomplishments will get low scores -- you're looking for specifics that match the crediting plan.
-
-### 3. Review relevant experience
-
-Next, look to see how well their submission aligns with the requirements for the
-job. This is the time consuming part, but as you get more familiar with each crediting plan it'll get quicker. 
-
-One by one, take the criteria from the job
+- Are these applicable to the crediting plan you've got in front of you? One by one, take the criteria from the job
 scoring guides, and compare against the experience the candidate has
 cites. As you find relevant experience, mark it off.
 
-### 4. Bonus items
+### 3. Bonus items
 
 If you've got a candidate who's already clearly qualified (e.g. has shown 4+ criteria in each competency already), you can skip this step. But if not, you can look at a candidate's cited volunteer work, open source contributions, and the like -- there may be additional relevant experience there.
 
