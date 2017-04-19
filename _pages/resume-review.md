@@ -9,19 +9,19 @@ candidate, and this guide will help you figure out how to do that.
 
 Each position will come with a scoring rubric (the formal term for this is a "crediting plan"). This is how we get fairness out of the process: this guide gives the specific experience and qualifications required for the job, and lets you review resumes against a consistent set of requirements.
 
-Before you begin a review session, [remind yourself to watch out for unconscious bias](./unconcious-bias.md). Humans are not only biased, but we're almost never realize that we're being biased. However, when we realize and accept bias, and recognize it, we can be on the lookout for bias and it'll be less likely to unconsciously guide our decisions.
+Before you begin a review session, [remind yourself to watch out for unconscious bias]({{ site.baseurl }}/unconcious-bias/). Humans are not only biased, but we're almost never realize that we're being biased. However, when we realize and accept bias, and recognize it, we can be on the lookout for bias and it'll be less likely to unconsciously guide our decisions.
 
 ## Crediting plans
 
 Each position comes with a *crediting plan* -- a formal resume review rubric that we use to "score" resumes and separate applications into a set that'll move on to interviews, and a set we'll reject. 
 
-Check the sidebar for links to all the ones we have for engineering roles, and for convenient single-page checklists you can print out and use while reviewing resumes if you like.
+See [the list of crediting plans]({{ site.baseurl }}/crediting-plans/) for links to all the ones we have for engineering roles, and for convenient single-page checklists you can print out and use while reviewing resumes if you like.
 
 These guides are rather formal, so let's walk through what they look like. The relevant part of the guide for resume review purposes is the "crediting plan". The crediting plan breaks down into several *competencies*, with each competency having several *criteria*. As you review the resume, you're looking for evidence of these criteria. At the end, the application gets scored based on how many of each criteria are demonstrated, according to a scoring guide in the crediting plan. Note that there's a different crediting plan for each GS-level.
 
 Here's an example, from the Backend Engineer crediting plan, GS-15 version:
 
-![Crediting Plan Example]({{ site.url }}/assets/images/crediting-plan-example.png)
+![Crediting Plan Example]({{ site.baseurl }}/assets/images/crediting-plan-example.png)
 
 So, as you review the resume, you'll be looking for evidence of the things cited in the "criteria for job readiness" section: specific programming languages, relational databases, source control, etc. If the candidate meets 4 or more of those criteria, they'd get the full 20 points for this section. If the only have 2-3, they'd get 14 points. Just 1, or none? 0 points.
 

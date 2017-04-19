@@ -45,15 +45,9 @@ navigation:
   url: resume-review/
   internal: true
   children:
-    - text: Backend engineer crediting plan
-      url: https://docs.google.com/document/d/1A0G5Xa6KV3Rmfa9YyDvwtvvxGUP-6V4SiN2sqEZEfzQ/edit
-      internal: false
-    - text: Backend engineer checklist (GS-15)
-      url: https://docs.google.com/document/d/13rxXT3fpyHHtkRkIIjE0v0j_6dTgvpFJIjP14PqK5Jw/edit
-      internal: false
-    - text: Backend engineer checklist (GS-14) (not done)
-      url: FIXME
-      internal: false
+    - text: Crediting plans
+      url: crediting-plans/
+      internal: true
 - text: Technical Pre-work
   url: pre-work/
   internal: true
@@ -79,6 +73,9 @@ navigation:
     internal: true
 - text: Checking references
   url: checking-references/
+  internal: true
+- text: Training slide decks
+  url: slides/
   internal: true
 
 repos:
