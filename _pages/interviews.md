@@ -23,7 +23,7 @@ Ultimately, your goal in the interview is to **find a reason not to hire**. This
 
 - **Hiring the wrong person is a much worse outcome than not hiring a good fit.** Research bears this out: [*toxic employees are a massive drain on an organization*](https://hbr.org/2015/12/its-better-to-avoid-a-toxic-employee-than-hire-a-superstar), producing much more harm than the best employees produce good. Also, it’s far easier to undo a “no hire” than it is to undo a failed hire.
 
-- There are always more qualified applicants. This is especially true of the infosec roles: we can’t hire everyone qualified, not even close. So, we can afford to be super-selective.
+- There are always more qualified applicants - 18F has a high profile, and we don't struggle to find good candidates. So, we can afford to be super-selective.
 
 - If you approach an interview looking for a reason to hire someone: you’ll find it. Everyone has good qualities; they wouldn’t have made it to interview if not.
 
@@ -33,7 +33,7 @@ Now, **this isn’t an excuse to be a jerk!** Being selective is important, but 
 
 - **Be friendly and conversational.** This isn’t a police interview; it’s a two-way conversation. It’s entirely possible — easy, even — to be casual and conversational while also asking tough questions. You do it every day when you interact with your colleagues and discuss work topics; pretend the candidate is one of those co-workers.
 
-- It’s OK to ask tough questions, dig deep, and be skeptical — but **absolutely not OK to mock or belittle someone for a weak or incorrect answer**. If someone gives an answer that’s weak or that you disagree with, just take a note and move on.
+- It’s OK to ask tough questions, dig deep, and be skeptical — but **absolutely not OK to mock or belittle someone for a weak or incorrect answer**. If someone gives an answer that’s weak or that you disagree with, just take a note and move on. Especially watch out for subtle forms of putting people down for lack of knowledge (i.e. [no feigning surprise](https://www.recurse.com/manual#no-feigned-surprise)).
 
 - **Forgive a first mistake**. In an hour of interviewing, it’s almost a certainty that a candidate will make a mistake. Maybe they’ll get a technical thing wrong; maybe they’ll have a weak answer to one of your questions; maybe they’ll refer to engineers as “guys”. If this happens once: no big deal! Everyone makes mistakes. But, take a note, and watch for it to happen again. And compare notes with other interviewers at the end. Single mistakes are no big deal, but a pattern is a problem, so watch for it.
 
