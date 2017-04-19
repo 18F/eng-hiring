@@ -51,7 +51,7 @@ Preface saying there’s no right answer, that we’re just looking to talk thro
 
 Help guide the candidate to the right line of thinking, don’t allow them to get too bogged down in the wrong line of thinking, help them get back on track.
 
-### "Imagine you’re designing software to run elevators and talk through a high level design. How would accommodating different building types change your design?""
+### "Imagine you’re designing software to run elevators and talk through a high level design. How would accommodating different building types change your design?"
 
 #### Follow-ups
 
@@ -78,7 +78,7 @@ Help guide the candidate to the right line of thinking, don’t allow them to ge
 - Bogging down in implementation details
 - Inflexibility/very rigid designs
 
-### "Tell me about a difficult technical problem that you helped solve: what was the problem, and how was it solved?""
+### "Tell me about a difficult technical problem that you helped solve: what was the problem, and how was it solved?"
 
 #### Follow-ups
 
@@ -119,7 +119,7 @@ These quetsions look for the ability to apply agile and open source philosophies
 - That they talk about something technical, not just what agile is
 - Discussion of iteration and how that affects their design
 - Discusses roles of communication and end users
-- Talks about balancing extensibility vs. ‘you aint gonna need it’
+- Talks about balancing extensibility vs. ‘you ain’t gonna need it’
 - Candidate can discuss the downsides of agile
 - Candidate talks about refactoring as part of agile
 
@@ -151,7 +151,7 @@ This probes for the ability to develop software in a repeatable and documentable
 - Doesn’t show any understanding of balancing priorities
     - E.g. always refactoring or always writing throw away code
 
-### "Tell me about your approach to software testing. Why is it important and when have you done it? Where does it belong in the process?""
+### "Tell me about your approach to software testing. Why is it important and when have you done it? Where does it belong in the process?"
 
 Note: there is no right answer here, but we want candidates to understand that testing is part of the job here.
 
