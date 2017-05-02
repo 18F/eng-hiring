@@ -41,10 +41,8 @@ Ideally, these would be stable through the entire hiring cohort.
     - ideally, the same person for all candidates. if time doesn't permit, this could be 2 people
     - could be the same person as the Hiring Manager
 - Phone Screener (PS)
-    - could be one of the SMEs, or someone else
+    - will be one of the engineering supervisors or the director
     - conducts initial phone screen
-    - ideally, the same person for all candidates. if time doesn't permit, could be 2 people
-    - could be the Hiring Manager, but only if they're not also the Senior Interviewer (that's just too many hats for one person!)
 
 ## A word on cohorts
 
