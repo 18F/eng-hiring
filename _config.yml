@@ -41,6 +41,9 @@ navigation:
 - text: Correcting for unconscious bias
   url: unconcious-bias/
   internal: true
+- text: Conducting phone screens
+  url: phone-screens/
+  internal: true
 - text: Resume review guide
   url: resume-review/
   internal: true
