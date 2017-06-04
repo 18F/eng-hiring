@@ -72,7 +72,7 @@ a demanding interview while being kind and empathetic.
 means I’ll ask a series of questions about the code sample you submitted, how it
 works, why you made the choices you did, and so on. There are no “right”
 answers; I’m interested in talking through your code with you. I’ve got about
-4-5 questions, and this will take us about 30 minutes.
+4-5 questions, and this will take us about 30 minutes.*
 
 > *There’ll be times when I ask for more information, or want to dig deeper into
 your answers. That’s normal, too: I want to make sure I understand what you did
@@ -189,9 +189,9 @@ Your choices for code samples are:
    - Choose from one of these three exercises, and only complete a single
      exercise:
 
-        - https://github.com/adhocteam/homework/tree/master/slcsp
-        - https://github.com/adhocteam/homework/tree/master/proto
-        - https://github.com/adhocteam/homework/tree/master/hhbuilder
+     - https://github.com/adhocteam/homework/tree/master/slcsp
+     - https://github.com/adhocteam/homework/tree/master/proto
+     - https://github.com/adhocteam/homework/tree/master/hhbuilder
 
    - Each exercise has its own rules and instructions. Where our rules and Ad
      Hoc's differ, follow our rules. Let us know if you have questions!
