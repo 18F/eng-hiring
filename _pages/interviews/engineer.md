@@ -17,8 +17,7 @@ conclusions and decisions.
 **Remember to be as pleasant and friendly as you can be!** You can deliver
 a demanding interview while being kind and empathetic.
 
-[For more information on interviewing in general, check out the
-interviewing guide](..).
+[For more information on interviewing in general, check out the interviewing guide]({{ site.baseurl }}/interviews/).
 
 # Introductory Statement
 
