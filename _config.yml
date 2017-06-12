@@ -71,7 +71,7 @@ navigation:
   - text: Core Values Interview Guide
     url: core-values/
     internal: true
-  - text: Engineer Interview Guide
+  - text: Technical Interview Guide
     url: engineer/
     internal: true
 - text: Checking references
