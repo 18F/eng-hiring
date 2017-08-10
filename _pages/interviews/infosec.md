@@ -58,7 +58,7 @@ for candidates in all three roles.
 
 * [Tell me about a secure development practice (or tool) you helped introduce to an engineering team.](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.kp7l6vfz1yhg)
 
-* Tell me about a security-related topic that you helped someone from a non-security background learn.
+* [Tell me about a security-related topic that you helped someone from a non-security background learn.](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.tzmgeavlz1n8)
 
 ## Questions for Penetration Testers
 
