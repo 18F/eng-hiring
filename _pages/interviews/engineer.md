@@ -41,6 +41,10 @@ started!*
 
 # Questions
 
+Since this is a public document, only the questions themselves are published
+here. 18F staff: click through to see follow-ups and good/bad signs in the 
+full [engineering interview question bank](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#).
+
 ## Problem Solving
 
 These questions probe for the ability to design, analyze, synthesize and/or evaluate information
@@ -50,122 +54,18 @@ Preface saying there’s no right answer, that we’re just looking to talk thro
 
 Help guide the candidate to the right line of thinking, don’t allow them to get too bogged down in the wrong line of thinking, help them get back on track.
 
-### "Imagine you’re designing software to run elevators and talk through a high level design. How would accommodating different building types change your design?"
+* ["Imagine you’re designing software to run elevators and talk through a high level design. How would accommodating different building types change your design?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.tgd47iei6k4w)
 
-#### Follow-ups
-
-- If you only had a week to work on this problem, what would you do first?
-
-#### Great Signs
-
-- They consider what the system must do in detail
-    - If the candidate answers the question with a technical design:
-        - Sensible data model approach
-        - Modularity and eyes towards other reusability
-    - List of potential features
-- Thinking about constraints in the problem domain (embedded systems? Audits? etc.)
-- Presence of architectural/systems thinking
-- Foresight of what can go wrong
-- Asking follow up questions that show analysis of the problem
-- They probe for “minimum viable product” thinking, can break down the problem and prioritize
-- The candidate shows user-centered thinking/comes at it from a user-driven perspective
-- Candidate is able to acknowledge and move past complexity
-- Candidate can think and talk through the configuration options and constraints involved
-
-#### Warning signs
-
-- Bogging down in implementation details
-- Inflexibility/very rigid designs
-
-### "Tell me about a difficult technical problem that you helped solve: what was the problem, and how was it solved?"
-
-#### Follow-ups
-
-- If they got stuck? Did they ask for help?
-- What other options did you consider? Why didn’t you go with those?
-
-#### Great Signs
-
-- Expressing the problem in a way that the interviewers understand
-- Displays a collaborative and cooperative attitude
-- Using big-picture thinking - backing up to consider the reason for the need
-- Discussing alternative solutions
-- Candidate addresses the people part of the problem and solution
-- Candidate is candid about their own mistakes
-- The candidate can speak to a reasonable degree of detail about the problem, its cause and solution
-- Candidate prefers convention and established solutions where appropriate
-- Candidate discusses lessons learned/what could be done better in the future
-
-#### Warning Signs
-
-- “I don’t make mistakes”
-- Deferring to authorities without understanding (e.g. “DHH says X so I did it that way” or “I found a blog post that I copy-pasted from” if they don’t then indicate that they understood what they had learned.)
+* ["Tell me about a difficult technical problem that you helped solve: what was the problem, and how was it solved?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.ory7bezha9al)
 
 ## Agile Orientation
 
-These quetsions look for the ability to apply agile and open source philosophies to deliver work in a frequent and iterative fashion to address user needs.
-
-### "Tell me about your experience with agile or other collaborative working styles. How does working in an agile way affect the technical choices you make?"
-
-#### Follow-ups
-
-- If the candidate hasn’t worked in an agile environment before, describe how we work, and determine their willingness to work in that way (cross disciplinary self organizing team)
-- “Can you give me a specific example?” (a good follow-up for candidates with general, buzzword-y answers)
-- (For candidates who’ve experienced agile development before): “What worked about that method of practicing agile? What could have gone better?”
-
-#### Great Signs
-
-- That they talk about something technical, not just what agile is
-- Discussion of iteration and how that affects their design
-- Discusses roles of communication and end users
-- Talks about balancing extensibility vs. ‘you ain’t gonna need it’
-- Candidate can discuss the downsides of agile
-- Candidate talks about refactoring as part of agile
-
-#### Warning Signs
-
-- Buzzwords without content.
-- Agility words applied to waterfall thinking without an understanding that that is a pattern to avoid
+* ["Tell me about your experience with agile or other collaborative working styles. How does working in an agile way affect the technical choices you make?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.p3zgydisjuv3)
 
 ## Maintainable Software Development
 
 This probes for the ability to develop software in a repeatable and documentable way, with emphasis on automation, testing, measuring, and scaling infrastructure.
 
-### "What does refactoring mean to you? Why is it important and when have you done it? Where does it belong in the process?"
+* ["What does refactoring mean to you? Why is it important and when have you done it? Where does it belong in the process?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.iiceusfwxdz6)
 
-#### Follow-ups
-
-- How does testing fit into refactoring?
-- Tell me about some of your refactoring techniques and approaches?
-
-#### Great Signs
-
-- Mentions of clarity and extensibility as goals
-- Candidate talks about refactoring as you go
-- Candidate is able to articulate trade-offs of refactoring vs feature development
-- Candidate understands the costs and benefits of technical debt
-
-#### Warning Signs
-
-- Doesn’t show any understanding of balancing priorities
-    - E.g. always refactoring or always writing throw away code
-
-### "Tell me about your approach to software testing. Why is it important and when have you done it? Where does it belong in the process?"
-
-Note: there is no right answer here, but we want candidates to understand that testing is part of the job here.
-
-#### Great signs
-
-- They talk about unit testing, test coverage metrics
-- They talk about test driven development
-- They talk about working with a QA engineer or department, if they have mostly worked in environments where testing was QA’s job.
-    - Specifically talk about collaborating with that person or people, and why siloing the groups can be bad.
-- They mention a few kinds of testing: unit testing, functional testing, integration testing, etc.
-    - For each kind of testing they mention, they understand the purpose of each (instead of just using them as buzzwords)
-- They talk about how testing makes agile development/refactoring easier
-
-#### Warning Signs
-
-- Doesn’t believe testing is important
-- Insists QA people are the only solution.
-- Insists unit tests are enough.
+* ["Tell me about your approach to software testing. Why is it important and when have you done it? Where does it belong in the process?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.8vmh70tr7j6b)

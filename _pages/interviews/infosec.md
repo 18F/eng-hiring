@@ -41,197 +41,27 @@ you did and why. I’ll be taking notes, please don’t let that distract you.*
 any questions you’ve got for me. I’m excited you’re here - let’s get
 started!*
 
-# General questions
+## General questions
 
 These questions cover commonalities about all security roles, and are
 for candidates in all three roles.
 
-## Tell me about an existing security practice or process that you helped improve.
+* [Tell me about an existing security practice or process that you helped improve.](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.5z8517vrmoea)
 
-#### Follow-ups 
+* [Tell me about how you have worked with a team to remediate a security issue.](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.1s7pt8lyer05)
 
-- "What was the situation?"
-- "What did you do? Why?"
-- "What other options did you consider? Why did you decide on the path you took?"
-- "What were the challenges along the way?"
-- "What was the outcome? What did you learn?"
+* [Tell me about an innovative idea (i.e. a tool, practice, or policy) that you helped introduce.](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.v2fk06y6uimr)
 
-#### Great Signs
+* [Describe a situation where you disagreed with someone about a security issue.](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.t6dedwrnx2k8)
 
-- Understands and articulates how the change improved security posture
-- Made changes systematically and broadly
-- Understands and articulates required tradeoffs
-- Makes methodical, data-driven changes to practice/policy
+## Questions for Application Security Engineers and Security Operations Engineers
 
-#### Warning Signs
+* [Tell me about a secure development practice (or tool) you helped introduce to an engineering team.](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.kp7l6vfz1yhg)
 
-- Addresses practices/processes on an ad-hoc basis
-- Can’t articulate trade-offs in the chosen approach.
-- Did not analyze required change methodically
-- Cannot demonstrate an improved outcome
+* Tell me about a security-related topic that you helped someone from a non-security background learn.
 
+## Questions for Penetration Testers
 
-## Tell me about how you have worked with a team to remediate a security issue.
+* [Tell me about a particularly interesting vulnerability that you discovered.](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.7x7o7oomtxsw)
 
-#### Follow-ups 
-
-- "What was the issue?"
-- "What was the fix? What other approaches did you consider?"
-- "How did you communicate with the rest of the team?"
-- "How did you and the rest of the team stay aligned on the required work?"
-- "What was the outcome? What did you learn?"
-
-#### Great signs:
-
-- Communicated clearly throughout the process
-- Worked to ensure high alignment continuously
-- Adopts a team mentality about the fix
-- Worked to increase the team’s understanding of the issue and fix
-
-#### Warning signs:
-
-- Did not make sure the problem was clearly understood by the rest of the team
-- Did not make efforts to explain to the rest of the team, only highlight errors
-- Failed to get results, or got results by escalating or manipulating the process
-- Finds faults in teammates, or pulls “hero shifts”, rather than working collaboratively
-- Adopts an “us and them” mentality between security and other teams
-
-## Tell me about an innovative idea (i.e. a tool, practice, or policy) that you helped introduce.
-
-#### Follow-ups
-
-- "What was the new idea? What problem did it solve?"
-- "How was the new idea an improvement on the previous thing?"
-- "How did you manage the change?"
-- "What was the outcome? What did you learn?"
-
-### Great signs:
-
-- Achieved desired outcome
-- Idea shows sensitivity to context and applicability
-
-### Warning signs:
-
-- Idea was implemented without consideration for others
-- Used role / power rather than persuasion to implement
-- Improvement was unsuccessful or incomplete
-- Idea for “new for newness sake”, rather than showing a strong understanding of context
-
-## Describe a situation where you disagreed with someone about a security issue.
-
-#### Follow-ups:
-
-- "What was the issue? What was the disagreement?"
-- "What was your point of view? What was theirs?"
-- "How did you resolve the disagreement? What was the final decision?"
-- "How did you feel about the outcome? How did the other party feel?"
-- "What did you learn?"
-
-#### Great signs:
-
-- Clearly understands and articulates both points of view
-- Disagreement resolved amicably, to mutual satisfaction
-
-#### Warning signs:
-
-- Unable to articulate/empathize with the other point of view
-- Disagreement not resolved
-- Disagreement resolved through role power, escalation, or other non-collaborative method
-
-----
-
-# Questions for Application Security Engineers and Security Operations Engineers
-
-## Tell me about a secure development practice (or tool) you helped introduce to an engineering team.
-
-#### Follow-ups
-
-- "What was the practice/tool? What problem did it solve?"
-- "How was this an improvement on the previous thing?"
-- "How did you teach people to use the new practice?"
-- "What was the outcome? What did you learn?"
-
-#### Great signs:
-
-- Achieved desired outcome
-- Idea shows sensitivity to context and applicability
-- Thinks carefully about how engineers learned
-- Clear goals and measures for adoption
-
-#### Warning signs:
-
-- Unclear on the problem/issue the practice solved
-- New practice was implemented without consideration for others
-- Used role power rather than persuasion to implement
-
-## Tell me about a security-related topic that you helped someone from a non-security background learn.
-
-#### Follow-ups
-
-- "What was the topic? How did you teach it?"
-- "Who were you teaching? Why?"
-- "Where did they get stuck? How did you help unstick them?"
-- "What was the outcome? What did you learn?"
-
-#### Great signs:
-
-- Understands and explains topic clearly
-- Understands how to tailor strategy to different learning styles
-- Shows empathy and understanding of different knowledge backgrounds
-
-#### Warning signs:
-
-- Does not describe topic clearly
-- Did not tailor teaching strategy to individuals
-- Shows disdain or mocks non-technical people
-
-----
-
-# Questions for Penetration Testers
-
-## Tell me about a particularly interesting vulnerability that you discovered.
-
-#### Follow-ups:
-
-- "What was the vulnerability? How did you find it?"
-- "Where did you get stuck while researching the vulnerability? How did you get unstuck?"
-- "How did you report the issue? How was the report received?"
-- "What was the outcome? What did you learn?"
-
-#### Great signs:
-
-- Is animated and excited when talking about the situation
-- Has a system for discovering vulnerabilities
-- Analyzed the issue in depth
-- Vulnerability is especially novel: requires multiple steps, requires “out of the box” thinking, etc
-- Communicated/reported the issue appropriately and effectively
-
-#### Warning signs:
-
-- Doesn’t have a systematic approach (“lucked in” to the discovery)
-- Vulnerability isn’t particularly novel or interesting
-- Did not analyze in depth
-- Reported the issue too broadly/narrowly
-
-## Tell me about a time when you reported an issue you discovered to a development team.
-
-#### Follow-ups
-
-- "What was the issue?"
-- "How did you communicate that issue to the development team?"
-- "What remediation steps did you suggest?"
-- "What were the actual remediation steps taken? How and why did they differ?"
-- "What was the outcome? What did you learn?"
-
-#### Great signs:
-
-- Communicated clearly throughout the process
-- Adopts a team mentality about the fix
-- Worked to increase the team’s understanding of the issue and fix
-
-#### Warning signs:
-
-- Did not make sure the problem was clearly understood by the rest of the team
-- Did not make efforts to explain to the rest of the team, only highlight errors
-- Failed to get results, or got results by escalating or manipulating the process
-- Adopts an “us and them” mentality between security and other teams
+* [Tell me about a time when you reported an issue you discovered to a development team.](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.9egaga9vhkzm)
