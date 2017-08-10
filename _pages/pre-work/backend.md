@@ -18,9 +18,6 @@ Before the interview, prepare by reviewing the code, trying to run it (and the
 tests), and thinking about questions you'll want to ask the candidate during
 the interview (see below).
 
-The code review is part of the interview, too, so below are some good and bad
-signs to look for in the code; remember to [take notes]({{ site.baseurl }}/interviews/#take-notes)
-
 As you review, remember that candidate only spent about 3 hours on this code;
 it doesn't need to be perfect. It should work, and solve the problem assigned,
 but minor issues, rough edges, and less-than-perfect parts are totally fine.
@@ -28,26 +25,7 @@ A good way to think about this: you're looking for code that's about the
 same level as you might expect on an initial pull request. It might not be
 perfect yet, but that's what code review is for.
 
-#### Great Signs
-
-- The code works as expected, and solves the problem.
-- Code is clear, concise, well-commented, and readable -- in other words, you'd
-  give this code a :+1: in a code review.
-- Code looks idiomatic and demonstrates an understanding of the language's
-  generally-accepted best practices.
-- Instructions to run the code are clear and correct.
-
-#### Red Flags
-
-- You can't run the code after several attempts.
-- It runs, but doesn't produce the correct answer.
-- There are no tests, or the tests don't pass.
-- There are no included instructions to run the code/tests, or those
-  instructions don't work or are incorrect.
-- The code is messy, lacks comments, or is hard to read/follow.
-- The code is written in a style that doesn't match the language's
-  common conventions and practices (for example, Python or Ruby code
-  that "reads like Java").
+For the list of things to look for during code review, see: [what to look for during code review](https://docs.google.com/document/d/12q9DsSSdqV388M6DOncun28ZDRT-B6wXrsrG5PbTsAA/edit#heading=h.t0hley37jiee)
 
 ## The Code Review Interview
 
@@ -110,29 +88,8 @@ and when to stick to the suggestions below.
   do differently?
 - What would you do differently if you had a whole week to work on this problem?
 
-#### Great Signs
-
-- Candidate explains their code clearly, and can walk you through
-  even the tricky bits.
-- Candidate talks about tradeoffs and alternate solutions, and can explain
-  why they chose the one they did.
-- Candidate  demonstrates an understanding of the language's
-  generally-accepted best practices, and explains how they've
-  translated into their code.
-- Candidate talks about different testing strategies (e.g. TDD) and tools (e.g.
-  coverage) and can explain why the did and chose what they did.
-- Candidate can suggest several alternatives to their solution when given
-  various restrictions (not using certain modules, etc.)
-
-#### Red Flags
-
-- Candidate can't explain why their code work, or why they made the choices they
-  made.
-- Candidate's explanations are incorrect in some way.
-- Candidate is uninterested or uninformed about testing strategies/tools, and
-  can't explain why or how they test.
-- Candidate can't offer alternate solutions, or things they'd do differently in
-  other situations.
+For the list of things to look for, see:
+[what to look for during the code review interview](https://docs.google.com/document/d/12q9DsSSdqV388M6DOncun28ZDRT-B6wXrsrG5PbTsAA/edit#heading=h.3gbcjktxiy0)
 
 ## Instructions to Candidates
 
