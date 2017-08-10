@@ -43,7 +43,7 @@ navigation:
   internal: true
 - text: Conducting phone screens
   url: https://docs.google.com/document/d/1La5M7YojZFEc0lvpQZ4Kc7dL8UgssBoJe3FqmmJwmK4/edit#
-  internal: true
+  internal: false
 - text: Resume review guide
   url: resume-review/
   internal: true
