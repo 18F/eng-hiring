@@ -19,15 +19,21 @@ See [the list of crediting plans]({{ site.baseurl }}/crediting-plans/) for links
 
 These guides are rather formal, so let's walk through what they look like. The relevant part of the guide for resume review purposes is the "crediting plan". The crediting plan breaks down into several *competencies*, with each competency having several *criteria*. As you review the resume, you're looking for evidence of these criteria. At the end, the application gets scored based on how many of each criteria are demonstrated, according to a scoring guide in the crediting plan. Note that there's a different crediting plan for each GS-level.
 
-Here's an example, from the Backend Engineer crediting plan, GS-15 version:
+Here's what an example bit from a crediting plan could look like for a hypothetical Teapot Engineer position:
 
-![Crediting Plan Example]({{ site.baseurl }}/assets/images/crediting-plan-example.png)
+> **Teapot Engineering Technical Experience**: ability to use a variety of teapot construction technologies to deliver solutions in the  hot-water and leaf-steeping domain.
+>
+> **Criteria for Job Readiness**
+> * Cites experience building teapots out of a variety of materials, including clay, metal, plastic, etc.
+> * Cites experience in teapot design, including spout geometry, handle design, etc.
+> * Cites experience developing leaf-containment devices out of materials such as metal mesh, cloth, plastic drippers, etc.
+> * [And so on ...]
+>
+See [the list of crediting plans]({{ site.baseurl }}/crediting-plans/) for our current active crediting plans, which'll have more domain-specific examples.
 
-So, as you review the resume, you'll be looking for evidence of the things cited in the "criteria for job readiness" section: specific programming languages, relational databases, source control, etc. If the candidate meets 4 or more of those criteria, they'd get the full 20 points for this section. If the only have 2-3, they'd get 14 points. Just 1, or none? 0 points.
+So, as you review the resume, you'll be looking for evidence of the things cited in the "criteria for job readiness" section: specific programming languages, relational databases, source control, etc. The crediting plan will tell you have to "score" that section.
 
-(These numbers and point values will be the same for each competency, and we're going to try to keep them consistent throughout all the engineering roles.)
-
-It's hard to find "hard proof" of any of this on a resume, so don't concern yourself too much with quantifying exactly *how much* experience someone has, or how *well* they've done these things. If they mention the experience required, it counts. The interview process should shake out how *well* they know these things.
+It's hard to find "hard proof" of any of this on a resume, so don't concern yourself too much with quantifying exactly *how much* experience someone has, or how *well* they've done these things. Remember: your role here is that of subject mater expert; it's OK for you to infer experience from context. Remember we still have interviews to suss out skill level, so it's OK to be generous about infering experience.
 
 ## How to review a resume
 
