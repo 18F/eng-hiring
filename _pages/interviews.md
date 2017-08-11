@@ -2,7 +2,7 @@
 title: Interviewing
 ---
 
-This is a guide for interviewers conducting engineering interviews. Everyone who's conducinting interviews in engineering should read this guide so that as much as possible we can present a fair, consistant interview process to all candidates
+This is a guide for interviewers conducting engineering interviews. Everyone who's conducinting interviews in engineering should read this guide so that as much as possible we can present a fair, consistant interview process to all candidates.
 
 To sum up:
 
@@ -31,7 +31,7 @@ Ultimately, your goal in the interview is to **find a reason not to hire**. This
 
 Now, **this isn’t an excuse to be a jerk!** Being selective is important, but so is being nice. We can have high standards without being mean about it. This means:
 
-- **Be friendly and conversational.** This isn’t a police interview; it’s a two-way conversation. It’s entirely possible — easy, even — to be casual and conversational while also asking tough questions. You do it every day when you interact with your colleagues and discuss work topics; pretend the candidate is one of those co-workers.
+- **Be friendly and conversational.** This isn’t an interrogation; it’s a two-way conversation. It’s entirely possible — easy, even — to be casual and conversational while also asking tough questions. You do it every day when you interact with your colleagues and discuss work topics; pretend the candidate is one of those co-workers.
 
 - It’s OK to ask tough questions, dig deep, and be skeptical — but **absolutely not OK to mock or belittle someone for a weak or incorrect answer**. If someone gives an answer that’s weak or that you disagree with, just take a note and move on. Especially watch out for subtle forms of putting people down for lack of knowledge (i.e. [no feigning surprise](https://www.recurse.com/manual#no-feigned-surprise)).
 
@@ -42,11 +42,11 @@ Now, **this isn’t an excuse to be a jerk!** Being selective is important, but 
 <a name="kick-off"></a>
 ## Kicking off the interview
 
-Before you begin each interview, [remind yourself to watch out for unconcious bias](./unconcious-bias.md). Remember that we’re especially susceptible to assume that underrepresented minorities -- women, people of color, etc. -- are less qualified than their white male counterparts. Be wary of “gut decisions” that aren’t backed up by specific behavior you’ve noted during the interview (this is one reason we ask behavioral questions, and try to take notes behaviorally). 
+Before you begin each interview, [remind yourself to watch out for unconcious bias](unconcious-bias/). Remember that we’re especially susceptible to assume that underrepresented minorities -- women, people of color, etc. -- are less qualified than their white male counterparts. Be wary of “gut decisions” that aren’t backed up by specific behavior you’ve noted during the interview (this is one reason we ask behavioral questions, and try to take notes behaviorally). 
 
 When you first get on the call with the candidate, it’s a good idea to spend a quick minute explaining how the interview will go, and what the interviewee can expect. Here’s the script I use:
 
-> *Hi, I’m Jacob; I’m the Security Lead on the Engineering team at 18F.*
+> *Hi, I’m Jacob; I’m a Supervisor on the Engineering team at 18F.*
 >
 > *Thanks for interviewing with me today. This’ll be a behavioral interview, which means I’ll ask a series of questions about experiences you’ve had and how you handled them. There are no “right” answers; I’m interested in talking through these situations with you. I’ll ask maybe 5-7 questions, and this will take us about an hour, perhaps a bit less. Don’t be surprised if others ask the same questions in other interviews; that’s normal.*
 >
@@ -65,7 +65,7 @@ These guides exist for a reason: by asking all candidates the same questions, we
 
 There are two more questions not in the guides that you might want to ask:
 
-- **“Tell me about yourself”**: this is a great opening question, and gives a candidate a chance to “sell” themselves. Letting a candidate It can also suggest which follow-up questions from the interview guide will be the best to ask next, and can guide the direction of the interview from then on out. If you ask this question, it’s probably appropriate to spend maybe 5-10 minutes on it.
+- **“Tell me about yourself”**: this is a great opening question, and gives a candidate a chance to “sell” themselves. It can also suggest which follow-up questions from the interview guide will be the best to ask next, and can guide the direction of the interview from then on out. If you ask this question, it’s probably appropriate to spend maybe 5-10 minutes on it.
 
 - **“Do you have any questions for me?”**: this is a good final question; it gives candidates a chance to ask *you* something they might be wondering. It can also reveal some of a candidate’s values. I like to leave about 5-10 minutes at the end of the interview to ask this question.
 
@@ -74,7 +74,7 @@ Whenever possible, ask these questions exactly as they’re worded to try to get
 <a name="dig-deep"></a>
 ## … but not dogmatically: feel free to dig deep.
 
-It’s important to start with the guides… **but the real meat of the interview is in how you follow-up**, dig deep, and ask questions. Don’t hesitate to interrupt if a candidate is going in a tangent you don’t have time for: they’ll be thankful for you keeping them on track.
+It’s important to start with the guides… **but the real meat of the interview is in how you follow-up**, dig deep, and ask questions. Don’t hesitate to interrupt if a candidate is going on a tangent you don’t have time for: they’ll be thankful for you keeping them on track.
 
 Follow-ups are also how you get technical information out of behavior questions. Push candidates to get super-specific about their tool choices, how well they know/use those tools, what their experiences were, etc.
 
@@ -82,7 +82,7 @@ Because these questions are behavioral, it’s important that you really underst
 
 This means you definitely won’t get to all the questions in the guides. This is fine! I typically start with the same couple of questions, but then let the candidate’s answers determine where I go next.
 
-**Check Lever before the interview begins**: you can review the candidate’s response, and the phone screener may have left notes about what to dig for in interviews; this can help you choose your questions wisely. (These notes should also be in your calendar invite.)
+**Check the candidate documents before the interview begins**: you can review the candidate’s response, and the phone screener may have left notes about what to dig for in interviews; this can help you choose your questions wisely. (These notes should also be in your calendar invite.)
 
 <a name="take-notes"></a>
 ## Take good notes: behavioral is best
@@ -108,13 +108,13 @@ to the hiring manager. This should consist of two parts:
 1. A "hire" or "no-hire" recommendation. Yes, we're trying to force you to make a hard call. If you're not sure, that's a "no-hire".
 2. Justification for that recomendation, based on what you observed during the interview. Please be as specific as possible, and include as much detail from your notes as you can. Again, focus on what the candidate said or did, rather than how you interpreted it.
 
-If the written feedback is especially controversial, the Hiring Manager may schedule some time to talk over the feedback. 
+If the written feedback is unclear or especially controversial, the Hiring Manager may schedule some time to talk over the feedback. 
 
 <a name="pull-the-plug"></a>
 ## If there’s a disaster, considering ending interviews early
 
-If something really huge went wrong, or if there’s a massive red flag, talk to Jacob and Esther about possibly ending interviews early.
+If something really huge went wrong, or if there’s a massive red flag, talk the Hiring Manager and Talent about possibly ending interviews early.
 
 This is a pretty rare and extreme thing; someone would have to exhibit truly out-of-line behavior to consider this. For example: repeated sexist behavior, telling an obvious and egregious lie and doubling-down when challenged, showing up to an interview intoxicated, etc (these are all things that have actually happened to me). Something this bad is rare, but if it happens it’s not worth continuing.
 
-If you get a massive red flags: ping Esther and Jacob and we’ll decide if we should stop at this point.
+If you get a massive red flags: ping Talent and the Hiring Manager and we’ll decide if we should stop at this point.
