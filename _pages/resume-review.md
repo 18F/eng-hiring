@@ -7,9 +7,9 @@ This is a guide for staff conducting resume review (or, in formal speak "crediti
 Your main goal as a resume reviewer is to be **quick** and **fair**. You should aim to spend 5-10 minutes per
 candidate, and this guide will help you figure out how to do that.
 
-Each position will come with a scoring rubric (the formal term for this is a "crediting plan"). This is how we get fairness out of the process: this guide gives the specific experience and qualifications required for the job, and lets you review resumes against a consistent set of requirements.
+Each position will come with a scoring rubric (the formal term for this is a "crediting plan"). This is how we get fairness from the process: this guide gives the specific experience and qualifications required for the job, and lets you review resumes against a consistent set of requirements.
 
-Before you begin a review session, [remind yourself to watch out for unconscious bias]({{ site.baseurl }}/unconcious-bias/). Humans are not only biased, but we're almost never realize that we're being biased. However, when we realize and accept bias, and recognize it, we can be on the lookout for bias and it'll be less likely to unconsciously guide our decisions.
+Before you begin a review session, [remind yourself to watch out for unconscious bias]({{ site.baseurl }}/unconcious-bias/). Humans are not only biased, but we're almost never realize that we're being biased. However, when we recognize and accept bias we can be on the lookout and it'll be less likely to unconsciously guide our decisions.
 
 ## Crediting plans
 
@@ -35,7 +35,7 @@ OK, you've got the crediting plan; how do you use it to review a resume?
 
 It may seem daunting to try to work through this guide in under 10
 minutes, but if you’re consistent and follow a simple workflow, you can
-blaze through and get good results quickly. 
+get good consistent results quickly. 
 
 When you look at a resume, look at the following things, in this order:
 
@@ -47,7 +47,7 @@ When you look at a resume, look at the following things, in this order:
 
 This order’s deliberate: the first couple items are quick, and will help "orient" you to the candidate's overall experience, and help focus where you look for the rest. \#2 is the hardest, and will reveal the most detail. The last is least important, and you can skip it if you've already got a clearly qualified applicant. But for those on the edge, these parts can add a bit of extra experience that pushes someone over.
 
-Remember that you’re reviewing a candidate’s entire submission package, which’ll include a resume and some Q&A, and possibly other links (e.g. to LinkedIn, a Github profile, etc). Make sure to scan the whole package for info that’s there, but maybe not on the cover letter. (But see [correcting for unconscious bias](./unconcious-bias.md) for an important note about avoiding social media).
+Remember that you’re reviewing a candidate’s entire submission package, which’ll include a resume and some Q&A, and possibly a cover letter and other links (e.g. to LinkedIn, a Github profile, etc). Make sure to scan the whole package for info that’s there, but maybe not on the cover letter. (But see [correcting for unconscious bias](./unconcious-bias.md) for an important note about avoiding social media).
 
 You’ll want to have the crediting plan open in front of you as you proceed. You may want to print out the single-page checklist for the relevant position and grade level, and use it to mark off experience as you go.
 
@@ -80,12 +80,12 @@ You're also looking for a couple of "red flags":
   parenting, etc. But a pattern of repeated long gaps between every
   job over a long time indicates a weaker candidate.
 
-These won't necessarily feed into the formal score the person receives at this step, but if you spot stuff like this, it's good to make a note of it to pass on to the phone screen and/or interviews for clarification.
+These won't necessarily feed into the formal score the person receives at this step, the score is entirely determined by the crediting plan. However if you spot stuff like this it's good to make a note of it to pass on to the phone screen and/or interviews for clarification.
 
 ### 2. Review responsibilities, accomplishments, and relevant experience
 
 Next, look at each role, and what the candidate has written about that
-role. his is the time consuming part, but as you get more familiar with each crediting plan it'll get quicker. 
+role. This is the time consuming part, but as you get more familiar with each crediting plan it'll get quicker. 
 
 For each role, you're looking to see:
 
