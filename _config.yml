@@ -84,7 +84,7 @@ navigation:
 repos:
 - name: 18F Engineering Hiring Guide
   description: Main repository
-  url: https://github.com/18F/engineering-hiring
+  url: https://github.com/18F/eng-hiring
 
 google_analytics_ua: UA-48605964-19
 
