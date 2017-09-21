@@ -6,7 +6,7 @@ GEM
     go_script (0.1.9)
       bundler (~> 1.10)
       safe_yaml (~> 1.0)
-    guides_style_18f (1.0.1)
+    guides_style_18f (1.0.4)
       jekyll
       jekyll_pages_api
       jekyll_pages_api_search
@@ -51,10 +51,10 @@ PLATFORMS
 
 DEPENDENCIES
   go_script
-  guides_style_18f
+  guides_style_18f (~> 1.0.4)
   jekyll
   redcarpet
   rouge
 
 BUNDLED WITH
-   1.12.5
+   1.15.4
