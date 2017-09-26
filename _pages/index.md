@@ -9,11 +9,11 @@ turning over a candidate to HR for an offer.
 At a high level, the process looks like this:
 
 1. We post a job ad for a limited period of time, and collect resumes.
-2. Resume review: we review and score resumes given our scoring guides. 
+2. Resume review: we review and score resumes given our scoring guides.
 3. All resume scores handed back to HR, who review the cohort. Top candidates move on.
 4. Phone screen: an initial 30 minute phone screen - passing candidates move on.
 5. Pre-work: candidates will be asked to come to interviews with some position-specific pre-work (typically, code to show)
-6. Interviews: 
+6. Interviews:
     - Technical: pre-work review with technical interviewer
     - Technical: questions from the position-specific tech interview guide.
     - Core values: questions from the (shared) core values guide
