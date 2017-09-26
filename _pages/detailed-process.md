@@ -50,7 +50,7 @@ We collect review applications in *cohorts*: this means open applications for a 
 
 Any changes to the process or guides should happen between cohorts (probably: as the result of a retrospective on the cohort). Of course, if there are egregious errors, mid-stream corrections are OK, but as much as possible we should strive to present the same selection process to every candidate.
 
-This helps ensure consistency and fairness consistency into the process. It also lets us collect statistics and compare results between cohorts, letting us take a more data-driven approach to hiring.
+This helps ensure consistency and fairness into the process. It also lets us collect statistics and compare results between cohorts, letting us take a more data-driven approach to hiring.
 
 ## Selection Process
 
