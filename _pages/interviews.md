@@ -2,7 +2,7 @@
 title: Interviewing
 ---
 
-This is a guide for interviewers conducting engineering interviews. Everyone who's conducinting interviews in engineering should read this guide so that as much as possible we can present a fair, consistant interview process to all candidates.
+This is a guide for interviewers conducting engineering interviews. Everyone who's conducting interviews in engineering should read this guide so that as much as possible we can present a fair, consistent interview process to all candidates.
 
 To sum up:
 
@@ -11,7 +11,7 @@ To sum up:
 * [Please follow the guides…](#follow-the-guides)
 * [… but not dogmatically: feel free to dig deep.](#dig-deep.)
 * [Take good notes: behavioral is best](#take-notes)
-* After the inteview, [submit a written "hire/no-hire" recommendation, with justification](#written-recommendation)
+* After the interview, [submit a written "hire/no-hire" recommendation, with justification](#written-recommendation)
 * [If there’s a disaster, considering ending interviews early](#pull-the-plug)
 
 Click each section for more details.
@@ -37,12 +37,12 @@ Now, **this isn’t an excuse to be a jerk!** Being selective is important, but 
 
 - **Forgive a first mistake**. In an hour of interviewing, it’s almost a certainty that a candidate will make a mistake. Maybe they’ll get a technical thing wrong; maybe they’ll have a weak answer to one of your questions; maybe they’ll refer to engineers as “guys”. If this happens once: no big deal! Everyone makes mistakes. But, take a note, and watch for it to happen again. And compare notes with other interviewers at the end. Single mistakes are no big deal, but a pattern is a problem, so watch for it.
 
-- **If you come to a conclusion very quickly, in the first few minutes of the interview, spend the rest of the interview trying to disprove that snap judgement.** Snap judgements are much more likely to be prone to bias than considered ones. We tend to jump to conclusions and then look for evidence to support our hypothesis. To compensate, if you find you’ve reached a Yes/No conclusion very quickly, spend the rest of the interview trying to disprove that hypothesis. Explicitly look for evidence that you’re wrong. If you’ve decided immediately that a candidate is not qualified, ask targeted questions and spend rest of the interview trying as hard as you can to find evidence that they are qualified.
+- **If you come to a conclusion very quickly, in the first few minutes of the interview, spend the rest of the interview trying to disprove that snap judgement.** Snap judgement are much more likely to be prone to bias than considered ones. We tend to jump to conclusions and then look for evidence to support our hypothesis. To compensate, if you find you’ve reached a Yes/No conclusion very quickly, spend the rest of the interview trying to disprove that hypothesis. Explicitly look for evidence that you’re wrong. If you’ve decided immediately that a candidate is not qualified, ask targeted questions and spend rest of the interview trying as hard as you can to find evidence that they are qualified.
 
 <a name="kick-off"></a>
 ## Kicking off the interview
 
-Before you begin each interview, [remind yourself to watch out for unconcious bias](unconcious-bias/). Remember that we’re especially susceptible to assume that underrepresented minorities -- women, people of color, etc. -- are less qualified than their white male counterparts. Be wary of “gut decisions” that aren’t backed up by specific behavior you’ve noted during the interview (this is one reason we ask behavioral questions, and try to take notes behaviorally). 
+Before you begin each interview, [remind yourself to watch out for unconscious bias](unconscious-bias/). Remember that we’re especially susceptible to assume that underrepresented minorities -- women, people of color, etc. -- are less qualified than their white male counterparts. Be wary of “gut decisions” that aren’t backed up by specific behavior you’ve noted during the interview (this is one reason we ask behavioral questions, and try to take notes behaviorally).
 
 When you first get on the call with the candidate, it’s a good idea to spend a quick minute explaining how the interview will go, and what the interviewee can expect. Here’s the script I use:
 
@@ -106,9 +106,9 @@ After you interview a candidate, you'll need to submit a written recommendation
 to the hiring manager. This should consist of two parts:
 
 1. A "hire" or "no-hire" recommendation. Yes, we're trying to force you to make a hard call. If you're not sure, that's a "no-hire".
-2. Justification for that recomendation, based on what you observed during the interview. Please be as specific as possible, and include as much detail from your notes as you can. Again, focus on what the candidate said or did, rather than how you interpreted it.
+2. Justification for that recommendation, based on what you observed during the interview. Please be as specific as possible, and include as much detail from your notes as you can. Again, focus on what the candidate said or did, rather than how you interpreted it.
 
-If the written feedback is unclear or especially controversial, the Hiring Manager may schedule some time to talk over the feedback. 
+If the written feedback is unclear or especially controversial, the Hiring Manager may schedule some time to talk over the feedback.
 
 <a name="pull-the-plug"></a>
 ## If there’s a disaster, considering ending interviews early

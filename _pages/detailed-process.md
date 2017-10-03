@@ -19,7 +19,7 @@ Ideally, these would be stable through the entire hiring cohort.
     - leads the hiring from the Talent team
     - process manager, overseeing the process from start to finish
     - primary point of contact for candidates
-    - liason with HR
+    - liaison with HR
 - Hiring Manager (HM) - the Engineering Director, or delegate
     - leads the project from the Engineering team
     - together with the Talent Lead, selects SMEs for resume reviews/interviews
@@ -48,9 +48,9 @@ Ideally, these would be stable through the entire hiring cohort.
 
 We collect review applications in *cohorts*: this means open applications for a limited time (typically about a month), then close the application and review all applications together. Once we select candidates from the cohort, if we have more seats we can run another cohort.
 
-Any changes to the process or guides should happen between cohorts (probably: as the result of a retropsective on the cohort). Of course, if there are eggregious errors, mid-stream corrections are OK, but as much as possible we should strive to present the same selection process to every candidate.
+Any changes to the process or guides should happen between cohorts (probably: as the result of a retrospective on the cohort). Of course, if there are egregious errors, mid-stream corrections are OK, but as much as possible we should strive to present the same selection process to every candidate.
 
-This helps ensure consistancy and fairness consistancy into the process. It also lets us collect statistics and compare results between cohorts, letting us take a more data-driven approach to hiring.
+This helps ensure consistency and fairness into the process. It also lets us collect statistics and compare results between cohorts, letting us take a more data-driven approach to hiring.
 
 ## Selection Process
 
@@ -67,7 +67,7 @@ Before we start any selection we should:
     - New interviewers: should observe at least 1-2 interviews before conducting one themselves
 - Start selection!
 
-### 2. Resume screen 
+### 2. Resume screen
 
 - TL will assign 3 reviewers  per resume
 - They *can* be the same as someone who’ll interview later
@@ -75,7 +75,7 @@ Before we start any selection we should:
 - Reviewers will score according to resume scoring guides, and will leave feedback and scores in a form.
 - Based on scores, TL+HM will construct a list of Yes, Maybe and Nos:
     - Stack-rank based on reviewer votes
-    - Choose appropriate cut-offs, depending on numbers (definately phone screen all consensus yeses, and potentially some mixed yes/maybes, depending on numbers.)
+    - Choose appropriate cut-offs, depending on numbers (definitely phone screen all consensus yeses, and potentially some mixed yes/maybes, depending on numbers.)
     - Communicate rejection to everyone on the “No” list
     - Schedule phone screens with “Yes”es
     - Hold “Maybes” for after all the "Yes"es get interviewed, potentially interview in a second round (if needed)
@@ -100,7 +100,7 @@ Before we start any selection we should:
 
 - TL schedules interviews
 - Each candidate will get 4 interviews:
-    - Tech interview #1 
+    - Tech interview #1
         - review pre-work, ask follow-up questions
         - time permitting, ask questions from tech interview guide
     - Tech interview #2
@@ -118,17 +118,17 @@ Notes on interview format:
 - interviews are 1:1, no paired interviewers
     - panel interviews are intimidating, and can magnify mistakes (candidates don't get another "shot" to recover)
     - exception: "training" interviewers may sit in to observe, but if so they should be muted and video off, just an observer
-- interviewers should ask questions off relevent guides, no one-offs
+- interviewers should ask questions off relevant guides, no one-offs
     - overlap with previous interviews is just fine (even, good - gives a candidate a chance to recover )
 
 ### 6. Decision time
 
 - Interviewers submit feedback in writing to TL+HM (see guide below for format)
 - If the results are especially controversial, hold a meeting to discuss
-- HM makes final hire/no-hire decision 
+- HM makes final hire/no-hire decision
     - Consensus isn't required, nor is there any voting. The HM makes the final call.
 - "No Hire" decisions: communicate immediately to the candidate
-- "Hire" decisions: 
+- "Hire" decisions:
     - HM checks references
     - hold for the final cohort review
 - Final cohort review:

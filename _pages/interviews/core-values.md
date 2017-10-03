@@ -43,12 +43,12 @@ started!*
 # Questions
 
 Since this is a public document, only the questions themselves are published
-here. 18F staff: click through to see follow-ups and good/bad signs in the 
+here. 18F staff: click through to see follow-ups and good/bad signs in the
 full [engineering interview question bank](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#).
 
 ## 18F's background, history, mission, and purpose
 
-First ask: "has anyone given you any background on 18F or spoken with you in detail about 18F’s history, purpose, and mission?" If not, fill them in; if so, answer questions (if they've got them). 
+First ask: "has anyone given you any background on 18F or spoken with you in detail about 18F’s history, purpose, and mission?" If not, fill them in; if so, answer questions (if they've got them).
 
 Then:
 
@@ -122,7 +122,7 @@ Regardless of whether or not the candidate is applying for a software developmen
 
 - [If applicable: Have you pro-actively sought additional training and/or peer review?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.3qcfg9pfhobk)
 
-## Diversity and Inclusion 
+## Diversity and Inclusion
 
 Diversity and inclusion are core values for 18F and the engineering chapter. These questions are meant to shed light on the candidate's experience and thoughts towards diversity and inclusion.
 
@@ -140,7 +140,7 @@ Ask one or more of the following:
 
 ## Conclusion
 
-Wrap up the interview by tying things back to why the candidate is looking to join 18F. Hopefully the answers and discussions around the specific questions provide a modicum of context around the candidate’s motivations and desires, in which it will be a lot easier to determine if their personal and professional goals align with 18F’s needs and mission. 
+Wrap up the interview by tying things back to why the candidate is looking to join 18F. Hopefully the answers and discussions around the specific questions provide a modicum of context around the candidate’s motivations and desires, in which it will be a lot easier to determine if their personal and professional goals align with 18F’s needs and mission.
 
 Ask one or more of the following:
 
