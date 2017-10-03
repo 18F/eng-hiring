@@ -29,7 +29,7 @@ For the list of things to look for during code review, see: [what to look for du
 
 ## The Code Review Interview
 
-After reviewing the code, you'll hold your interview with the candidate. 
+After reviewing the code, you'll hold your interview with the candidate.
 The focus of the interview should be on their code, how it works,
 why they made the choices they did, and so forth.
 
@@ -75,11 +75,11 @@ and when to stick to the suggestions below.
 - Are you happy with your solution to the problem?
 - What would you do differently if you got to do this over again?
 - Where did you get stuck? How'd you get past it?
-- What was your testing strategy for this code? 
+- What was your testing strategy for this code?
     - Did you write tests before/during/after your code?
     - Are you happy with your testing strategy?
-    - What would you do 
-- What other programming languages could you solve this problem in? 
+    - What would you do
+- What other programming languages could you solve this problem in?
     - What would be different about the solution in Language X?
 - I see you used Module X here. How would you solve this problem without
   Module X?
@@ -120,50 +120,47 @@ and answer questions.
 
 Your choices for code samples are:
 
-1. Submit a code sample you've written elsewhere to share with us and discuss.
-   This is subject to a few conditions:
+**Option 1**: Submit a code sample you've written elsewhere to share with us and
+discuss. This is subject to a few conditions:
 
-   - You must be allowed to share this code with us (so, nothing you've
-     produced under NDA, etc.). Open source is best.
+- You must be allowed to share this code with us (so, nothing you've produced
+  under NDA, etc.). Open source is best.
 
-   - As mentioned above, please submit code written in Python, Ruby, JavaScript,
-     or Go (or contact us for a special arrangement).
+- As mentioned above, please submit code written in Python, Ruby, JavaScript, or
+  Go (or contact us for a special arrangement).
 
-   - It should be short, no longer than 1,000 lines (shorter is OK!), and
-     stand-alone (i.e. shouldn't require any dependencies that aren't common
-     in the language you've used).
+- It should be short, no longer than 1,000 lines (shorter is OK!), and stand-
+  alone (i.e. shouldn't require any dependencies that aren't common in the
+  language you've used).
 
-   - It should be code someone familiar with your chosen language can run
-     (without any major dependencies), and you should include instructions on
-     how to run it.
+- It should be code someone familiar with your chosen language can run (without
+  any major dependencies), and you should include instructions on how to run it.
 
-   - Your sample must included tests instructions on how to run those tests.
+- Your sample must included tests instructions on how to run those tests.
 
-2. Complete a short programming assignment. We re-use coding problems developed
-   by Ad Hoc (https://github.com/adhocteam/homework), and add a few extra rules
-   and restrictions of our own:
+**Option 2**: Complete a short programming assignment. We re-use
+[coding problems developed by Ad Hoc](https://github.com/adhocteam/homework),
+and add a few extra rules and restrictions of our own:
 
-   - Choose from one of these three exercises, and only complete a single
-     exercise:
+- Choose from one of these three exercises, and only complete a single exercise:
+    - https://github.com/adhocteam/homework/tree/master/slcsp
+    - https://github.com/adhocteam/homework/tree/master/proto
+    - https://github.com/adhocteam/homework/tree/master/hhbuilder
 
-     - https://github.com/adhocteam/homework/tree/master/slcsp
-     - https://github.com/adhocteam/homework/tree/master/proto
-     - https://github.com/adhocteam/homework/tree/master/hhbuilder
+- Each exercise has its own rules and instructions. Where our rules and Ad Hoc's
+  differ, follow our rules. Let us know if you have questions!
 
-   - Each exercise has its own rules and instructions. Where our rules and Ad
-     Hoc's differ, follow our rules. Let us know if you have questions!
+- As mentioned above, please use Python, Ruby, JavaScript, or Go (or contact us
+  for a special arrangement).
 
-   - As mentioned above, please use Python, Ruby, JavaScript, or Go (or contact
-     us for a special arrangement). 
+- Include instructions on how to run your program. Make sure that someone
+  familiar with your chosen language can run your code (without any major
+  dependencies).
 
-   - Include instructions on how to run your program. Make sure that someone
-     familiar with your chosen language can run your code (without any major
-     dependencies).
+- Include tests, and instructions on how to run the tests.
 
-   - Include tests, and instructions on how to run the tests.
-
-   - Don't spend more than 3 hours on your exercise. If reach 3 hours, and
-     haven't completed work, please contact us and we'll help you decide what to
-     do next.
+Please don't spend more than 3 hours on your exercise. If reach 3 hours, and
+haven't completed work, please contact us and we'll help you decide what to do
+next.
 
 Good luck! If you have any questions, please let us know!
