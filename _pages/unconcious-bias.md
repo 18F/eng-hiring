@@ -7,7 +7,7 @@ As you select candidates, remember that we all have unconscious bias, and that h
 
 This bias prevents us from achieving the results we want, which is to select the best possible candidates regardless of background.
 
-Humans are not only biased, but we're almost never realize that we're being biased. However, when we realize and accept bias, and recognize it, we can be on the lookout for bias and it'll be less likely to unconsciously guide our decisions.
+Humans are not only biased, but we almost never realize that we're being biased. However, when we realize and accept bias, and recognize it, we can be on the lookout for bias and it'll be less likely to unconsciously guide our decisions.
 
 In that spirit, here are a few ways you can look out and correct for bias during the review process.
 
