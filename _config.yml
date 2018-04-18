@@ -74,6 +74,9 @@ navigation:
   - text: Technical Interview Guide
     url: engineer/
     internal: true
+  - text: DevOps/SRE Interview Guide
+    url: devops/
+    internal: true
 - text: Checking references
   url: checking-references/
   internal: true
