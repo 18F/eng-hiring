@@ -78,7 +78,7 @@ and when to stick to the suggestions below.
 - What was your testing strategy for this code?
     - Did you write tests before/during/after your code?
     - Are you happy with your testing strategy?
-    - What would you do
+    - What would you do differently?
 - What other programming languages could you solve this problem in?
     - What would be different about the solution in Language X?
 - I see you used Module X here. How would you solve this problem without

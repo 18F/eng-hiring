@@ -42,8 +42,8 @@ navigation:
   url: unconcious-bias/
   internal: true
 - text: Conducting phone screens
-  url: https://docs.google.com/document/d/1La5M7YojZFEc0lvpQZ4Kc7dL8UgssBoJe3FqmmJwmK4/edit#
-  internal: false
+  url: phone-screens/
+  internal: true
 - text: Resume review guide
   url: resume-review/
   internal: true
