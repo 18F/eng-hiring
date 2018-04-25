@@ -66,6 +66,9 @@ navigation:
   - text: Backend engineer pre-work
     url: backend/
     internal: true
+  - text: Devops engineer pre-work
+    url: devops/
+    internal: true
   - text: Frontend engineer pre-work
     url: frontend/
     internal: true
@@ -81,6 +84,9 @@ navigation:
     internal: true
   - text: Technical Engineering Interview Guide
     url: engineer/
+    internal: true
+  - text: DevOps/SRE Interview Guide
+    url: devops/
     internal: true
 - text: Checking references
   url: checking-references/
