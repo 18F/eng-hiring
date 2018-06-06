@@ -145,7 +145,6 @@ and add a few extra rules and restrictions of our own:
 - Choose from one of these three exercises, and only complete a single exercise:
     - https://github.com/adhocteam/homework/tree/master/slcsp
     - https://github.com/adhocteam/homework/tree/master/proto
-    - https://github.com/adhocteam/homework/tree/master/hhbuilder
 
 - Each exercise has its own rules and instructions. Where our rules and Ad Hoc's
   differ, follow our rules. Let us know if you have questions!
