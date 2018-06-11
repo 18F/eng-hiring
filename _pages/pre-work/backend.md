@@ -129,12 +129,10 @@ discuss. This is subject to a few conditions:
 - As mentioned above, please submit code written in Python, Ruby, JavaScript, or
   Go (or contact us for a special arrangement).
 
-- It should be short, no longer than 1,000 lines (shorter is OK!), and stand-
-  alone (i.e. shouldn't require any dependencies that aren't common in the
-  language you've used).
+- It should be short, no longer than 1,000 lines (shorter is OK!), and stand-alone.
 
-- It should be code someone familiar with your chosen language can run (without
-  any major dependencies), and you should include instructions on how to run it.
+- It should be code someone familiar with your chosen language can easily run, 
+  and you should include instructions on how to run it.
 
 - Your sample must included tests instructions on how to run those tests.
 
@@ -154,8 +152,7 @@ and add a few extra rules and restrictions of our own:
   for a special arrangement).
 
 - Include instructions on how to run your program. Make sure that someone
-  familiar with your chosen language can run your code (without any major
-  dependencies).
+  familiar with your chosen language can easily run your code.
 
 - Include tests, and instructions on how to run the tests.
 
