@@ -33,24 +33,32 @@ expand_nav: true
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Introduction
+- url: /
   internal: true
-- text: Detailed process guide
-  url: detailed-process/
+  text: Introduction
+  children:
+    - text: Introduction for Candidates
+      url: intro-candidates/
+      internal: true
+    - text: Introduction for Staff
+      url: intro-staff/
+      internal: true
+- url: detailed-process/
   internal: true
+  text: Detailed process guide
 - text: Correcting for unconscious bias
   url: unconcious-bias/
   internal: true
-- text: Conducting phone screens
+- text: Conducting Phone Screens
   url: phone-screens/
   internal: true
 - text: Resume review guide
   url: resume-review/
   internal: true
   children:
-    - text: Crediting plans
-      url: crediting-plans/
-      internal: true
+  - text: Crediting plans
+    url: crediting-plans/
+    internal: true
 - text: Technical Pre-work
   url: pre-work/
   internal: true
@@ -74,7 +82,7 @@ navigation:
   - text: Core Values Interview Guide
     url: core-values/
     internal: true
-  - text: Technical Interview Guide
+  - text: Technical Engineering Interview Guide
     url: engineer/
     internal: true
   - text: DevOps/SRE Interview Guide
