@@ -56,7 +56,7 @@ Preface saying there’s no right answer, that we’re just looking to talk thro
 
 Help guide the candidate to the right line of thinking, don’t allow them to get too bogged down in the wrong line of thinking, help them get back on track.
 
-* ["Imagine you’re designing software to run elevators and talk through a high level design. How would accommodating different building types change your design?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.tgd47iei6k4w)
+* ["How would you design software to run elevators? Can you talk through a high-level design? How would accommodating different building types change your design?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.tgd47iei6k4w)
 
 * ["Tell me about a difficult technical problem that you helped solve: what was the problem, and how was it solved?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.ory7bezha9al)
 
