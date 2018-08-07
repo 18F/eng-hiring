@@ -80,6 +80,9 @@ navigation:
   - text: DevOps/SRE Interview Guide
     url: devops/
     internal: true
+  - text: Consulting Engineer Interview Guide
+    url: consulting-engineer/
+    internal: true
 - text: Checking references
   url: checking-references/
   internal: true
