@@ -15,7 +15,7 @@ Before you begin a review session, [remind yourself to watch out for unconscious
 
 Each position comes with a *crediting plan* -- a formal resume review rubric that we use to "score" resumes and separate applications into a set that'll move on to interviews, and a set we'll reject.
 
-See [the list of crediting plans]({{ site.baseurl }}/crediting-plans/) for links to all the ones we have for engineering roles, and for convenient single-page checklists you can print out and use while reviewing resumes if you like.
+See [the list of crediting plans]({{ site.baseurl }}/resume-review/crediting-plans/) for links to all the ones we have for engineering roles, and for convenient single-page checklists you can print out and use while reviewing resumes if you like.
 
 These guides are rather formal, so let's walk through what they look like. The relevant part of the guide for resume review purposes is the "crediting plan". The crediting plan breaks down into several *competencies*, with each competency having several *criteria*. As you review the resume, you're looking for evidence of these criteria. At the end, the application gets scored based on how many of each criteria are demonstrated, according to a scoring guide in the crediting plan. Note that there's a different crediting plan for each GS-level.
 
@@ -29,7 +29,7 @@ Here's what an example bit from a crediting plan could look like for a hypotheti
 > * Cites experience developing leaf-containment devices out of materials such as metal mesh, cloth, plastic drippers, etc.
 > * [And so on ...]
 >
-See [the list of crediting plans]({{ site.baseurl }}/crediting-plans/) for our current active crediting plans, which'll have more domain-specific examples.
+See [the list of crediting plans]({{ site.baseurl }}/resume-review/crediting-plans/) for our current active crediting plans, which'll have more domain-specific examples.
 
 So, as you review the resume, you'll be looking for evidence of the things cited in the "criteria for job readiness" section: specific programming languages, relational databases, source control, etc. The crediting plan will tell you have to "score" that section.
 
