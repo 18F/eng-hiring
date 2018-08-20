@@ -121,7 +121,7 @@ Regardless of whether or not the candidate is applying for a software developmen
     - If applicable: Were you successful in doing so, and why or why not?
 
 - [What is your comfort level with peer-reviewed work?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.3qcfg9pfhobk)
-    - If applicable: Have you pro-actively sought additional training and/or peer review?
+    - If applicable: Have you proactively sought additional training and/or peer review?
 
 - [How would you deal with a bug in an open source project?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.3qcfg9pfhobk)
 

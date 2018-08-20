@@ -7,4 +7,4 @@ parent: interviews
 
 ### Consulting Engineer Questions
 
-* [“Please explain a complex technical concept or tool to me as if I were a non-technical partner](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.8lizmty3jisl)
+* [Please explain a complex technical concept or tool to me as if I were a non-technical partner](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.8lizmty3jisl)
