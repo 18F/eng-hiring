@@ -114,7 +114,7 @@ Your code sample is due by {DATE}, and you can submit by replying to this email.
 Please don't be late; if you miss the deadline, that'll jeopardize your
 application.
 
-One of your interviews will be with someone who was reviewed and run your code,
+One of your interviews will be with someone who has reviewed and run your code,
 so be prepared to explain your code, walk through it with our interviewer,
 and answer questions.
 
@@ -134,7 +134,7 @@ discuss. This is subject to a few conditions:
 - It should be code someone familiar with your chosen language can easily run, 
   and you should include instructions on how to run it.
 
-- Your sample must included tests instructions on how to run those tests.
+- Your sample must include tests and instructions on how to run those tests.
 
 **Option 2**: Complete a short programming assignment. We re-use
 [coding problems developed by Ad Hoc](https://github.com/adhocteam/homework),
@@ -154,9 +154,9 @@ and add a few extra rules and restrictions of our own:
 - Include instructions on how to run your program. Make sure that someone
   familiar with your chosen language can easily run your code.
 
-- Include tests, and instructions on how to run the tests.
+- Include tests and instructions on how to run the tests.
 
-Please don't spend more than 3 hours on your exercise. If reach 3 hours, and
+Please don't spend more than 3 hours on your exercise. If you reach 3 hours, and
 haven't completed work, please contact us and we'll help you decide what to do
 next.
 
