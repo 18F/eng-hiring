@@ -42,7 +42,7 @@ Now, **this isn’t an excuse to be a jerk!** Being selective is important, but 
 <a name="kick-off"></a>
 ## Kicking off the interview
 
-Before you begin each interview, [remind yourself to watch out for unconscious bias](unconscious-bias/). Remember that we’re especially susceptible to assume that underrepresented minorities -- women, people of color, etc. -- are less qualified than their white male counterparts. Be wary of “gut decisions” that aren’t backed up by specific behavior you’ve noted during the interview (this is one reason we ask behavioral questions, and try to take notes behaviorally).
+Before you begin each interview, [remind yourself to watch out for unconscious bias](/unconscious-bias/). Remember that we’re especially susceptible to assume that underrepresented minorities -- women, people of color, etc. -- are less qualified than their white male counterparts. Be wary of “gut decisions” that aren’t backed up by specific behavior you’ve noted during the interview (this is one reason we ask behavioral questions, and try to take notes behaviorally).
 
 When you first get on the call with the candidate, it’s a good idea to spend a quick minute explaining how the interview will go, and what the interviewee can expect. Here’s the script I use:
 
