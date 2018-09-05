@@ -57,9 +57,7 @@ When you first get on the call with the candidate, it’s a good idea to spend a
 <a name="follow-the-guides"></a>
 ## Please follow the guides…
 
-**We have guides; please follow them!**
-
-* FIXME: guide links here
+**We have interview guides on this site; please follow them!**
 
 These guides exist for a reason: by asking all candidates the same questions, we can can try to get consistency. The questions in the guides are behavioral in nature, designed to get candidates talking about specific situations and how they handled them. Guidelines are suggested for evaluating the strength of the answers.
 
