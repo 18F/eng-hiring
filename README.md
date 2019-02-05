@@ -7,7 +7,7 @@ resume screen to offer.
 
 This project uses CircleCI, here the dashboard
 
-For debugging, the [local-cli](https://circleci.com/docs/2.0/local-cli/) is useful: `circleci local execute --skip-checkout=true --job build`
+For debugging, the [local-cli](https://circleci.com/docs/2.0/local-cli/) is useful: `circleci local execute`
 
 ## Running locally with Docker
 
