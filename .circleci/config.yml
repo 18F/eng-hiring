@@ -1,0 +1,35 @@
+version: 2
+jobs:
+  build:
+    working_directory: ~/eng-hiring
+    docker:
+       - image: circleci/ruby:2.2
+    environment:
+      # fix encoding
+      - LANG: C.UTF-8
+    steps:
+      - checkout
+
+      # Download and cache dependencies
+      - restore_cache:
+          keys:
+          - v2-dependencies-{{ checksum "Gemfile.lock" }}
+          # fallback to using the latest cache if no exact match is found
+          - v2-dependencies-
+
+      - run:
+          name: Install dependencies
+          command: bundle install --jobs=4 --retry=3 --path vendor/bundle
+
+      - save_cache:
+          paths:
+            - ./vendor/bundle
+          key: v2-dependencies-{{ checksum "Gemfile.lock" }}
+
+      - run:
+          name: Build the site
+          command: bundle exec jekyll build
+
+      - run:
+          name: Check for broken links
+          command: bundle exec rake test

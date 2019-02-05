@@ -3,6 +3,12 @@
 Our guide to how 18F Engineering selects candidates, from
 resume screen to offer.
 
+## Build / Deployment
+
+This project uses CircleCI, here the dashboard
+
+For debugging, the [local-cli](https://circleci.com/docs/2.0/local-cli/) is useful: `circleci local execute --skip-checkout=true --job build`
+
 ## Running locally with Docker
 
 1. **Install Docker** : Try typing `docker version` in your terminal to see if it's already installed. If it's not, [Docker Desktop](https://www.docker.com/products/docker-desktop) is an easy way to install.
