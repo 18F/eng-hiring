@@ -54,16 +54,6 @@ navigation:
 - text: Technical Pre-work
   url: pre-work/
   internal: true
-  children:
-  - text: Backend engineer pre-work
-    url: backend/
-    internal: true
-  - text: Devops engineer pre-work
-    url: devops/
-    internal: true
-  - text: Frontend engineer pre-work
-    url: frontend/
-    internal: true
 - text: Interviewing
   url: interviews/
   internal: true
