@@ -19,8 +19,8 @@ Before the interview, prepare by reviewing the code, trying to run it (and the
 tests), and thinking about questions you'll want to ask the candidate during
 the interview (see below).
 
-As you review, remember that candidate only spent about 3 hours on this code;
-it doesn't need to be perfect. It should work, and solve the problem assigned,
+As you review, remember that candidate only spent about three hours on this code.
+It doesn't need to be perfect. It should work, and solve the problem assigned,
 but minor issues, rough edges, and less-than-perfect parts are totally fine.
 A good way to think about this: you're looking for code that's about the
 same level as you might expect on an initial pull request. It might not be
@@ -47,15 +47,15 @@ a demanding interview while being kind and empathetic.
 
 **You should say this, or something close to it, before beginning:**
 
-> *Thanks for interviewing with me today. This is a code review interview, which
+> Thanks for interviewing with me today. This is a code review interview, which
 means I’ll ask a series of questions about the code sample you submitted, how it
 works, why you made the choices you did, and so on. There are no “right”
 answers; I’m interested in talking through your code with you. I’ve got about
-4-5 questions, and this will take us about 30 minutes.*
+4-5 questions, and this will take us about 30 minutes.
 
-> *There’ll be times when I ask for more information, or want to dig deeper into
+> There’ll be times when I ask for more information, or want to dig deeper into
 your answers. That’s normal, too: I want to make sure I understand what you did
-and why. I’ll be taking notes, please don’t let that distract you.*
+and why. I’ll be taking notes, please don’t let that distract you.
 
 > *I’m excited you’re here - let’s get started!*
 
