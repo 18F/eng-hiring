@@ -11,7 +11,7 @@ put them in a private Google Doc and link it here.
 
 ## Build / Deployment
 
-This project uses CircleCI, here the dashboard
+This project uses CircleCI, [here is the dashboard](https://circleci.com/gh/18F/eng-hiring/)
 
 For debugging, the [local-cli](https://circleci.com/docs/2.0/local-cli/) is useful: `circleci local execute`
 
