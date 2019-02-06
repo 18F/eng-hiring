@@ -32,9 +32,8 @@ For more details, dive into the following documents:
 
 * [Phone screen guide](https://docs.google.com/document/d/1La5M7YojZFEc0lvpQZ4Kc7dL8UgssBoJe3FqmmJwmK4/edit#) - read this if you're conducting phone screens
 
-* Pre-work - read these if you're assigning or reviewing pre-work:
+* Pre-work - read this if you're assigning or reviewing pre-work:
     * [General pre-work assignment and review guidance](pre-work)
-    * [Back-end engineer pre-work](pre-work/backend)
 
 * Interview guides - read these if you're conducting an interview
     * [General interview guidance](interviews)
