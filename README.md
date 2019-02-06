@@ -21,11 +21,7 @@ For debugging, the [local-cli](https://circleci.com/docs/2.0/local-cli/) is usef
 
 2. **Running the site**: `docker-compose up` then open http://127.0.0.1:4000
 
+3. **Running tests**: `docker-compose run web bundle exec rake test`
+
 **Debugging**
    - SSH into the Docker container with `docker-compose run web /bin/bash`
-
-**Known Issues**
-
-* This version of Jekyll does not support `--livereload`, which could be baked into the Docker commands.
-
-* Search does not work when running in Development -- for some reason the NodeJS check works for commands inside the container, but Node can't be found when driving the container from the outside.  `docker-compose run web bundle exec rake test` should work but doesn't. `docker-compose run web /bin/bash && jekyll build && bundle exec rake test` _does_ work.

@@ -1,8 +1,8 @@
 FROM ruby:2.5
 
-# Node is required for search. Federalist uses version 10, match that: https://github.com/creationix/nvm#installation
-ENV NODE_VERSION 10
-RUN curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.34.0/install.sh | bash
+# Node is required for search. Federalist uses version 10, match that: https://github.com/nodesource/distributions/blob/master/README.md
+RUN curl -sL https://deb.nodesource.com/setup_10.x | bash -
+RUN apt-get install nodejs -y
 
 # Bundle install first for a simple gem cache
 COPY Gemfile* /tmp/
