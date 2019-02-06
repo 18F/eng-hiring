@@ -17,7 +17,7 @@ conclusions and decisions.
 **Remember to be as pleasant and friendly as you can be!** You can deliver
 a demanding interview while being kind and empathetic.
 
-[For more information on interviewing in general, check out the interviewing guide]({{ site.baseurl }}/interviews/).
+[For more information on interviewing in general, check out the interviewing guide](/interviews/).
 
 # Introductory Statement
 
@@ -45,7 +45,7 @@ Since this is a public document, only the questions themselves are published
 here. 18F staff: click through to see follow-ups and good/bad signs in the
 full [engineering interview question bank](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#).
 
-*For DevOps/SRE candidates: don't miss the [DevOps/SRE question supplement]({{ site.baseurl }}/interviews/devops/).*
+*For DevOps/SRE candidates: don't miss the [DevOps/SRE question supplement](/interviews/devops/).*
 
 ## Problem Solving
 

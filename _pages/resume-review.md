@@ -9,13 +9,13 @@ candidate, and this guide will help you figure out how to do that.
 
 Each position will come with a scoring rubric (the formal term for this is a "crediting plan"). This is how we get fairness from the process: this guide gives the specific experience and qualifications required for the job, and lets you review resumes against a consistent set of requirements.
 
-Before you begin a review session, [remind yourself to watch out for unconscious bias]({{ site.baseurl }}/unconcious-bias). Humans are not only biased, but we're almost never realize that we're being biased. However, when we recognize and accept bias we can be on the lookout and it'll be less likely to unconsciously guide our decisions.
+Before you begin a review session, [remind yourself to watch out for unconscious bias](/unconcious-bias). Humans are not only biased, but we're almost never realize that we're being biased. However, when we recognize and accept bias we can be on the lookout and it'll be less likely to unconsciously guide our decisions.
 
 ## Crediting plans
 
 Each position comes with a *crediting plan* -- a formal resume review rubric that we use to "score" resumes and separate applications into a set that'll move on to interviews, and a set we'll reject.
 
-See [the list of crediting plans]({{ site.baseurl }}/resume-review/crediting-plans/) for links to all the ones we have for engineering roles, and for convenient single-page checklists you can print out and use while reviewing resumes if you like.
+See [the list of crediting plans](/resume-review/crediting-plans/) for links to all the ones we have for engineering roles, and for convenient single-page checklists you can print out and use while reviewing resumes if you like.
 
 These guides are rather formal, so let's walk through what they look like. The relevant part of the guide for resume review purposes is the "crediting plan". The crediting plan breaks down into several *competencies*, with each competency having several *criteria*. As you review the resume, you're looking for evidence of these criteria. At the end, the application gets scored based on how many of each criteria are demonstrated, according to a scoring guide in the crediting plan. Note that there's a different crediting plan for each GS-level.
 
@@ -29,7 +29,7 @@ Here's what an example bit from a crediting plan could look like for a hypotheti
 > * Cites experience developing leaf-containment devices out of materials such as metal mesh, cloth, plastic drippers, etc.
 > * [And so on ...]
 >
-See [the list of crediting plans]({{ site.baseurl }}/resume-review/crediting-plans/) for our current active crediting plans, which'll have more domain-specific examples.
+See [the list of crediting plans](/resume-review/crediting-plans/) for our current active crediting plans, which'll have more domain-specific examples.
 
 So, as you review the resume, you'll be looking for evidence of the things cited in the "criteria for job readiness" section: specific programming languages, relational databases, source control, etc. The crediting plan will tell you have to "score" that section.
 
@@ -53,7 +53,7 @@ When you look at a resume, look at the following things, in this order:
 
 This order’s deliberate: the first couple items are quick, and will help "orient" you to the candidate's overall experience, and help focus where you look for the rest. \#2 is the hardest, and will reveal the most detail. The last is least important, and you can skip it if you've already got a clearly qualified applicant. But for those on the edge, these parts can add a bit of extra experience that pushes someone over.
 
-Remember that you’re reviewing a candidate’s entire submission package, which’ll include a resume and some Q&A, and possibly a cover letter and other links (e.g. to LinkedIn, a Github profile, etc). Make sure to scan the whole package for info that’s there, but maybe not on the cover letter. (But see [correcting for unconscious bias]({{ site.baseurl }}/unconcious-bias) for an important note about avoiding social media).
+Remember that you’re reviewing a candidate’s entire submission package, which’ll include a resume and some Q&A, and possibly a cover letter and other links (e.g. to LinkedIn, a Github profile, etc). Make sure to scan the whole package for info that’s there, but maybe not on the cover letter. (But see [correcting for unconscious bias](/unconcious-bias) for an important note about avoiding social media).
 
 You’ll want to have the crediting plan open in front of you as you proceed. You may want to print out the single-page checklist for the relevant position and grade level, and use it to mark off experience as you go.
 
