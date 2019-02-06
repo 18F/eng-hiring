@@ -6,13 +6,13 @@ This is a guide for interviewers conducting engineering interviews. Everyone who
 
 To sum up:
 
-* [The golden rule: your goal is find a reason not to hire (but don’t be a jerk!)](#golden-rule)
-* When you start, [tell the candidate what to expect](#kick-off)
-* [Please follow the guides…](#follow-the-guides)
-* [… but not dogmatically: feel free to dig deep.](#dig-deep.)
-* [Take good notes: behavioral is best](#take-notes)
-* After the interview, [submit a written "hire/no-hire" recommendation, with justification](#written-recommendation)
-* [If there’s a disaster, considering ending interviews early](#pull-the-plug)
+- [The golden rule: your goal is find a reason not to hire (but don’t be a jerk!)]({{site.baseurl}}/interviews#golden-rule)
+- [Kicking off the interview]({{site.basurl}}/interviews#kick-off)
+- [Please follow the guides…]({{site.basurl}}/interviews#please-follow-the-guides)
+- [… but not dogmatically: feel free to dig deep.]({{site.basurl}}/interviews#dig-deep)
+- [Take good notes: behavioral is best]({{site.basurl}}/interviews#take-notes)
+- [Submit a written "hire/no-hire" recommendation, with justification]({{site.basurl}}/interviews#written-recommendation)
+- [If there’s a disaster, considering ending interviews early]({{site.basurl}}/interviews#pull-the-plug)
 
 Click each section for more details.
 
@@ -42,7 +42,7 @@ Now, **this isn’t an excuse to be a jerk!** Being selective is important, but 
 <a name="kick-off"></a>
 ## Kicking off the interview
 
-Before you begin each interview, [remind yourself to watch out for unconscious bias]({{site.basurl}}/unconscious-bias/). Remember that we’re especially susceptible to assume that underrepresented minorities -- women, people of color, etc. -- are less qualified than their white male counterparts. Be wary of “gut decisions” that aren’t backed up by specific behavior you’ve noted during the interview (this is one reason we ask behavioral questions, and try to take notes behaviorally).
+Before you begin each interview, [remind yourself to watch out for unconscious bias]({{site.basurl}}/unconcious-bias). Remember that we’re especially susceptible to assume that underrepresented minorities -- women, people of color, etc. -- are less qualified than their white male counterparts. Be wary of “gut decisions” that aren’t backed up by specific behavior you’ve noted during the interview (this is one reason we ask behavioral questions, and try to take notes behaviorally).
 
 When you first get on the call with the candidate, it’s a good idea to spend a quick minute explaining how the interview will go, and what the interviewee can expect. Here’s the script I use:
 

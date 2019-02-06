@@ -5,7 +5,6 @@ exclude:
 - Gemfile.lock
 - LICENSE.md
 - README.md
-- go
 - vendor
 
 permalink: pretty
