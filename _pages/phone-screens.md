@@ -12,9 +12,9 @@ Phone screens are typically performed by the Director of Engineering, or a deleg
 
 Most candidates pass the phone screen. It's a rough filter: it can't be used to really qualify a candidate, but it can be used to disqualify. It's also not uncommon for candidates to self-select out after the phone screen. This is particularly true for candidates who are financially-motivated; the GS-scale is well below tech industry norms.
 
-Because phone screens rely heavily on personal judgment, and are inherently less scientific than the full suite of interviews, phone screeners should be especially wary about [correcting for unconscious bias]({{ site.baseurl }}/unconcious-bias/). Remember that we are not only biased, but we're almost never realize that we're being biased. However, when we realize and accept bias, and recognize it, we can be on the lookout for bias and it'll be less likely to unconsciously guide our decisions.
+Because phone screens rely heavily on personal judgment, and are inherently less scientific than the full suite of interviews, phone screeners should be especially wary about [correcting for unconscious bias](/unconcious-bias/). Remember that we are not only biased, but we're almost never realize that we're being biased. However, when we realize and accept bias, and recognize it, we can be on the lookout for bias and it'll be less likely to unconsciously guide our decisions.
 
-Phone screens are interviews, so it's a good idea to review the [general guidance around interviews]({{ site.baseurl }}/interviews/) before beginning.
+Phone screens are interviews, so it's a good idea to review the [general guidance around interviews](/interviews/) before beginning.
 
 Please remember to take notes: they can be very useful to future interviewers.
 

@@ -34,14 +34,14 @@ After reviewing the code, you'll hold your interview with the candidate.
 The focus of the interview should be on their code, how it works,
 why they made the choices they did, and so forth.
 
-When interviewing, please [take notes]({{ site.baseurl }}/interviews/#take-notes),
+When interviewing, please [take notes](/interviews/#take-notes),
 and *note what the candidate says, rather than your impressions* — that will
 help you share behavior reasons for your conclusions and decisions.
 
 **Remember to be as pleasant and friendly as you can be!** You can deliver
 a demanding interview while being kind and empathetic.
 
-[For more information on interviewing in general, check out the interviewing guide]({{ site.baseurl }}/interviews/).
+[For more information on interviewing in general, check out the interviewing guide](/interviews/).
 
 ### Introductory Statement
 

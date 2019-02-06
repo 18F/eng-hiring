@@ -3,7 +3,7 @@ title: DevOps/SRE Interview Guide
 parent: interviews
 ---
 
-*This is a supplement to the [technical engineering interview guide]({{ site.baseurl }}/interviews/engineer/). Please read that guide first. The questions here can be added to the technical interview for Devops/SRE candidates.*
+*This is a supplement to the [technical engineering interview guide](/interviews/engineer/). Please read that guide first. The questions here can be added to the technical interview for Devops/SRE candidates.*
 
 ### DevOps / Infrastructure Engineering Questions
 
@@ -17,6 +17,6 @@ parent: interviews
 
 ### Security Questions
 
-*A question from the [infosec interview guide]({{ site.baseurl }}/interviews/infosec/) that is also applicable to DevOps/SRE candidates.*
+*A question from the [infosec interview guide](/interviews/infosec/) that is also applicable to DevOps/SRE candidates.*
 
 * [“Tell me about a time that you worked with a team to remediate a security issue.”](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.1s7pt8lyer05)

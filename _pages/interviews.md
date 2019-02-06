@@ -6,13 +6,13 @@ This is a guide for interviewers conducting engineering interviews. Everyone who
 
 To sum up:
 
-- [The golden rule: your goal is find a reason not to hire (but don’t be a jerk!)]({{site.baseurl}}/interviews#golden-rule)
-- [Kicking off the interview]({{site.baseurl}}/interviews#kick-off)
-- [Please follow the guides…]({{site.baseurl}}/interviews#please-follow-the-guides)
-- [… but not dogmatically: feel free to dig deep.]({{site.baseurl}}/interviews#dig-deep)
-- [Take good notes: behavioral is best]({{site.baseurl}}/interviews#take-notes)
-- [Submit a written "hire/no-hire" recommendation, with justification]({{site.baseurl}}/interviews#written-recommendation)
-- [If there’s a disaster, considering ending interviews early]({{site.baseurl}}/interviews#pull-the-plug)
+- [The golden rule: your goal is find a reason not to hire (but don’t be a jerk!)](/interviews#golden-rule)
+- [Kicking off the interview](/interviews#kick-off)
+- [Please follow the guides…](/interviews#please-follow-the-guides)
+- [… but not dogmatically: feel free to dig deep.](/interviews#dig-deep)
+- [Take good notes: behavioral is best](/interviews#take-notes)
+- [Submit a written "hire/no-hire" recommendation, with justification](/interviews#written-recommendation)
+- [If there’s a disaster, considering ending interviews early](/interviews#pull-the-plug)
 
 Click each section for more details.
 

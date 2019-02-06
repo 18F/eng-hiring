@@ -3,7 +3,7 @@ title: Consulting Engineer Interview Guide
 parent: interviews
 ---
 
-*This is a supplement to the [technical engineering interview guide]({{ site.baseurl }}/interviews/engineer/). Please read that guide first. The questions here can be added to the technical interview for Consulting Engineer candidates.*
+*This is a supplement to the [technical engineering interview guide](/interviews/engineer/). Please read that guide first. The questions here can be added to the technical interview for Consulting Engineer candidates.*
 
 ### Consulting Engineer Questions
 
