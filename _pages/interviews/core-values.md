@@ -70,6 +70,8 @@ This question could go in a few different directions depending on the candidates
 - [Have you worked directly with customers/clients before?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.z49dyqcuxle5)
     - If applicable: Could you speak about a time when you dealt with a particularly difficult client?
 
+- [Talk to me about how you prioritize features.](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.z49dyqcuxle5)
+
 - [Have you had a chance to participate in user-centered design and/or user research?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.z49dyqcuxle5)
     - If yes: Could you speak about a time when business needs or management directives conflicted with executing on a user-centered design approach?
     - If yes: How did you overcome this challenge and what was the resolution?
@@ -79,8 +81,6 @@ This question could go in a few different directions depending on the candidates
     - If yes: Were you actively involved in helping your team/department/organization transition to agile?
         - What challenges did you face, if any, and how did you overcome them?
     - If no: What does agile software development mean to you?
-
-- [Talk to me about how you prioritize features](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.z49dyqcuxle5)
 
 ## Communication and Collaboration
 
