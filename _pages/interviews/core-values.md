@@ -80,6 +80,8 @@ This question could go in a few different directions depending on the candidates
         - What challenges did you face, if any, and how did you overcome them?
     - If no: What does agile software development mean to you?
 
+- [Talk to me about how you prioritize features](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.z49dyqcuxle5)
+
 ## Communication and Collaboration
 
 Following a discussion around a candidate’s relevant work experience, transition into a more focused dialogue around communication itself.
