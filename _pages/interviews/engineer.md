@@ -23,6 +23,8 @@ a demanding interview while being kind and empathetic.
 
 **You should say this, or something close to it, before beginning:**
 
+> *Hello my name is ____, my pronouns are ___, and my role at 18F is _____.*
+ 
 > *Thanks for interviewing with me today. This’ll be a behavioral interview,
 which means I’ll ask a series of questions about experiences you’ve had and how
 you handled them, or about how you'd handle hypothetical situations. There are
