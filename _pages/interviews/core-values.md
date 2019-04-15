@@ -23,7 +23,7 @@ interviewing guide](..).
 
 **You should say this, or something close to it, before beginning. Also be sure to inform about any last minute changes to the interview, such as an interviewer not being able to make it.**
 
-> *Hello my name is ____ and my role at 18F is _____.*
+> *Hello my name is ____, my pronouns are ___, and my role at 18F is _____.*
 
 > *Thanks for interviewing with me today. This’ll be a behavioral interview,
 which means I’ll ask a series of questions about experiences you’ve had and
