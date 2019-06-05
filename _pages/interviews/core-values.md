@@ -132,7 +132,7 @@ Regardless of whether or not the candidate is applying for a software developmen
 
 Diversity and inclusion are core values for 18F and the engineering chapter. These questions are meant to shed light on the candidate's experience and thoughts towards diversity and inclusion.
 
-* "At 18F we strive to be as representative of the populace as possible and work hard to ensure that everyone understands this notion and is treated fairly and respectfully. [WhHat do diversity and inclusion mean to you?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.5kwvj8b9hvhd)
+* "At 18F we strive to be as representative of the populace as possible and work hard to ensure that everyone understands this notion and is treated fairly and respectfully. [What do diversity and inclusion mean to you?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.5kwvj8b9hvhd)
 
 ## Overall experience and outlook
 
