@@ -141,7 +141,7 @@ discuss. This is subject to a few conditions:
 [coding problems developed by Ad Hoc](https://homework.adhoc.team),
 and add a few extra rules and restrictions of our own:
 
-- Choose from one of these three exercises, and only complete a single exercise:
+- Choose from one of these exercises, and only complete a single exercise:
     - [https://homework.adhoc.team/fetch/](https://homework.adhoc.team/fetch/)
     - [https://homework.adhoc.team/hhbuilder/](https://homework.adhoc.team/hhbuilder/)
     - [https://homework.adhoc.team/slcsp/](https://homework.adhoc.team/slcsp/)
