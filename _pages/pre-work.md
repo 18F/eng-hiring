@@ -137,6 +137,8 @@ discuss. This is subject to a few conditions:
 
 - Your sample must include tests and instructions on how to run those tests.
 
+- Share your code via a publicly accessible Git repository.
+
 **Option 2**: Complete a short programming assignment. We re-use
 [coding problems developed by Ad Hoc](https://homework.adhoc.team),
 and add a few extra rules and restrictions of our own:
@@ -157,6 +159,8 @@ and add a few extra rules and restrictions of our own:
   familiar with your chosen language can easily run your code.
 
 - Include tests and instructions on how to run the tests.
+
+- Share your code via a publicly accessible Git repository.
 
 Please don't spend more than 3 hours on your exercise. If you reach 3 hours, and
 haven't completed work, please contact us and we'll help you decide what to do
