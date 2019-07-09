@@ -33,7 +33,7 @@ Ideally, these would be stable through the entire hiring cohort.
     - review resumes
     - conduct interviews
         - and submit written recommendations to the Hiring Lead
-    - SMEs may *cannot* review a candidate's resume and also interview them -- we need different SMEs for each step.
+    - SMEs *cannot* review a candidate's resume and also interview them -- we need different SMEs for each step.
 - Senior Interviewer (SI)
     - one of the SMEs
     - a more experienced interviewer - should have conducted both Tech and Core Values interviews in the past, preferably a few of each
