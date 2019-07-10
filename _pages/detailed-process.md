@@ -59,7 +59,7 @@ This helps ensure consistency and fairness into the process. It also lets us col
 Before we start any selection we should:
 
 - Select interviewers (SMEs)
-    - We need 4 SMEs for interviews. These can't be the same people for each candidate. So this points to the need for a fairly large pool. 8-10 is probably a *minimum* for most positions.
+    - We need four SMEs for interviews. These can't be the same people for each candidate. So this points to the need for a fairly large pool. 8-10 is probably a *minimum* for most positions.
 - Select Senior Interviewer(s)
 - Develop interview guides for the specific position (if they don't already exist)
 - Hold a training session with SMEs to go over the interview flow, interview guides, and such
