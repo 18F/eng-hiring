@@ -51,7 +51,7 @@ a demanding interview while being kind and empathetic.
 means I’ll ask a series of questions about the code sample you submitted, how it
 works, why you made the choices you did, and so on. There are no “right”
 answers; I’m interested in talking through your code with you. I’ve got about
-4-5 questions, and this will take us about 30 minutes.
+4-5 questions, and this will take us about 60 minutes.
 
 > There’ll be times when I ask for more information, or want to dig deeper into
 your answers. That’s normal, too: I want to make sure I understand what you did
@@ -137,6 +137,8 @@ discuss. This is subject to a few conditions:
 
 - Your sample must include tests and instructions on how to run those tests.
 
+- Share your code via a publicly accessible Git repository.
+
 **Option 2**: Complete a short programming assignment. We re-use
 [coding problems developed by Ad Hoc](https://homework.adhoc.team),
 and add a few extra rules and restrictions of our own:
@@ -157,6 +159,8 @@ and add a few extra rules and restrictions of our own:
   familiar with your chosen language can easily run your code.
 
 - Include tests and instructions on how to run the tests.
+
+- Share your code via a publicly accessible Git repository.
 
 Please don't spend more than 3 hours on your exercise. If you reach 3 hours, and
 haven't completed work, please contact us and we'll help you decide what to do

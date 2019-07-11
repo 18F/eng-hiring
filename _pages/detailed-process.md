@@ -59,7 +59,7 @@ This helps ensure consistency and fairness into the process. It also lets us col
 Before we start any selection we should:
 
 - Select interviewers (SMEs)
-    - We need 3 SMEs for resume review, and 4 for interviews. These can't be the same people for each candidate. So this points to the need for a fairly large pool. 8-10 is probably a *minimum* for most positions.
+    - We need four SMEs for interviews. These can't be the same people for each candidate. So this points to the need for a fairly large pool. 8-10 is probably a *minimum* for most positions.
 - Select Senior Interviewer(s)
 - Develop interview guides for the specific position (if they don't already exist)
 - Hold a training session with SMEs to go over the interview flow, interview guides, and such
@@ -69,16 +69,7 @@ Before we start any selection we should:
 
 ### 2. Resume screen
 
-- TL will assign 3 reviewers  per resume
-- They *can* be the same as someone who’ll interview later
-- They *can’t* have referred the candidate
-- Reviewers will score according to resume scoring guides, and will leave feedback and scores in a form.
-- Based on scores, TL+HM will construct a list of Yes, Maybe and Nos:
-    - Stack-rank based on reviewer votes
-    - Choose appropriate cut-offs, depending on numbers (definitely phone screen all consensus yeses, and potentially some mixed yes/maybes, depending on numbers.)
-    - Communicate rejection to everyone on the “No” list
-    - Schedule phone screens with “Yes”es
-    - Hold “Maybes” for after all the "Yes"es get interviewed, potentially interview in a second round (if needed)
+The TTS Talent team does Resume Reviews. See the [Preparing your resume](https://join.tts.gsa.gov/resume/) page on their site for more information.
 
 ### 3. Phone Screen
 
@@ -119,14 +110,15 @@ Notes on interview format:
     - panel interviews are intimidating, and can magnify mistakes (candidates don't get another "shot" to recover)
     - exception: "training" interviewers may sit in to observe, but if so they should be muted and video off, just an observer
 - interviewers should ask questions off relevant guides, no one-offs
-    - overlap with previous interviews is just fine (even, good - gives a candidate a chance to recover )
+    - overlap with previous interviews is just fine (even, good - gives a candidate a chance to recover)
 
 ### 6. Decision time
 
-- Interviewers submit feedback in writing to TL+HM (see guide below for format)
-- If the results are especially controversial, hold a meeting to discuss
-- HM makes final hire/no-hire decision
-    - Consensus isn't required, nor is there any voting. The HM makes the final call.
+- Interviewers submit feedback to TL+HM using the Google Form that TL attaches to your interview event.
+- Always hold a meeting to discuss the interviews.
+    - HM makes final hire/no-hire decision
+    - Consensus is nice, but isn't required
+    - Be sure to consider the Grade of the position being offered: GS-15, GS-14, GS-13, etc.
 - "No Hire" decisions: communicate immediately to the candidate
 - "Hire" decisions:
     - HM checks references
