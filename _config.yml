@@ -95,7 +95,7 @@ defaults:
 - scope:
     path: ""
   values:
-    layout: "guides_style_18f_default"
+    layout: "default"
 
 # Configuration for jekyll_pages_api_search plugin gem.
 jekyll_pages_api_search:
