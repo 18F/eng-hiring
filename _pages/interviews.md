@@ -49,6 +49,8 @@ Now, **this isn’t an excuse to be a jerk!** Being selective is important, but 
 
 - Review any other links provided with the resume, e.g. Github and LinkedIn.
 
+- Do not look up the candidate on social media sites that they have not provided.
+
 <a name="kick-off"></a>
 ## Kicking off the interview
 
