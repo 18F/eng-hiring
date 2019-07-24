@@ -38,7 +38,7 @@ navigation:
   url: detailed-process/
   internal: true
 - text: Correcting for unconscious bias
-  url: unconcious-bias/
+  url: unconscious-bias/
   internal: true
 - text: Conducting phone screens
   url: phone-screens/
