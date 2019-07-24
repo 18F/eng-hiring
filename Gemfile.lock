@@ -86,12 +86,15 @@ PLATFORMS
 
 DEPENDENCIES
   go_script
-  guides_style_18f (~> 1.0.4)
+  guides_style_18f
   html-proofer
   jekyll
   rake
   redcarpet
   rouge
 
+RUBY VERSION
+   ruby 2.5.5p157
+
 BUNDLED WITH
-   1.17.2
+   1.17.3
