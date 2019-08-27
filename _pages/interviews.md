@@ -43,7 +43,7 @@ Now, **this isn’t an excuse to be a jerk!** Being selective is important, but 
 <a name="before-you-start"></a>
 ## Before you start the interview
 
-- Before you begin each interview, [remind yourself to watch out for unconscious bias]({{site.basurl}}/unconcious-bias). Remember that we’re especially susceptible to assume that underrepresented minorities -- women, people of color, etc. -- are less qualified than their white male counterparts. Be wary of “gut decisions” that aren’t backed up by specific behavior you’ve noted during the interview (this is one reason we ask behavioral questions, and try to take notes behaviorally).
+- Before you begin each interview, [remind yourself to watch out for unconscious bias]({{site.basurl}}/unconscious-bias). Remember that we’re especially susceptible to assume that underrepresented minorities -- women, people of color, etc. -- are less qualified than their white male counterparts. Be wary of “gut decisions” that aren’t backed up by specific behavior you’ve noted during the interview (this is one reason we ask behavioral questions, and try to take notes behaviorally).
 
 - Spend some time becoming familiar with the candidates resume, which is always attached to calendar events.
 
