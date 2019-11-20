@@ -132,9 +132,8 @@ discuss. This is subject to a few conditions:
 
 - It should be short, no longer than 1,000 lines (shorter is OK!), and stand-alone.
 
-- It should be code someone familiar with your chosen language can easily run,
-  and you should include instructions on how to run it.
-
+- Include documentation about your development environment and instructions on how to run your program. Make sure that someone familiar with your chosen language can easily run your code.
+  
 - Your sample must include tests and instructions on how to run those tests.
 
 - Share your code via a publicly accessible Git repository.
@@ -155,9 +154,8 @@ and add a few extra rules and restrictions of our own:
 - As mentioned above, please use Python, Ruby, JavaScript, or Go (or contact us
   for a special arrangement).
 
-- Include instructions on how to run your program. Make sure that someone
-  familiar with your chosen language can easily run your code.
-
+- Include documentation about your development environment and instructions on how to run your program. Make sure that someone familiar with your chosen language can easily run your code.
+  
 - Include tests and instructions on how to run the tests.
 
 - Share your code via a publicly accessible Git repository.
