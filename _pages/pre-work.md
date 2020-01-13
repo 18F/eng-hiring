@@ -47,6 +47,8 @@ a demanding interview while being kind and empathetic.
 
 **You should say this, or something close to it, before beginning:**
 
+> *Hello my name is ____, my pronouns are ____, and my role at 18F is ____.
+
 > Thanks for interviewing with me today. This is a code review interview, which
 means I’ll ask a series of questions about the code sample you submitted, how it
 works, why you made the choices you did, and so on. There are no “right”
