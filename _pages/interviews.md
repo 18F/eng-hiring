@@ -8,7 +8,9 @@ To sum up:
 
 - [The golden rule: your goal is find a reason not to hire (but don’t be a jerk!)](/interviews#golden-rule)
 - [Before you start the interview](/interviews#before-you-start)
+- [Using Slack appropriately](/interviews#using-slack)
 - [Kicking off the interview](/interviews#kick-off)
+- [Quick DOs and DON'Ts](/interviews#do-dont)
 - [Please follow the guides…](/interviews#please-follow-the-guides)
 - [… but not dogmatically: feel free to dig deep.](/interviews#dig-deep)
 - [Take good notes: behavioral is best](/interviews#take-notes)
@@ -40,6 +42,7 @@ Now, **this isn’t an excuse to be a jerk!** Being selective is important, but 
 
 - **If you come to a conclusion very quickly, in the first few minutes of the interview, spend the rest of the interview trying to disprove that snap judgement.** Snap judgement are much more likely to be prone to bias than considered ones. We tend to jump to conclusions and then look for evidence to support our hypothesis. To compensate, if you find you’ve reached a Yes/No conclusion very quickly, spend the rest of the interview trying to disprove that hypothesis. Explicitly look for evidence that you’re wrong. If you’ve decided immediately that a candidate is not qualified, ask targeted questions and spend rest of the interview trying as hard as you can to find evidence that they are qualified.
 
+
 <a name="before-you-start"></a>
 ## Before you start the interview
 
@@ -50,6 +53,28 @@ Now, **this isn’t an excuse to be a jerk!** Being selective is important, but 
 - Review any other links provided with the resume, e.g. Github and LinkedIn.
 
 - Do not look up the candidate on social media sites that they have not provided.
+
+- Watch your blood sugar. Consider having a snack before you interview the candidate, so that you're at your best.
+
+- Make sure you have a good place to take notes.
+
+- Check in with the other interviewers to see if there are any topics you should make sure to cover.
+
+<a name="using-slack"></a>
+## Using Slack appropriately
+
+Slack can be a helpful way to make sure an interview panel is moving smoothly, and we encourage you to start a group DM with the other interviewers in your loop (as well as your Talent lead).
+
+Some appropriate uses of Slack include: 
+- Sharing a candidate’s interview schedule for the day.
+- Communicating about interview timing.
+- Asking another interviewer to probe on a specific area (without saying *why*).
+- Suggesting that an interviewer share an experience that might resonate with a candidate based on your conversation.
+
+Some inappropriate uses include: 
+- Sharing any of the candidate’s personal information, including their full name, phone number, email or a pdf of their resume. Instead stick with the candidate’s first name and use the Google application link provided by Talent. 
+- Discussing red flags, positive signs, or general impressions about a candidate.
+
 
 <a name="kick-off"></a>
 ## Kicking off the interview
@@ -63,6 +88,23 @@ When you first get on the call with the candidate, it’s a good idea to spend a
 > *There’ll be times when I ask for more information, or want to dig deeper into your answers. That’s normal, too: I want to understand what you did and why.I’ll be taking notes, please don’t let that distract you.*
 >
 > *I’ll ask you my questions first, and then I’ll leave some time to answer any questions you’ve got for me. I’m excited you’re here - let’s get started!*
+
+<a name="do-dont"></a>
+## Quick DOs and DON'Ts
+
+- Smile, be friendly, and help the candidate present their best self. Don't “turn up the pressure” or purposefully intimidate the candidate.
+
+- Follow the questions in the interview guide. If you see ways that the guide could be better, make suggestions to the hiring manager instead of inventing your own set of questions.
+
+- Don't ever ask about [anything related to a protected class](https://www.businessnewsdaily.com/4037-illegal-interview-questions.html). Stick to the questions in the interview guide and be mindful of your follow up questions.
+
+- If you have trouble understanding a candidate's response for any reason (ex. phone interference, quiet voice, accented speech, etc), politely ask them to repeat themself. It may feel uncomfortable to ask the same question again, but it's not fair to the candidate for you to move on without making sure your understand their response. Ask follow up questions if you need clarification around an issue.
+
+- Ask them if they can give you a concrete example that illustrates what they’ve told you – sometimes people get nervous and forget to give concrete examples! That doesn't mean they aren't a good fit for the role; it means they are nervous.
+
+- Treat the interview as a two-way conversation. Help the candidate learn more about life at 18F, too. Be honest about the good *and* the bad, so that candidates make informed choices.
+
+- Don't promise things you can’t deliver or answer questions you aren’t sure of (ex. promotions, pay scale, locality, projects, start dates, offer process). Instead, refer the candidate to the Talent team.
 
 <a name="follow-the-guides"></a>
 ## Please follow the guides…
@@ -114,7 +156,7 @@ After you interview a candidate, you'll need to submit a written recommendation
 to the hiring manager. This should consist of two parts:
 
 1. A "hire" or "no-hire" recommendation. Yes, we're trying to force you to make a hard call. If you're not sure, that's a "no-hire".
-2. Justification for that recommendation, based on what you observed during the interview. Please be as specific as possible, and include as much detail from your notes as you can. Again, focus on what the candidate said or did, rather than how you interpreted it.
+2. Your annotated interview notes. Go back through the notes you took and highlight things that the candidate said or did that line up with the signals in the interview guide. Add comments to explain your reasoning and call out anything that the candidate did not cover that you would have liked to see. If you're not sure what this should look like, refer to [this example notes document](https://docs.google.com/document/d/1NOfiIX8MQq_tq7BcRo37VDezdeKjWPxETYP-fjI6MRY/).
 
 If the written feedback is unclear or especially controversial, the Hiring Manager may schedule some time to talk over the feedback.
 
