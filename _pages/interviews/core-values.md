@@ -30,7 +30,9 @@ which means I’ll ask a series of questions about experiences you’ve had and
 how you handled them. There are no “right” answers; I’m interested in
 talking through these situations with you. I’ve got about 4-5 questions, and
 this will take us about an hour, perhaps a bit less. Don’t be surprised if
-others ask the same questions in other interviews; that’s normal.*
+others ask the same questions in other interviews; that’s normal. Feel free
+to think for a moment before answering if that's your style - you won't be
+judged for it.*
 
 > *There’ll be times when I ask for more information, or want to dig deeper
 into your answers. That’s normal, too: I want to make sure I understand what
