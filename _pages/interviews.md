@@ -98,7 +98,7 @@ When you first get on the call with the candidate, it’s a good idea to spend a
 
 - Don't ever ask about [anything related to a protected class](https://www.businessnewsdaily.com/4037-illegal-interview-questions.html). Stick to the questions in the interview guide and be mindful of your follow up questions.
 
-- If you have trouble understanding a candidate's response for any reason (ex. phone interference, quiet voice, accented speech, etc), politely ask them to repeat themself. It may feel uncomfortable to ask the same question again, but it's not fair to the candidate for you to move on without making sure your understand their response. Ask follow up questions if you need clarification around an issue.
+- If you have trouble understanding a candidate's response for any reason (ex. phone interference, quiet voice, accented speech, etc), politely ask them to repeat themself. It may feel uncomfortable to ask the same question again, but it's not fair to the candidate for you to move on without making sure you understand their response. Ask follow up questions if you need clarification around an issue.
 
 - Ask them if they can give you a concrete example that illustrates what they’ve told you – sometimes people get nervous and forget to give concrete examples! That doesn't mean they aren't a good fit for the role; it means they are nervous.
 
