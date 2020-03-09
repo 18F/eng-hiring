@@ -17,11 +17,8 @@ jobs:
           # fallback to using the latest cache if no exact match is found
           - v2-dependencies-
       - run:
-          name: install bundler 1.17.3 as per gemfile.lock
-          command: gem install bundler -v 1.17.3
-      - run:
           name: Install dependencies
-          command: bundle _1.17.3_ install --jobs=4 --retry=3 --path vendor/bundle
+          command: bundle install --jobs=4 --retry=3 --path vendor/bundle
 
       - save_cache:
           paths:
