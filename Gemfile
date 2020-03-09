@@ -1,11 +1,10 @@
-ruby '~> 2.5'
+ruby '~> 2.7'
 
 source 'https://rubygems.org'
 
 gem 'jekyll'
 gem 'redcarpet'
 gem 'rouge'
-gem 'go_script'
 
 gem 'uswds-jekyll', :git => 'https://github.com/18F/uswds-jekyll.git'
 

@@ -3,7 +3,7 @@ jobs:
   build:
     working_directory: ~/eng-hiring
     docker:
-       - image: circleci/ruby:2.5-node
+       - image: circleci/ruby:2.7-node
     environment:
       # fix encoding
       - LANG: C.UTF-8
@@ -16,10 +16,12 @@ jobs:
           - v2-dependencies-{{ checksum "Gemfile.lock" }}
           # fallback to using the latest cache if no exact match is found
           - v2-dependencies-
-
+      - run:
+          name: install bundler 1.17.3 as per gemfile.lock
+          command: gem install bundler -v 1.17.3
       - run:
           name: Install dependencies
-          command: bundle install --jobs=4 --retry=3 --path vendor/bundle
+          command: bundle _1.17.3_ install --jobs=4 --retry=3 --path vendor/bundle
 
       - save_cache:
           paths:
