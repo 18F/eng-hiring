@@ -7,12 +7,12 @@ sidenav:
 subnav:
   - text: Purpose
     href: "#purpose"
-  - text: Before the interview
-    href: "#before-the-interview"
+  - text: Before the call
+    href: "#before-the-call"
   - text: Conversation outline
     href: "#conversation-outline"
-  - text: After the interview
-    href: "#after-the-interview"
+  - text: After the call
+    href: "#after-the-call"
 ---
 
 The goal of a phone screen is to quickly assess a candidate's rough fit for the position we're hiring, and to quickly screen out candidates who will obviously not work out.
@@ -35,7 +35,7 @@ Most candidates pass the phone screen. It's a rough filter: it can't be used to 
 
 Please remember to take notes and pass them along: they can be very useful to future interviewers.
 
-## Before the interview
+## Before the call
 
 Take a few minutes to familiarize yourself with the candidate’s resume and review [what to look for during a phone screen](https://docs.google.com/document/d/1La5M7YojZFEc0lvpQZ4Kc7dL8UgssBoJe3FqmmJwmK4/edit).
 
@@ -78,7 +78,7 @@ Begin by introducing yourself by saying this or something similar to it:
 
 - "Do you have any questions for me?"
 
-## After the interview
+## After the call
 
-**Thank you for your focus!** Use your notes to fill out the feedback form linked in the calendar invitation, which will help prepare for [interviews](/interviews/).
+**Thank you for your focus!** Use your notes to fill out the feedback form linked in the calendar invitation, which will help prepare for [interviews]({{site.baseurl}}/interviews/).
 

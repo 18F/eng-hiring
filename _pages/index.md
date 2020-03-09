@@ -34,7 +34,7 @@ The process surrounding the standard engineering hiring process varies depending
 
 1. The 18F Engineering Hiring team performs a [resume review][resume-review-guide] to determine if a candidate will be phone screened. The TTS Talent team then performs a specialized experience review of the candidate, ensuring they will be able to be offered the position should they pass the interviews.
 1. The TTS Talent team schedules a [phone screen][phone-screen-guide] with the candidate and a representative from the 18F Engineering Hiring team. The 18F Engineering Hiring team then determines if the candidate will be interviewed.
-1. The TTS Talent team notifies the candidate of their selection, and passing candidates are asked to provide or perform [technical pre-work](/pre-work/). The candidate provides or completes the technical pre-work.
+1. The TTS Talent team notifies the candidate of their selection, and passing candidates are asked to provide or perform [technical pre-work]({{site.baseurl}}/pre-work/). The candidate provides or completes the technical pre-work.
 1. The TTS Talent team schedules the candidate for [interviews][interview-guide] with members of the Interview team.
 1. The Interview team holds a [debrief meeting][debrief-guide] to share information gathered about the candidate through interviews.
 1. The 18F Engineering Hiring team meets with a representative from the TTS Talent team to perform [final selection][final-selection-guide]. Then, the candidate is provided to the General Service Administration (GSA)’s Office of Human Resources Management (OHRM) team, who performs the final review and extends an offer.
@@ -65,7 +65,7 @@ A majority of candidates entering our hiring process are in response to applicat
 1. The TTS Talent team gives resumes to the 18F Engineering Hiring team for review.
 1. The 18F Engineering Hiring team collects volunteers for the Interview team and performs [Interview training](#hiring-training) to prepare them to mitigate unconscious bias, among other things.
 1. The standard [engineering hiring process above](#step-by-step-process) is followed for each candidate.
-1.
+1. The 18F Engineering Hiring team runs a retrospective to improve the process for next time.
 
 ### Submitting a single candidate for review
 
@@ -96,12 +96,12 @@ For those who will be reviewing resumes. Covers our resume review rubrics ("cred
 For those conducting interviews, both technical and core values. Covers our interview process and guides, and how to interview effectively. We'll spend some time practicing interview questions on each other, to get a bit of experience before we start.
 
 
-[resume-review-guide]: /resume-review/
-[phone-screen-guide]: /phone-screens/
-[interview-guide]: /interviews/
-[core-values-interview-guide]: /interviews/core-values/
-[technical-interview-guide]: /interviews/technical/
-[code-review-interview-guide]: /interviews/code-review/
-[wrap-up-interview-guide]: /interviews/wrap-up/
-[debrief-guide]: /debrief/
-[final-selection-guide]: /selection/
+[resume-review-guide]: {{site.baseurl}}/resume-review/
+[phone-screen-guide]: {{site.baseurl}}/phone-screens/
+[interview-guide]: {{site.baseurl}}/interviews/
+[core-values-interview-guide]: {{site.baseurl}}/interviews/core-values/
+[technical-interview-guide]: {{site.baseurl}}/interviews/technical/
+[code-review-interview-guide]: {{site.baseurl}}/interviews/code-review/
+[wrap-up-interview-guide]: {{site.baseurl}}/interviews/wrap-up/
+[debrief-guide]: {{site.baseurl}}/debrief/
+[final-selection-guide]: {{site.baseurl}}/selection/

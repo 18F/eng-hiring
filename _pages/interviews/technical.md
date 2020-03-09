@@ -11,7 +11,7 @@ TODO.
 
 Until then:
 
-- [Infosec interview guide](/interviews/infosec/)
-- [Technical engineering interview guide](/interviews/engineer/)
-- [DevOps/SRE interview guide](/interviews/devops/)
-- [Consulting engineer interview guide](/interviews/consulting-engineer/)
+- [Infosec interview guide]({{site.baseurl}}/interviews/infosec/)
+- [Technical engineering interview guide]({{site.baseurl}}/interviews/engineer/)
+- [DevOps/SRE interview guide]({{site.baseurl}}/interviews/devops/)
+- [Consulting engineer interview guide]({{site.baseurl}}/interviews/consulting-engineer/)
