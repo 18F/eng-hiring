@@ -63,7 +63,7 @@ A majority of candidates entering our hiring process are in response to applicat
 1. The 18F Engineering Hiring team collaborates with the TTS Talent team to post a job announcement.
 1. The candidate submits their resume to this job as specified in the job announcement.
 1. The TTS Talent team gives resumes to the 18F Engineering Hiring team for review.
-1. The 18F Engineering Hiring team collects volunteers for the Interview team and performs [Interview training](/interviews/#training) to prepare them to mitigate unconscious bias, among other things.
+1. The 18F Engineering Hiring team collects volunteers for the Interview team and performs [Interview training](#hiring-training) to prepare them to mitigate unconscious bias, among other things.
 1. The standard [engineering hiring process above](#step-by-step-process) is followed for each candidate.
 1.
 
