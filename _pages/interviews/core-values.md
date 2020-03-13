@@ -29,11 +29,7 @@ Broadly, the core value interview accomplishes two purposes:
 
 The interview should last roughly one hour, and include some segments in which the interviewers provide more detail about 18F to the candidate and openly share their experiences working at 18F - remember, interviewing is a two-way street!
 
-- **Remember to be as pleasant and friendly as you can be!** You can deliver a demanding interview while being kind and empathetic.
-
-- Whenever possible, ask these questions **exactly as they’re worded** to try to get consistency between multiple candidates.
-
-- For more information on interviewing in general, check out the [interviewing overview guide](..).
+{% include interview-reminders.md %}
 
 ## Before the interview
 
@@ -41,7 +37,7 @@ Take a few minutes to familiarize yourself with the candidate’s resume and rev
 
 ## Conversation outline
 
-{% include be-kind-and-write-down.html %}
+{% include notes-reminder.html %}
 
 Begin by introducing yourself by saying this or something similar to it:
 

@@ -12,6 +12,9 @@ permalink: pretty
 highlighter: rouge
 incremental: true
 
+plugins:
+  - jekyll-redirect-from
+
 author:
   name: 18F
   url: https://18f.gsa.gov
