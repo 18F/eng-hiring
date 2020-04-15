@@ -78,7 +78,7 @@ Slack can be a helpful way to make sure an interview panel is moving smoothly, a
 
 ## Preparing for the interview
 
-- Before you begin each interview, **remind yourself to watch out for unconscious bias**. Remember that we’re especially susceptible to assume that underrepresented minorities — women, people of color, etc. — are less qualified than their white male counterparts. Be wary of “gut decisions” that aren’t backed up by specific behavior you’ve noted during the interview (this is one reason we ask behavioral questions, and try to take notes behaviorally).
+- Before you begin each interview, **remind yourself to be objective in your assessment**.  It is important that we conduct interviews objectively and you should be especially wary of any "gut decisions" that are not backed up by specific behavior you have noted in the process of the interview.  This is one reason why we ask behavioral questions and try to take notes behaviorally.
 
 - Spend some time becoming familiar with the candidates resume, which is always attached to calendar events.
 
