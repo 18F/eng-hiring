@@ -37,7 +37,7 @@ Before the interview, prepare by reviewing the code, trying to run it (and the t
 
 **As you review, remember that candidate only spent about three hours on this code.** It doesn't need to be perfect. It should work, and solve the problem assigned, but minor issues, rough edges, and less-than-perfect parts are totally fine. A good way to think about this: you're looking for code that's about the same level as you might expect on an initial pull request. It might not be perfect yet, but that's what code review is for.
 
-For the list of things to look for during code review, see [what to look for during code review](https://docs.google.com/document/d/12q9DsSSdqV388M6DOncun28ZDRT-B6wXrsrG5PbTsAA/edit#heading=h.t0hley37jiee).
+For the list of things to look for during code review, see [what to look for during code review](https://docs.google.com/document/d/1rP7_yYr_IbfDi-Tj-1troJG2rTDcfVRnI_iH7Ngrzds/edit#heading=h.6l09j457zrt).
 
 ## Conversation outline
 
@@ -77,7 +77,7 @@ Generally, we try ask these questions exactly as they’re worded to try to get 
   do differently?
 - What would you do differently if you had a whole week to work on this problem?
 
-For the list of things to look for, see [what to look for during the code review interview](https://docs.google.com/document/d/12q9DsSSdqV388M6DOncun28ZDRT-B6wXrsrG5PbTsAA/edit#heading=h.3gbcjktxiy0).
+For the list of things to look for, see [what to look for during the code review interview](https://docs.google.com/document/d/1rP7_yYr_IbfDi-Tj-1troJG2rTDcfVRnI_iH7Ngrzds/edit#heading=h.6l09j457zrt).
 
 ## After the interview
 
