@@ -37,6 +37,8 @@ Please remember to take notes and pass them along: they can be very useful to fu
 
 ## Before the call
 
+The candidate will have already received guidance from TTS Talent on what it’s like to interview at TTS and an explainer of payscales and term limits. This guide changes depending on the hiring authority used and the specifics of the role, but here’s an example [candidate guidance for a DHA role](https://docs.google.com/document/d/10n9DnWP07fjsRcM0Yw3z6OlbWi2nHcg0cKUhXIy-3po/edit) and for [a reserved hire role](https://docs.google.com/document/d/1ci_PgaJty6esQ_C0yk8DKP_8ySpdaxR9plVbK7AO95o/edit).
+
 Take a few minutes to familiarize yourself with the candidate’s resume and review [what to look for during a phone screen](https://docs.google.com/document/d/1La5M7YojZFEc0lvpQZ4Kc7dL8UgssBoJe3FqmmJwmK4/edit).
 
 ## Conversation outline
@@ -53,8 +55,6 @@ Begin by introducing yourself by saying this or something similar to it:
 
 - "What got you interested in 18F?"
 - Explain the role: what the role does, where it fits into 18F, and other details you find relevant. When finished, pause and ask if the candidate has questions about the role.
-- Pay scales: ask if the candidate has seen the GS-scales, and if they know the salary for the position. Clarify that, by default, offers will be at Step 1 (i.e. GS-14 Step 1, or GS-15 Step 1) though they may be able to negotiate for a higher step if they can show appropriate experience and salary from previous positions.
-    - Refer to the [Office of Personnel Management (OPM) 2020 Salary Calculator](https://www.opm.gov/policy-data-oversight/pay-leave/salaries-wages/2020/general-schedule-gs-salary-calculator/), but be sure 2020 is the current year. 😉
 
 ### Explore the candidate’s technical experience
 
