@@ -19,7 +19,7 @@ We know that the best way to tell if someone's a good engineer is to actually lo
 
 You have two options, explained below. Both options are equivalent in our eyes, so choose the one you think will be easiest and will present yourself in the best light.
 
-You must submit code in Python, Ruby, JavaScript, or Go -- choose the language that you're strongest in. If you want to use another language, we may be able to accommodate you, but please check with us first.
+18F’s core languages are Python, Ruby, and JavaScript. We may be able to review code in other languages as well, if we have a knowledgeable reviewer — just ask. Choose the language you’re strongest in — we’re looking to have a conversation with you about the decisions you’ve made in your code.
 
 **Please let us know right away what language you'll be using so we can select an appropriate reviewer.**
 
@@ -33,7 +33,7 @@ Your choices for code samples are:
 
 - You must be allowed to share this code with us (so, nothing you've produced under NDA, etc.). Open source is best.
 
-- As mentioned above, please submit code written in Python, Ruby, JavaScript, or Go (or contact us for a special arrangement).
+- As mentioned above, please submit code written in the language we agreed upon.
 
 - It should be short, no longer than 1,000 lines (shorter is OK!), and stand-alone.
 
@@ -54,8 +54,7 @@ Your choices for code samples are:
 - Each exercise has its own rules and instructions. Where our rules and Ad Hoc's
   differ, follow our rules. Let us know if you have questions!
 
-- As mentioned above, please use Python, Ruby, JavaScript, or Go (or contact us
-  for a special arrangement).
+- As mentioned above, please submit code written in the language we agreed upon.
 
 - Include documentation about your development environment and instructions on how to run your program. Make sure that someone familiar with your chosen language can easily run your code.
 
