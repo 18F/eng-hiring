@@ -54,6 +54,8 @@ The purpose of the debrief meeting is to:
 
   For candidates you did not rate a 5, what were you looking for that could have increased the candidate’s score?
 
+  This rating is used to prompt you to engage [system two thinking](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow#Two_systems), and determines your relative confidence in the candidate. It is one item of data in combination with the rest of the data you have presented.
+
 ## Conversation outline
 
 Begin by introducing the meeting:
@@ -78,6 +80,7 @@ After all interviews are complete, open the floor for any additional discussion:
 
 > Now that you’ve heard everyone’s interview debrief, would anybody like to change their scores, or provide additional comments and thoughts?
 
+As a reminder, the scoring numbers are used to determine relative confidence and are primarily tools to engage interviewers in a slow, deliberate thought process. Keep track of their score changes, and ask why they have changed — it is useful information (and is likely just as important if not more important than the score itself).
 
 ## After the meeting
 
