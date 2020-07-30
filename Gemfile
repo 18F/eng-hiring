@@ -6,7 +6,7 @@ gem 'jekyll'
 gem 'redcarpet'
 gem 'rouge'
 
-gem 'uswds-jekyll', :git => 'https://github.com/18F/uswds-jekyll.git', :branch => 'update-uswds-2.0'
+gem 'uswds-jekyll'
 gem 'jekyll-redirect-from'
 
 group :development do
