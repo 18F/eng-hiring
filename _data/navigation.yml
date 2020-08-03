@@ -1,3 +1,5 @@
+sidenav-breakpoint: 'desktop'
+
 primary:
   - text: 1. Resume review
     href: /resume-review/
