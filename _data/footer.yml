@@ -1,7 +1,7 @@
 # This is the configuration for the site footer.
 
 # Configuration for type of footer.
-# Footer types can be 'slim', 'medium', or 'big'.
+# Footer types can be 'slim', 'default', or 'big'.
 # https://designsystem.digital.gov/components/footers/
 type: big
 
@@ -41,4 +41,3 @@ contact:
       href: https://join.tts.gsa.gov/
     - text: joinTTS@gsa.gov
       href: mailto:joinTTS@gsa.gov
-

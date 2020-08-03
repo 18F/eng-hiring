@@ -20,9 +20,9 @@ subnav:
 This guide covers the engineering selection process, from resume review to turning over a candidate to HR for an offer.
 
 <div class="usa-alert usa-alert-info">
-  <div class="usa-alert-body">
-    <h3 class="usa-alert-heading">Are you looking to apply for a job?</h3>
-    <p class="usa-alert-text">
+  <div class="usa-alert__body">
+    <h3 class="usa-alert__heading">Are you looking to apply for a job?</h3>
+    <p class="usa-alert__text">
       You’ll find job announcements for 18F Engineering on the <a href="https://join.tts.gsa.gov/">Join the Technology Transformation Services (TTS)</a> website.
     </p>
   </div>
