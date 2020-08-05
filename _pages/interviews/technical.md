@@ -82,76 +82,68 @@ This probes for the ability to develop software in a repeatable and documentable
 
 If the candidate is applying for a specific technical role, ask the relevant position-specific questions.
 
-<ul class="usa-accordion--bordered">
-  <li>
+<div class="usa-accordion usa-accordion--bordered">
+  <h4 class="usa-accordion__heading">
     <button class="usa-accordion__button" aria-expanded="true" aria-controls="consulting">
       Consulting
     </button>
+  </h4>
     <div id="consulting" class="usa-accordion__content">
-      <ul>
-        <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.8lizmty3jisl">Please explain a complex technical concept or tool to me as if I were a non-technical partner</a></li>
-      </ul>
+        <a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.8lizmty3jisl">Please explain a complex technical concept or tool to me as if I were a non-technical partner</a>
     </div>
-  </li>
-  <li>
+  <h4 class="usa-accordion__heading">
     <button class="usa-accordion__button" aria-expanded="false" aria-controls="devops">
       DevOps/Site Reliability Engineering
     </button>
+  </h4>
     <div id="devops" class="usa-accordion__content">
-      <ul>
-        <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.8oo7fbtvctyj">“Tell me about a system you built/operated (or helped to build/operate) on top of a Infrastructure- or Platform-as-a-service?”</a></li>
+        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.8oo7fbtvctyj">“Tell me about a system you built/operated (or helped to build/operate) on top of a Infrastructure- or Platform-as-a-service?”</a></p>
 
-        <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.q9bs0tbbozgq">“What does Continuous Integration mean to you? What about Continuous Deployment? Why are they important? When have you done them?”</a></li>
+        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.q9bs0tbbozgq">“What does Continuous Integration mean to you? What about Continuous Deployment? Why are they important? When have you done them?”</a></p>
 
-        <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.ajllaso5g4ot">“You’re tasked with writing a guide for developers about ensuring high reliability for a web application. What topics would you cover?”</a></li>
+        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.ajllaso5g4ot">“You’re tasked with writing a guide for developers about ensuring high reliability for a web application. What topics would you cover?”</a></p>
 
-        <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.7yjx1psw8p0j">“Tell me about an infrastructure problem that you helped solve (for example: slow app performance, unexpected downtime; a security breach; etc). What was the problem, and how did you solve it?”</a></li>
+        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.7yjx1psw8p0j">“Tell me about an infrastructure problem that you helped solve (for example: slow app performance, unexpected downtime; a security breach; etc). What was the problem, and how did you solve it?”</a></p>
 
-        <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.1s7pt8lyer05">“Tell me about a time that you worked with a team to remediate a security issue.”</a></li>
-      </ul>
+        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.1s7pt8lyer05">“Tell me about a time that you worked with a team to remediate a security issue.”</a></p>
     </div>
-  </li>
-  <li>
+  <h4 class="usa-accordion__heading">
     <button class="usa-accordion__button" aria-expanded="false" aria-controls="infosec">
       Information Security
     </button>
+  </h4>
     <div id="infosec" class="usa-accordion__content">
-      <ul>
-        <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.5z8517vrmoea">Tell me about an existing security practice or process that you helped improve.</a></li>
 
-        <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.1s7pt8lyer05">Tell me about how you have worked with a team to remediate a security issue.</a></li>
+        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.5z8517vrmoea">Tell me about an existing security practice or process that you helped improve.</a></p>
 
-        <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.v2fk06y6uimr">Tell me about an innovative idea (i.e. a tool, practice, or policy) that you helped introduce.</a></li>
+        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.1s7pt8lyer05">Tell me about how you have worked with a team to remediate a security issue.</a></p>
 
-        <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.t6dedwrnx2k8">Describe a situation where you disagreed with someone about a security issue.</a></li>
-      </ul>
+        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.v2fk06y6uimr">Tell me about an innovative idea (i.e. a tool, practice, or policy) that you helped introduce.</a></p>
+
+        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.t6dedwrnx2k8">Describe a situation where you disagreed with someone about a security issue.</a></p>
+
     </div>
-  </li>
-  <li>
+  <h4 class="usa-accordion__heading">
     <button class="usa-accordion__button" aria-expanded="false" aria-controls="appsec">
       Application Security and Security Operations
     </button>
+  </h4>
     <div id="appsec" class="usa-accordion__content">
-      <ul>
-        <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.kp7l6vfz1yhg">Tell me about a secure development practice (or tool) you helped introduce to an engineering team.</a></li>
+        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.kp7l6vfz1yhg">Tell me about a secure development practice (or tool) you helped introduce to an engineering team.</a></p>
 
-        <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.tzmgeavlz1n8">Tell me about a security-related topic that you helped someone from a non-security background learn.</a></li>
-      </ul>
+        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.tzmgeavlz1n8">Tell me about a security-related topic that you helped someone from a non-security background learn.</a></p>
     </div>
-  </li>
-  <li>
+  <h4 class="usa-accordion__heading">
     <button class="usa-accordion__button" aria-expanded="false" aria-controls="pentest">
       Penetration Testing
     </button>
+  </h4>
     <div id="pentest" class="usa-accordion__content">
-      <ul>
-        <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.7x7o7oomtxsw">Tell me about a particularly interesting vulnerability that you discovered.</a></li>
+        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.7x7o7oomtxsw">Tell me about a particularly interesting vulnerability that you discovered.</a></p>
 
-        <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.9egaga9vhkzm">Tell me about a time when you reported an issue you discovered to a development team.</a></li>
-      </ul>
+        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.9egaga9vhkzm">Tell me about a time when you reported an issue you discovered to a development team.</a></p>
     </div>
-  </li>
-</ul>
+</div>
 
 ### Conclusion
 
