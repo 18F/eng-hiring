@@ -82,22 +82,22 @@ This probes for the ability to develop software in a repeatable and documentable
 
 If the candidate is applying for a specific technical role, ask the relevant position-specific questions.
 
-<ul class="usa-accordion-bordered">
+<ul class="usa-accordion--bordered">
   <li>
-    <button class="usa-accordion-button" aria-expanded="true" aria-controls="consulting">
+    <button class="usa-accordion__button" aria-expanded="true" aria-controls="consulting">
       Consulting
     </button>
-    <div id="consulting" class="usa-accordion-content">
+    <div id="consulting" class="usa-accordion__content">
       <ul>
         <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.8lizmty3jisl">Please explain a complex technical concept or tool to me as if I were a non-technical partner</a></li>
       </ul>
     </div>
   </li>
   <li>
-    <button class="usa-accordion-button" aria-expanded="false" aria-controls="devops">
+    <button class="usa-accordion__button" aria-expanded="false" aria-controls="devops">
       DevOps/Site Reliability Engineering
     </button>
-    <div id="devops" class="usa-accordion-content">
+    <div id="devops" class="usa-accordion__content">
       <ul>
         <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.8oo7fbtvctyj">“Tell me about a system you built/operated (or helped to build/operate) on top of a Infrastructure- or Platform-as-a-service?”</a></li>
 
@@ -112,10 +112,10 @@ If the candidate is applying for a specific technical role, ask the relevant pos
     </div>
   </li>
   <li>
-    <button class="usa-accordion-button" aria-expanded="false" aria-controls="infosec">
+    <button class="usa-accordion__button" aria-expanded="false" aria-controls="infosec">
       Information Security
     </button>
-    <div id="infosec" class="usa-accordion-content">
+    <div id="infosec" class="usa-accordion__content">
       <ul>
         <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.5z8517vrmoea">Tell me about an existing security practice or process that you helped improve.</a></li>
 
@@ -128,10 +128,10 @@ If the candidate is applying for a specific technical role, ask the relevant pos
     </div>
   </li>
   <li>
-    <button class="usa-accordion-button" aria-expanded="false" aria-controls="appsec">
+    <button class="usa-accordion__button" aria-expanded="false" aria-controls="appsec">
       Application Security and Security Operations
     </button>
-    <div id="appsec" class="usa-accordion-content">
+    <div id="appsec" class="usa-accordion__content">
       <ul>
         <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.kp7l6vfz1yhg">Tell me about a secure development practice (or tool) you helped introduce to an engineering team.</a></li>
 
@@ -140,10 +140,10 @@ If the candidate is applying for a specific technical role, ask the relevant pos
     </div>
   </li>
   <li>
-    <button class="usa-accordion-button" aria-expanded="false" aria-controls="pentest">
+    <button class="usa-accordion__button" aria-expanded="false" aria-controls="pentest">
       Penetration Testing
     </button>
-    <div id="pentest" class="usa-accordion-content">
+    <div id="pentest" class="usa-accordion__content">
       <ul>
         <li><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.7x7o7oomtxsw">Tell me about a particularly interesting vulnerability that you discovered.</a></li>
 
