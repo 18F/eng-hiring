@@ -19,7 +19,7 @@ subnav:
 
 This guide covers the engineering selection process, from resume review to turning over a candidate to HR for an offer.
 
-<div class="usa-alert usa-alert-info">
+<div class="usa-alert usa-alert--info">
   <div class="usa-alert__body">
     <h3 class="usa-alert__heading">Are you looking to apply for a job?</h3>
     <p class="usa-alert__text">
