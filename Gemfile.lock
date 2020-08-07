@@ -93,7 +93,7 @@ DEPENDENCIES
   rake
   redcarpet
   rouge
-  uswds-jekyll (= 5.0.0)
+  uswds-jekyll (~> 5.0)
 
 RUBY VERSION
    ruby 2.7.0p0
