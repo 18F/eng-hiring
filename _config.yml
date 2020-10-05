@@ -32,6 +32,8 @@ github_info:
   default_branch: master
 
 google_analytics_ua: UA-48605964-19
+dap_agency: GSA
+dap_subagency: TTS
 
 collections:
   pages:
