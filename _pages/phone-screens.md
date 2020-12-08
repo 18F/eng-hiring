@@ -43,7 +43,9 @@ Take a few minutes to familiarize yourself with the candidate’s resume, copy t
 
 <a class="usa-button usa-button-primary" href="https://docs.google.com/document/d/1vMvOODdI_aRMPj6GpzkfY0KxmsUZLKCngun3ub6yJJY/copy">Make a copy</a> of [the notes template](https://docs.google.com/document/d/1vMvOODdI_aRMPj6GpzkfY0KxmsUZLKCngun3ub6yJJY/edit).
 
-## Introduce yourself and set expectations
+## Conversation Outline
+
+### Introduce yourself and set expectations
 
 Begin by introducing yourself by saying this or something similar to it:
 
