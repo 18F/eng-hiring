@@ -17,17 +17,19 @@ subnav:
 
 The goal of a phone screen is to assess a candidate's rough fit for the position we're hiring, and to evaluate if a candidate should be interviewed for the position.
 
+Phone screens are performed by someone on the 18F Engineering Hiring team, and often the same person performs all phone screens for a given hiring group.
+
 {% include unconscious-bias-warning.html %}
 
 ## Purpose
 
 Broadly, a phone screen accomplishes two purposes:
 
-1. **Make sure the candidate is aware of the unique nature of the job, and is happy to move forward.** Working at 18F isn't for everyone: some candidates are paid less than past positions, have to deal with more bureaucracy, and face a monumentally difficult task. If candidates aren't up for the mission and challenge, we want to find that out quickly!
+1. **Make sure the candidate is aware of the unique nature of the job, and is happy to move forward.** Working at 18f presents unique challenges of working in government, remotely, and with external partners. If candidates aren't up for the mission and challenge, we want to find that out quickly! It's also not uncommon for candidates to self-select out after the phone screen.
 
-2. **Screen out candidates who won't work out.** Candidates who don't share our values, do not match the required skills for the position, or are interested in working on things or in ways which we cannot offer.
+2. **Screen out candidates who would not be successful.** Candidates who don't share our values, do not match the required skills for the position, or are interested in working on things or in ways which we cannot offer.
 
-Phone screens are performed by someone on the 18F Engineering Hiring team, and often the same person performs all phone screens for a given hiring group. Phone screens are a rough filter: it can't be used to really qualify a candidate, but it can be used to disqualify. It's also not uncommon for candidates to self-select out after the phone screen.
+Phone screens are a rough filter: it can't be used to really qualify a candidate, but it can be used to disqualify.
 
 **Because phone screens are decided upon by a single individual, phone screeners should be especially wary about their unconscious bias.**
 
@@ -41,7 +43,7 @@ Take a few minutes to familiarize yourself with the candidate’s resume, copy t
 
 <a class="usa-button usa-button-primary" href="https://docs.google.com/document/d/1vMvOODdI_aRMPj6GpzkfY0KxmsUZLKCngun3ub6yJJY/copy">Make a copy</a> of [the notes template](https://docs.google.com/document/d/1vMvOODdI_aRMPj6GpzkfY0KxmsUZLKCngun3ub6yJJY/edit).
 
-## Conversation outline
+## Introduce yourself and set expectations
 
 Begin by introducing yourself by saying this or something similar to it:
 
@@ -53,11 +55,11 @@ Begin by introducing yourself by saying this or something similar to it:
 >
 > I’m excited that you’re here — are you ready to get started?
 
-### Discuss the candidate’s career history and path forward
+### Discuss the candidate’s career history and path
 
 Give the candidate space to tell their story, so we can hear how they view themselves and where they are heading in their career.
 
-- "Tell me about yourself."
+- "Tell me your professional story."
   - "Tell me about a few of your recent projects."
 - "What got you interested in 18F?"
 - "What are you looking for in your next ideal role, and what things are most important for you?"
@@ -76,7 +78,11 @@ We are an open source organization that prefers working with languages and tools
 
 #### Consulting and coaching
 
-We are a consulting organization. This role involves consulting — creating clarity around problems both technical and people-oriented, understanding and processing resistance to change, and applying your technical expertise to advise how a project will be most successful. As a consultant, we operate with influence but without authority on projects.
+We are a consulting organization, and this role is focused on consulting; that is:
+
+- creating clarity around problems both technical and people-oriented,
+- understanding and processing resistance to change,
+- and applying your technical expertise to advise how a project will be most successful.
 
 - "Technical problems aren’t always the hardest problems we face. Can you tell me about a time when you've needed to solve a problem that had a non-technical dimension? How did you approach it?"
 - "Can you tell me about a time when you've been on a project with multiple competing stakeholders and how you navigated it?"
@@ -92,31 +98,29 @@ We work on cross-functional teams. To us, that means teams which are made up of 
 
 #### Values and team contributions
 
-We are a team that values diversity, equity, and inclusion. 18F is committed to building a safe, welcoming, harassment-free culture for everyone where we as individuals are free to take risks and challenge each other. We do not merely want a work environment that is free from hostility; we want one that is actively welcoming and inclusive. We want our team and our workplace culture to reflect and celebrate the diversity of the public we serve, and we work hard to ensure that everyone is treated fairly and respectfully.
+We are a team that values diversity, equity, and inclusion. 18F is committed to building a safe, welcoming, harassment-free culture for everyone where we as individuals are free to take risks and challenge each other. We do not merely want a work environment that is free from hostility; we want one that is actively welcoming, inclusive, and fosters an environment of belonging. We want our team and our workplace culture to reflect and celebrate the diversity of the public we serve, and we work hard to ensure that everyone is treated fairly and respectfully.
 
-- "What do you see the key factors are in enabling a team or organization to foster inclusiveness and belonging?"
+- "In inclusive work environments, employees feel a sense of belonging within the organization and feel that their voices are heard. How do you foster a culture of belonging? What organizational cultures in workplaces do you admire, and why?"
 - "Can you tell me about a time you’ve worked with or for communities different than your own, and what did you learn?"
 
 #### Agility and agile methods
 
-We start our projects by exploring the problem space and performing research to see if we’re solving the right problem. As projects advance, we repeatedly check-in with experts — the end-users — to see if our understanding of the problem and our current proposed solution are correct, and be able to adjust or pivot if we need to change course.
+We are an agile organization. We start our projects by exploring the problem space and performing research to see if we’re solving the right problem. As projects advance, we repeatedly check-in with experts — the end-users — to see if our understanding of the problem and our current proposed solution are correct, and be able to adjust or pivot if we need to change course.
 
-- "Can you tell me about a time when a project changed and you had to reset expectations for your work?"
+- "- "Can you tell me about a time when a project changed and you had to reset expectations for your work?"
 - "Can you tell me about your experience with agile methods and practices and how they affected your work?"
 
 #### Remote and distributed work
 
-Even if you plan to work in one of our offices, you will be working with project teams which are geographically distributed. Under normal circumstances, you will be asked to travel occasionally (a few times a year) for 2-3 day periods to hold in-person workshops with project teams.
+We are a remote-first organization. Even if you plan to work in one of our offices when they re-open, you will be working with project teams which are geographically distributed. Under normal circumstances, you will be asked to travel occasionally (a few times a year) for 2-3 day periods to hold in-person workshops with project teams.
 
-- "Have you ever worked with a remote/distributed team before?"
-  - "How did you overcome any communication challenges and barriers?"
-- "What do you think are the crucial skills, tools, and resources needed to make a remote-first team work well?"
+- "Have you ever worked with a remote/distributed team before? If so, how did you overcome any communication challenges and barriers? If not, how would you approach it?"
+- "What do you think are the crucial skills, tools, and resources needed to make a remote-first team collaborative?"
 
-### Leave time to answer their questions
+### Give the candidate space to interview us
 
-- "What questions do you have for me?"
+- I’ve asked all of the questions on my list, and the rest of the time is yours. What questions can I answer for you?
 
 ## After the call
 
 **Thank you for your focus!** Use your notes to fill out the feedback form linked in the calendar invitation, which will help prepare for [interviews]({{site.baseurl}}/interviews/).
-

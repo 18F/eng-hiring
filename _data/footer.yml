@@ -36,6 +36,11 @@ logos:
 
 # Configuration for footer contact links
 contact:
+  social_links:
+    - text: Twitter
+      href: https://twitter.com/18f
+      external: true
+      type: twitter
   contact_links:
     - text: Join TTS
       href: https://join.tts.gsa.gov/
