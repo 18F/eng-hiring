@@ -6,7 +6,7 @@ gem 'jekyll'
 gem 'redcarpet'
 gem 'rouge'
 
-gem 'uswds-jekyll', '~> 5.0'
+gem 'uswds-jekyll', '~> 5.2.0'
 gem 'jekyll-redirect-from'
 
 group :development do
