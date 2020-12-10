@@ -1,39 +1,20 @@
-title: 18F Engineering Hiring Guide
-description: This guide covers the engineering selection process, from resume review to turning over a candidate to HR for an offer.
+theme: uswds-jekyll
 exclude:
-- CONTRIBUTING.md
-- Gemfile
-- Gemfile.lock
-- LICENSE.md
-- README.md
-- vendor
+  - CONTRIBUTING.md
+  - Dockerfile
+  - docker-compose.yml
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE.md
+  - README.md
+  - override.yml
 
 permalink: pretty
-highlighter: rouge
-incremental: true
-
-plugins:
-  - jekyll-redirect-from
-
-author:
-  name: 18F
-  url: https://18f.gsa.gov
-
-# Point the logo URL at a file in your repo or hosted elsewhere by your organization
-logourl: /assets/img/18f-logo.png
-logoalt: 18F logo
 
 sass:
-  style: compressed
+  style: :compressed
 
-github_info:
-  organization: 18F
-  repository: eng-hiring
-  default_branch: master
-
-google_analytics_ua: UA-48605964-19
-dap_agency: GSA
-dap_subagency: TTS
+collections_dir: _guide
 
 collections:
   pages:
@@ -41,12 +22,16 @@ collections:
     permalink: /:path/
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
-      layout: page
+      layout: post
 
-theme: uswds-jekyll
+google_analytics_ua: UA-48605964-19
+dap_agency: GSA
+dap_subagency: TTS
 
-search_site_handle: eng-hiring.18f.gov
+scripts:
+  - /assets/uswds/js/uswds.min.js
+  - /assets/js/private-eye.js
+  - /assets/js/application.js
