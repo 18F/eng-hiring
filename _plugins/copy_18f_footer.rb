@@ -5,9 +5,13 @@ module Jekyll
     def generate(site)
         #get 18f footer
         base_uri = 'https://raw.githubusercontent.com/18F/18f.gsa.gov/main/'
-        assets = [{dest:'_includes/footer.html', filename:'_includes/navigation/footer.html'}]
+        assets = [{dest:'_includes/footer.html', filename:'_includes/navigation/footer.html'},
+          {dest:'assets/img/social-icons/svg/linkedin.svg', filename:'assets/img/social-icons/svg/linkedin.svg'},
+          {dest:'assets/img/social-icons/svg/github-dark.svg', filename:'assets/img/social-icons/svg/github-dark.svg'}]
 
-        grab_remote_file(assets[0], base_uri)
+        assets.each |asset| do
+         grab_remote_file(asset, base_uri)
+        end
     end
 
     def grab_remote_file(file_attr, base_uri)
