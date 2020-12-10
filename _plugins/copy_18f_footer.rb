@@ -10,7 +10,7 @@ module Jekyll
         Net::HTTP.start(u.host, u.port, :use_ssl => true) do |http|
             request = Net::HTTP::Get.new(u)
             http.request(request) do |response|
-            open(assets[0].filename, "wb") do |file|
+            open(assets[0].dest, "wb") do |file|
               response.read_body do |chunk|
                 file.write(chunk)
               end
