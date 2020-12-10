@@ -1,4 +1,5 @@
 require 'net/http'
+require 'fileutils'
 
 module Jekyll
   class JekyllCopyUswds < Generator
@@ -7,9 +8,12 @@ module Jekyll
         base_uri = 'https://raw.githubusercontent.com/18F/18f.gsa.gov/main/'
         assets = [{dest:'_includes/footer.html', filename:'_includes/navigation/footer.html'},
           {dest:'assets/img/social-icons/svg/linkedin.svg', filename:'assets/img/social-icons/svg/linkedin.svg'},
-          {dest:'assets/img/social-icons/svg/github-dark.svg', filename:'assets/img/social-icons/svg/github-dark.svg'}]
+          {dest:'assets/img/social-icons/svg/github-dark.svg', filename:'assets/img/social-icons/svg/github-dark.svg'},
+          {dest:'_sass/main.scss', filename:'_sass/_components/social-links.scss'},
+          {dest: '_data/usa_anchor.yml', filename:'_data/usa_anchor.yml'},
+          {dest: 'assets/img/logos/gsa-logo-w100.png', filename: 'assets/img/logos/gsa-logo-w100.png'}]
 
-        assets.each |asset| do
+        assets.each do |asset| 
          grab_remote_file(asset, base_uri)
         end
     end
@@ -19,6 +23,7 @@ module Jekyll
       Net::HTTP.start(u.host, u.port, :use_ssl => true) do |http|
           request = Net::HTTP::Get.new(u)
           http.request(request) do |response|
+          create_directories(file_attr[:dest])
           open(file_attr[:dest], "wb") do |file|
             response.read_body do |chunk|
               file.write(chunk)
@@ -26,7 +31,14 @@ module Jekyll
           end
         end
       end
-      puts "Done."
+      puts "Created:" + file_attr[:dest]
+    end
+    
+    def create_directories(some_path)
+      dirname = File.dirname(some_path)
+      unless File.directory?(dirname)
+        FileUtils.mkdir_p(dirname)
+      end
     end
   end
 end

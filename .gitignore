@@ -5,3 +5,8 @@ _site/
 .jekyll*
 Staticfile.auth
 _includes/footer.html
+assets/img/social-icons/svg/linkedin.svg
+assets/img/social-icons/svg/github-dark.svg
+_sass/main.scss
+_data/usa_anchor.yml
+assets/img/logos/gsa-logo-w100.png
