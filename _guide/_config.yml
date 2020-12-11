@@ -1,0 +1,51 @@
+# Configuration in this file overrides those in _config.yml.
+# Required keys:
+# - title
+# - description
+# - url
+# - github_info
+# - search_site_handle
+# Optional keys
+# - org
+
+title: 18F Engineering Hiring Guide
+description: This guide covers the engineering selection process, from resume review to turning over a candidate to HR for an offer.
+exclude:
+- CONTRIBUTING.md
+- Gemfile
+- Gemfile.lock
+- LICENSE.md
+- README.md
+- vendor
+
+permalink: pretty
+highlighter: rouge
+incremental: true
+
+plugins:
+  - jekyll-redirect-from
+
+org: 18F
+url: https://eng-hiring.18f.gov/
+
+author:
+  name: 18F
+  url: https://18f.gsa.gov
+
+# Point the logo URL at a file in your repo or hosted elsewhere by your organization
+logourl: /assets/img/18f-logo.png
+logoalt: 18F logo
+
+github_info:
+  organization: 18F
+  repository: eng-hiring
+  default_branch: main
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: page
+
+search_site_handle: eng-hiring.18f.gov
