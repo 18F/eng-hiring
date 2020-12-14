@@ -1,6 +1,21 @@
-_site/
-.sass-cache/
-.DS_store
+*.gem
+node_modules/
+.DS_Store
+
+# Environment normalization:
+/.bundle/
+/vendor/bundle
+/lib/bundler/man/
+
+# unless supporting rvm < 1.11.0 or doing something fancy, ignore this:
+.rvmrc
+
+# Jekyll stuff
+.jekyll-cache
+.jekyll-metadata
+.jekyll-cache
+_site
+.sass-cache
+
 .*.swp
-.jekyll*
 Staticfile.auth
