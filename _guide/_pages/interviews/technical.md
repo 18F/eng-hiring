@@ -61,13 +61,15 @@ to produce and defend a desired solution. Preface by saying there’s no right a
 
 Help guide the candidate to the right line of thinking, don’t allow them to get too bogged down in the wrong line of thinking — help them get back on track.
 
-* ["How would you design software to run elevators? Can you talk through a high-level design? How would accommodating different building types change your design?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.tgd47iei6k4w)
+* ["Let's say you and your team are tasked to build a feature or an app that would support photo sharing. How would you approach the design and build for this?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.tgd47iei6k4w)
 
 * ["Tell me about a difficult technical problem that you helped solve: what was the problem, and how was it solved?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.ory7bezha9al)
 
+* ["As much as we like to rely on well-trod open source paths, engineers often encounter technical stacks that they have little or no familiarity with. What is your approach to tackling new or unknown software technologies?"]()
+
 ### Agile orientation
 
-* ["Tell me about your experience with agile or other collaborative working styles. How does working in an agile way affect the technical choices you make?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.p3zgydisjuv3)
+* ["Whether or not you’ve had direct experience with agile, in an agile environment, how do you approach trade-offs?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.p3zgydisjuv3)
 
 
 ### Maintainable software development
@@ -78,72 +80,9 @@ This probes for the ability to develop software in a repeatable and documentable
 
 * ["Tell me about your approach to software testing. Why is it important and when have you done it? Where does it belong in the process?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.8vmh70tr7j6b)
 
-### Position-specific questions
+* ["Tell me about what considerations, technical and non-technical, you take into getting an application or system ready for production."]()
 
-If the candidate is applying for a specific technical role, ask the relevant position-specific questions.
-
-<div class="usa-accordion usa-accordion--bordered">
-  <h4 class="usa-accordion__heading">
-    <button class="usa-accordion__button" aria-expanded="true" aria-controls="consulting">
-      Consulting
-    </button>
-  </h4>
-    <div id="consulting" class="usa-accordion__content">
-        <a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.8lizmty3jisl">Please explain a complex technical concept or tool to me as if I were a non-technical partner</a>
-    </div>
-  <h4 class="usa-accordion__heading">
-    <button class="usa-accordion__button" aria-expanded="false" aria-controls="devops">
-      DevOps/Site Reliability Engineering
-    </button>
-  </h4>
-    <div id="devops" class="usa-accordion__content">
-        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.8oo7fbtvctyj">“Tell me about a system you built/operated (or helped to build/operate) on top of a Infrastructure- or Platform-as-a-service?”</a></p>
-
-        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.q9bs0tbbozgq">“What does Continuous Integration mean to you? What about Continuous Deployment? Why are they important? When have you done them?”</a></p>
-
-        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.ajllaso5g4ot">“You’re tasked with writing a guide for developers about ensuring high reliability for a web application. What topics would you cover?”</a></p>
-
-        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.7yjx1psw8p0j">“Tell me about an infrastructure problem that you helped solve (for example: slow app performance, unexpected downtime; a security breach; etc). What was the problem, and how did you solve it?”</a></p>
-
-        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.1s7pt8lyer05">“Tell me about a time that you worked with a team to remediate a security issue.”</a></p>
-    </div>
-  <h4 class="usa-accordion__heading">
-    <button class="usa-accordion__button" aria-expanded="false" aria-controls="infosec">
-      Information Security
-    </button>
-  </h4>
-    <div id="infosec" class="usa-accordion__content">
-
-        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.5z8517vrmoea">Tell me about an existing security practice or process that you helped improve.</a></p>
-
-        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.1s7pt8lyer05">Tell me about how you have worked with a team to remediate a security issue.</a></p>
-
-        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.v2fk06y6uimr">Tell me about an innovative idea (i.e. a tool, practice, or policy) that you helped introduce.</a></p>
-
-        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.t6dedwrnx2k8">Describe a situation where you disagreed with someone about a security issue.</a></p>
-
-    </div>
-  <h4 class="usa-accordion__heading">
-    <button class="usa-accordion__button" aria-expanded="false" aria-controls="appsec">
-      Application Security and Security Operations
-    </button>
-  </h4>
-    <div id="appsec" class="usa-accordion__content">
-        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.kp7l6vfz1yhg">Tell me about a secure development practice (or tool) you helped introduce to an engineering team.</a></p>
-
-        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.tzmgeavlz1n8">Tell me about a security-related topic that you helped someone from a non-security background learn.</a></p>
-    </div>
-  <h4 class="usa-accordion__heading">
-    <button class="usa-accordion__button" aria-expanded="false" aria-controls="pentest">
-      Penetration Testing
-    </button>
-  </h4>
-    <div id="pentest" class="usa-accordion__content">
-        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.7x7o7oomtxsw">Tell me about a particularly interesting vulnerability that you discovered.</a></p>
-
-        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.9egaga9vhkzm">Tell me about a time when you reported an issue you discovered to a development team.</a></p>
-    </div>
-</div>
+* ["Pick a foundational web development concept or technology and explain it at two levels: first as you would to a colleague who’s not a software developer, like a designer or product manager; next, as you would to a peer."]()
 
 ### Conclusion
 
