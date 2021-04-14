@@ -33,7 +33,7 @@ The interview should last roughly one hour, and include some segments in which t
 
 ## Before the interview
 
-Take a few minutes to familiarize yourself with the candidate’s resume and review [the good and bad signs](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit) for the questions you’ll be asking.
+Take a few minutes to familiarize yourself with the candidate’s resume and review [the good and bad signs](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.ssudnodswllk) for the questions you’ll be asking.
 
 ## Conversation outline
 
@@ -54,9 +54,9 @@ Begin by introducing yourself by saying this or something similar to it:
 - "Has anyone given you any background on 18F or spoken with you in detail about 18F’s history, purpose, and mission?"
     - If not, fill them in; if so, answer questions (if they've got them).
 
-- ["What drew you to 18F?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.6qssbuvkhie2)
+- ["Can you tell me a little bit about your background and how 18F fits into that picture?"](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.6qssbuvkhie2)
 
-Make a note of key phrases or words that the candidate mentions their response (e.g., “I want my work to have a meaningful impact”); you can use these for hooks that there are hooks for questions later in the interview as you transition from one set of questions to the next.
+Make a note of key phrases or words that the candidate mentions their response (e.g., “I want my work to have a meaningful impact”); you can use these hooks for questions later in the interview as you transition from one set of questions to the next.
 
 ### Relevant work experience
 
@@ -64,26 +64,18 @@ After the introduction, follow up with a discussion around relevant work experie
 
 This question could go in a few different directions depending on the candidates experience. Ask one (or more) of the following:
 
-- [Tell me a bit more about your experience at COMPANY / on PROJECT](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.z49dyqcuxle5)
+- [Tell me a bit more about your experience at COMPANY / on PROJECT](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.8gbmhtmnymv9)
     - What challenges did you face and how did you overcome them?
     - If a project: Why did the project succeed/fail?
     - If a company: Why did/are you ultimately decide/deciding to move on?
 
-- [Have you worked directly with customers/clients before?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.z49dyqcuxle5)
+- [Have you worked directly with customers/clients before?](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.8w4325mhjtnd)
     - If applicable: Could you speak about a time when you dealt with a particularly difficult client?
 
-- [Talk to me about how you prioritize features.](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.z49dyqcuxle5)
-    - How do you balance requests from various stakeholders, especially when their priority is different than yours?
+- [Tell me about your experience working on teams that directly involved non-engineers. How did you approach working with others with different professional skills?](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.6qssa3tfp2ht)
+    - How did you resolve any conflicts that arose?
+    - How did you incorporate other perspectives into your technical choices, especially when that might lead you to a different technical strategy?
 
-- [Have you had a chance to participate in user-centered design and/or user research?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.z49dyqcuxle5)
-    - If yes: Could you speak about a time when business needs or management directives conflicted with executing on a user-centered design approach?
-    - If yes: How did you overcome this challenge and what was the resolution?
-    - If no: What does user-centered design mean to you?
-
-- [Could you describe your experience with agile software development, if you have any?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.z49dyqcuxle5)
-    - If yes: Were you actively involved in helping your team/department/organization transition to agile?
-        - What challenges did you face, if any, and how did you overcome them?
-    - If no: What does agile software development mean to you?
 
 ### Communication and collaboration
 
@@ -91,50 +83,22 @@ Following a discussion around a candidate’s relevant work experience, transiti
 
 Ask one (or more) of these questions, as appropriate:
 
-- [Have you ever worked with a remote/distributed team before?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.95oxlva5ufr7)
-    - If yes: What tools and/or mechanisms did you use to help promote open dialogue and foster communication between yourself and your teammates?
-    - If yes: How did you overcome any communication challenges and barriers?
-    - If no: what challenges do you anticipate? What do you think you'll need to be successful?
+- [18F is a fully distributed, remote team. What steps would you take to ensure that you and your team are always in sync with each other?](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.kbq69akgkj00)
+    - (If the candidate only talks about communicating with other engineers) How do you know if you’re communicating well with designers, PMs, product owners, and other non-engineers on your team?
 
-- [Have you ever faced any challenges with a coworker or manager?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.95oxlva5ufr7)
-    - If applicable: How did you resolve the matter?
-
-- [What steps would you take to ensure that you and your team are always in sync with each other?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.95oxlva5ufr7)
-
-- [Can you describe a time or situation in which you saw or noted something that wasn’t working well and advocated for an improvement?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.95oxlva5ufr7)
+- [Can you describe a time or situation in which you saw or noted something that wasn’t working well and advocated for an improvement?](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.2jqlt72nbfcu)
     - If applicable: What challenges did you face in doing this?
     - If applicable: Did your efforts succeed or fail, and can you explain why?
     - If applicable: Did you solicit help from your colleagues and/or manager?
 
-- [What is your work ethic and how do you approach work?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.95oxlva5ufr7)
-
-- [What is your preferred work/management style?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.95oxlva5ufr7)
-
-- [When you learn something new, how do you share it with your team?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.95oxlva5ufr7)
-
-### Technology and open source
-
-Regardless of whether or not the candidate is applying for a software development position, 18F relies heavily on technology and open source to execute its mission. This section focuses on those skills and experience.
-
-- [Have you ever worked with open source before?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.3qcfg9pfhobk)
-    - If applicable: What were you involved with, and what was your role?
-    - If applicable: How did you contribute?
-
-- [Are you comfortable with sharing your work in a public fashion?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.3qcfg9pfhobk)
-
-- [Have you ever advocated for open source in a previous job?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.3qcfg9pfhobk)
-    - If applicable: Were you successful in doing so, and why or why not?
-
-- [What is your comfort level with peer-reviewed work?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.3qcfg9pfhobk)
-    - If applicable: Have you proactively sought additional training and/or peer review?
-
-- [How would you deal with a bug in an open source project?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.3qcfg9pfhobk)
 
 ### Diversity, equity, and inclusion
 
 Diversity, equity, and inclusion are core values for 18F and the engineering chapter. These questions are meant to shed light on the candidate's experience and thoughts.
 
-- "At 18F we strive to be as representative of the populace as possible and work hard to ensure that everyone understands this notion and is treated fairly and respectfully. [What do diversity, equity, and inclusion mean to you?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.5kwvj8b9hvhd)"
+- "[Tell me about a time you’ve worked with or for communities different than your own. What did you learn?](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.u30z4bws4grp)"
+    - What do diversity and inclusion mean to you?
+    - How do you take equity into consideration in your software practice?
 
 ### Overall experience and outlook
 
@@ -142,20 +106,9 @@ Begin closing the interview by asking general questions to ensure we develop a m
 
 Ask one or more of the following:
 
-- [Tell me about a time that something at work didn’t go well.](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.6e8l8bhmhbi3)
-- [Tell me about a time you worked with or for communities different than your own.](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.6e8l8bhmhbi3)
-- [Tell me about what you’ve done that you’re most proud of.](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.6e8l8bhmhbi3)
+- [At 18F, we sometimes find ourselves needing to create a strategic direction from  conflicting expectations. Tell me about a time you had to reset expectations with a product owner or customer and how you went about it.](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.2i6wokvb700e)
+- [Tell me about what you’ve done that you’re most proud of.](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.pssei38irerc)
 
-### Conclusion
-
-Wrap up the interview by tying things back to why the candidate is looking to join 18F. Hopefully the answers and discussions around the specific questions provide a modicum of context around the candidate’s motivations and desires, in which it will be a lot easier to determine if their personal and professional goals align with 18F’s needs and mission.
-
-Ask one or more of the following:
-
-- [Could you describe what you are looking for in your next job?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.frpyzn3gj97y)
-- [What are your expected outcomes of joining 18F?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.frpyzn3gj97y)
-- [What do you think you’ll be able to accomplish at 18F?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.frpyzn3gj97y)
-- [Is there anything that you feel we should have asked you relating to your personal or professional goals that we did not?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.frpyzn3gj97y)
 
 **Lastly, make sure to ask the candidate if they have any questions for you!**
 
