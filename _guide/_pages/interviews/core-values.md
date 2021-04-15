@@ -83,7 +83,7 @@ Following a discussion around a candidate’s relevant work experience, transiti
 
 Ask one (or more) of these questions, as appropriate:
 
-- [18F is a fully distributed, remote team. What steps would you take to ensure that you and your team are always in sync with each other?](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.kbq69akgkj00)
+- [18F is a fully distributed, remote-first team. What steps would you take to ensure that you and your team are always in sync with each other?](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.kbq69akgkj00)
     - (If the candidate only talks about communicating with other engineers) How do you know if you’re communicating well with designers, PMs, product owners, and other non-engineers on your team?
 
 - [Can you describe a time or situation in which you saw or noted something that wasn’t working well and advocated for an improvement?](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.2jqlt72nbfcu)
