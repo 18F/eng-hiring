@@ -61,28 +61,29 @@ to produce and defend a desired solution. Preface by saying there’s no right a
 
 Help guide the candidate to the right line of thinking, don’t allow them to get too bogged down in the wrong line of thinking — help them get back on track.
 
-* ["Let's say you and your team are tasked to build a feature or an app that would support photo sharing. How would you approach the design and build for this?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.tgd47iei6k4w)
+* ["Let's say you and your team are tasked to build a feature or an app that would support photo sharing. How would you approach the design and build for this?"](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.tgd47iei6k4w)
 
-* ["Tell me about a difficult technical problem that you helped solve: what was the problem, and how was it solved?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.ory7bezha9al)
+* ["Tell me about a difficult technical problem that you helped solve: what was the problem, and how was it solved?"](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.ory7bezha9al)
 
-* ["As much as we like to rely on well-trod open source paths, engineers often encounter technical stacks that they have little or no familiarity with. What is your approach to tackling new or unknown software technologies?"]()
+* ["As much as we like to rely on well-trod open source paths, engineers often encounter technical stacks that they have little or no familiarity with. What is your approach to tackling new or unknown software technologies?"](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.x5ub9jdkb2nu)
 
 ### Agile orientation
 
-* ["Whether or not you’ve had direct experience with agile, in an agile environment, how do you approach trade-offs?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.p3zgydisjuv3)
+* ["Whether or not you’ve had direct experience with agile, in an agile environment, how do you approach trade-offs?"](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.aq4p1thowhq)
 
 
 ### Maintainable software development
 
 This probes for the ability to develop software in a repeatable and documentable way, with emphasis on automation, testing, measuring, and scaling infrastructure.
 
-* ["What does refactoring mean to you? Why is it important and when have you done it? Where does it belong in the process?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.iiceusfwxdz6)
+* ["Pick a foundational web development concept or technology and explain it at two levels: first as you would to a colleague who’s not a software developer, like a designer or product manager; next, as you would to a peer."](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.rnjhk6kct2y)
 
-* ["Tell me about your approach to software testing. Why is it important and when have you done it? Where does it belong in the process?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.8vmh70tr7j6b)
+* ["Tell me about your approach to software testing. Why is it important and when have you done it? Where does it belong in the process?"](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.8vmh70tr7j6b)
 
-* ["Tell me about what considerations, technical and non-technical, you take into getting an application or system ready for production."]()
+* ["What does refactoring mean to you? Why is it important and when have you done it? Where does it belong in the process?"](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.iiceusfwxdz6)
 
-* ["Pick a foundational web development concept or technology and explain it at two levels: first as you would to a colleague who’s not a software developer, like a designer or product manager; next, as you would to a peer."]()
+* ["Tell me about what considerations, technical and non-technical, you take into getting an application or system ready for production."](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.bhguxv5yb1r0)
+
 
 ### Conclusion
 
