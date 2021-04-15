@@ -34,7 +34,7 @@ The interview should last roughly one hour, and include some segments in which t
 
 ## Before the interview
 
-- Take a few minutes to familiarize yourself with the candidate’s resume and review [the good and bad signs](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit) for the questions you’ll be asking.
+- Take a few minutes to familiarize yourself with the candidate’s resume and review [the good and bad signs](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.gnx56b2uwyx7) for the questions you’ll be asking.
 
 - Ask the other interviewers if there are any areas to probe (without asking *why* — that will bias your opinion of the candidate’s answers).
 
@@ -56,25 +56,36 @@ Begin by introducing yourself by saying this or something similar to it:
 
 This interview is more broad — questions from all previous interviews are fair-game, and be sure to adjust the questions asked to follow-up on any areas the other interviewers have indicated.
 
-- “Tell me about yourself”
+### Relevant work experience
 
-- ["What drew you to 18F?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.6qssbuvkhie2)
+- ["Can you tell me a little about your background and how 18F fits into that picture?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.6qssbuvkhie2)
 
   - If possible, be prepared to notify the TTS Talent Team about how this candidate entered our candidate funnel should we extend an offer (this helps improve our outreach efforts).
 
-- ["Tell me about your experience with agile or other collaborative working styles. How does working in an agile way affect the technical choices you make?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.p3zgydisjuv3)
+- ["Whether or not you’ve had direct experience with agile, in an agile environment, how do you approach trade-offs?"](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.d4ctqn683zxs)
 
-- ["Have you had a chance to participate in user-centered design and/or user research?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.z49dyqcuxle5)
+- ["Tell me about your experience working on teams that directly involved non-engineers. How did you approach working with others with different professional skills?"](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.p2cr6nh5culs)
 
-- ["Have you ever worked with a remote/distributed team before?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.95oxlva5ufr7)
+- ["What has your experience been with user-centered design and/or user research?"](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.1407do81qrqo)
 
-- ["Please explain a complex technical concept or tool to me as if I were a non-technical partner"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.8lizmty3jisl)
+### Technology and open source
+Ask one or more of the following:
+- ["Are you comfortable with sharing your work in a public fashion?"](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.hmo4ig69x3qn)
+- ["What is your comfort level with peer-reviewed work?"](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.hmo4ig69x3qn)
+- ["Your product owner is very excited about a proprietary subscription based product which would cost twice what an open source solution would. How would you encourage the product owner to use open source?"](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.hmo4ig69x3qn)
 
-- "At 18F we strive to be as representative of the populace as possible and work hard to ensure that everyone understands this notion and is treated fairly and respectfully. [What do diversity, equity, and inclusion mean to you?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.5kwvj8b9hvhd)"
+### Communication and collaboration
+- ["How have you overcome any communication challenges and barriers in a remote/distributed environment? What crucial skills are needed to make a remote first team collaborative?"](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.3eohpexz765y)
 
-- ["Is there anything that you feel we should have asked you relating to your personal or professional goals that we did not?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.frpyzn3gj97y)
+- [“Pick a foundational web development concept or technology and explain it at two levels: first as you would to a colleague who’s not a software developer, like a designer or product manager; next, as you would to a peer."](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.d811gtybsywx)
+
+### Diversity and inclusion
+- [“Tell me about a time you’ve worked with or for communities different than your own. What did you learn?”](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.6z03t2jik0y6)"
 
 ### Conclusion
+
+- ["Is there anything that you feel we should have asked you relating to your personal or professional goals that we did not?"](https://docs.google.com/document/d/1Z9A0WJFJj_Vo975RkuzQQazEOSJTPixiiahrtlNOBiI/edit#heading=h.a4271815jmvt)
+
 
 Make sure to leave time for the candidate to ask you any questions they might have — remember, interviewing is a two-way street!
 
