@@ -68,7 +68,7 @@ This interview is more broad — questions from all previous interviews are fai
 
 - ["Have you ever worked with a remote/distributed team before?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.95oxlva5ufr7)
 
-- ["Please explain a complex technical concept or tool to me as if I were a non-technical partner"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.8lizmty3jisl)
+- ["Pick a foundational web development concept or technology and explain it at two levels: first as you would to a colleague who’s not a software developer, like a designer or product manager; next, as you would to a peer."](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.8lizmty3jisl)
 
 - "At 18F we strive to be as representative of the populace as possible and work hard to ensure that everyone understands this notion and is treated fairly and respectfully. [What do diversity, equity, and inclusion mean to you?](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.5kwvj8b9hvhd)"
 
