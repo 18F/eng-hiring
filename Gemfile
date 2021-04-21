@@ -1,13 +1,21 @@
-ruby '~> 2.7'
+ruby '2.7.2'
 
 source 'https://rubygems.org'
 
 gem 'jekyll'
+# TODO: these two were here before porting to the new template. Are they needed?
 gem 'redcarpet'
 gem 'rouge'
 
-gem 'uswds-jekyll', '~> 5.0'
-gem 'jekyll-redirect-from'
+gem 'mini_racer'
+
+group :jekyll_plugins do
+  gem 'uswds-jekyll', '~> 5.0'
+  gem 'jekyll-redirect-from'
+  gem 'jekyll-sitemap'
+  gem 'jemoji', '>= 0.12.0'
+  gem 'jekyll-last-modified-at'
+end
 
 group :development do
   gem 'html-proofer'
