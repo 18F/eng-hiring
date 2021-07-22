@@ -61,7 +61,7 @@ to produce and defend a desired solution. Preface by saying there’s no right a
 
 Help guide the candidate to the right line of thinking, don’t allow them to get too bogged down in the wrong line of thinking — help them get back on track.
 
-* ["Let's say you and your team are tasked to build a feature or an app that would support photo sharing. How would you approach the design and build for this?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.tgd47iei6k4w)
+* ["Let’s say your team is working for the Public Building Service, an arm of the GSA that is responsible for the maintenance and upkeep of all government buildings. They’ve asked you to create a feature where a building inspector can upload photos of their building inspection findings so they can document them visually and ensure issues are fixed. How would you approach the design and build for this?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.tgd47iei6k4w)
 
 * ["Tell me about a difficult technical problem that you helped solve: what was the problem, and how was it solved?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.ory7bezha9al)
 
