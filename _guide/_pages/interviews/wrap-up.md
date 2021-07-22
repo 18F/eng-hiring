@@ -58,8 +58,12 @@ This interview is more broad — questions from all previous interviews are fai
 
 - “Tell me about yourself”
 
+- "Has anyone given you any background on 18F or spoken with you in detail about 18F’s history, purpose, and mission?"
+    - If not, fill them in; if so, answer questions (if they've got them).
+
 - ["What drew you to 18F?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.6qssbuvkhie2)
 
+Make a note of key phrases or words that the candidate mentions their response (e.g., “I want my work to have a meaningful impact”); you can use these for hooks that there are hooks for questions later in the interview as you transition from one set of questions to the next.
   - If possible, be prepared to notify the TTS Talent Team about how this candidate entered our candidate funnel should we extend an offer (this helps improve our outreach efforts).
 
 - ["Tell me about your experience with agile or other collaborative working styles. How does working in an agile way affect the technical choices you make?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.p3zgydisjuv3)
