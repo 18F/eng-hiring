@@ -49,15 +49,6 @@ Begin by introducing yourself by saying this or something similar to it:
 >
 > I’ll ask you my questions first, and then I’ll leave some time to answer any questions you’ve got for me. I’m excited you’re here - let’s get started!
 
-### 18F's background, history, mission, and purpose
-
-- "Has anyone given you any background on 18F or spoken with you in detail about 18F’s history, purpose, and mission?"
-    - If not, fill them in; if so, answer questions (if they've got them).
-
-- ["What drew you to 18F?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.6qssbuvkhie2)
-
-Make a note of key phrases or words that the candidate mentions their response (e.g., “I want my work to have a meaningful impact”); you can use these for hooks that there are hooks for questions later in the interview as you transition from one set of questions to the next.
-
 ### Relevant work experience
 
 After the introduction, follow up with a discussion around relevant work experience. Tying into anything the candidate might have already responded with as well as their resume, guide the interview toward specific work experience(s) that are of interest to 18F’s current and future needs.
