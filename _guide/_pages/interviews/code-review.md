@@ -29,15 +29,16 @@ The focus of the interview should be on their code, how it works, why they made 
 
 - Whenever possible, ask these questions **exactly as they’re worded** to try to get consistency between multiple candidates.
 
-- For more information on interviewing in general, check out the [interviewing overview guide](..).
 
 ## Before the interview
 
-Before the interview, prepare by reviewing the code, trying to run it (and the tests), and thinking about questions you'll want to ask the candidate during the interview (see below).
+Before the interview, prepare by reviewing the code, trying to run it (and the tests), and review the list of what to look for and the questions.
 
 **As you review, remember that candidate only spent about three hours on this code.** It doesn't need to be perfect. It should work, and solve the problem assigned, but minor issues, rough edges, and less-than-perfect parts are totally fine. A good way to think about this: you're looking for code that's about the same level as you might expect on an initial pull request. It might not be perfect yet, but that's what code review is for.
 
 For the list of things to look for during code review, see [what to look for during code review](https://docs.google.com/document/d/1rP7_yYr_IbfDi-Tj-1troJG2rTDcfVRnI_iH7Ngrzds/edit#heading=h.6l09j457zrt).
+
+<a class="usa-button usa-button-primary" href="https://docs.google.com/document/d/1rP7_yYr_IbfDi-Tj-1troJG2rTDcfVRnI_iH7Ngrzds/copy">Make a copy for your notes</a>.
 
 ## Conversation outline
 
@@ -61,17 +62,16 @@ Generally, we try ask these questions exactly as they’re worded to try to get 
 
 - Walk me through how your code works.
 - How does this part (point to a tricky bit) work?
-- Are you happy with your solution to the problem?
-- What would you do differently if you got to do this over again?
+- What would you do differently if you got to do this over again? What would you keep?
 - Where did you get stuck? How'd you get past it?
 - What was your testing strategy for this code?
-    - Did you write tests before/during/after your code?
-    - Are you happy with your testing strategy?
+    - How effective do you think your test suite is? Are there any gaps?
+    - When did you write tests in relation to when you wrote your code? (Before/During/After)
     - What would you do differently?
-- What other programming languages could you solve this problem in?
-    - What would be different about the solution in Language X?
 - I see you used Module X here. How would you solve this problem without
   Module X?
+- What other programming languages would be appropriate to solve this problem with?
+    - (Based on their answer) What would be different about the solution in Language X?
 - (Where applicable) If your data file was several orders of magnitude larger
   (say, 1 TB), would this code still work? Why or why not? What would you
   do differently?
