@@ -3,7 +3,7 @@ jobs:
   build:
     working_directory: ~/eng-hiring
     docker:
-       - image: circleci/ruby:2.7-node
+       - image: circleci/ruby:2.7.3-node
     environment:
       # fix encoding
       - LANG: C.UTF-8
