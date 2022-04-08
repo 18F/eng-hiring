@@ -54,7 +54,7 @@ The purpose of the debrief meeting is to:
 
   For candidates you did not rate a 5, what were you looking for that would have increased the candidate’s score?
   
-  When considering your score, you will not have other information from other interviews. That’s okay! The purpose of the score is to get a rough sense of alignment on each aspect of the candidate’s experience — for example, a candidate who scores 5’s and 4’s tells one story; a candidate who scores all 5’s with one interview scoring a 1 tells a story.
+  When considering your score, you will not have other information from other interviews. That’s okay! The purpose of the score is to get a rough sense of alignment on each aspect of the candidate’s experience — for example, a candidate who scores 5’s and 4’s tells one story; a candidate who scores all 5’s with one interview scoring a 1 tells another story.
   
   In our debrief meeting, we’ll discuss the scores and any discrepancies between them — the scoring system is designed to spark discussion, and the scores are not used mathmatically to make hiring decisions. 
   
