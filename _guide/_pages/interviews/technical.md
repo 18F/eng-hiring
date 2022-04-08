@@ -61,7 +61,7 @@ to produce and defend a desired solution. Preface by saying there’s no right a
 
 Help guide the candidate to the right line of thinking, don’t allow them to get too bogged down in the wrong line of thinking — help them get back on track.
 
-* ["How would you design software to run elevators? Can you talk through a high-level design? How would accommodating different building types change your design?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.tgd47iei6k4w)
+* ["Let’s say your team is working for the Public Building Service, an arm of the GSA that is responsible for the maintenance and upkeep of all government buildings. They’ve asked you to create a feature where a building inspector can upload photos of their building inspection findings so they can document them visually and ensure issues are fixed. How would you approach the design and build for this?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.tgd47iei6k4w)
 
 * ["Tell me about a difficult technical problem that you helped solve: what was the problem, and how was it solved?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.ory7bezha9al)
 
@@ -89,7 +89,7 @@ If the candidate is applying for a specific technical role, ask the relevant pos
     </button>
   </h4>
     <div id="consulting" class="usa-accordion__content">
-        <a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.8lizmty3jisl">Please explain a complex technical concept or tool to me as if I were a non-technical partner</a>
+        <a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.8lizmty3jisl">Pick a foundational web development concept or technology and explain it at two levels: first as you would to a colleague who’s not a software developer, like a designer or product manager; next, as you would to a peer.</a>
     </div>
   <h4 class="usa-accordion__heading">
     <button class="usa-accordion__button" aria-expanded="false" aria-controls="devops">
