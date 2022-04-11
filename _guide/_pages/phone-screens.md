@@ -66,7 +66,7 @@ Begin by introducing yourself by saying this or something similar to it:
 - "I’ve had the opportunity to take a look at your resume, but I’d love to hear in your own words a brief version of your professional story."
 - "Tell me about a few of your recent projects."
 - "What are you looking for in your next ideal role, and what things are most important for you?"
-- "What got you interested in TTS?"
+- "What got you interested in this position?"
 
 ### Describe the role and ask for their experience
 
