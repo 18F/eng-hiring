@@ -48,7 +48,7 @@ Begin by introducing yourself by saying this or something similar to it:
 
 > Hello! My name is \_\_\_, my pronouns are \_\_\_, and my role at TTS is \_\_\_.
 >
-> Thanks for interviewing with me today. he purpose of this interview is to explore the code you submitted to get a sense for how you think about coding problems. I’ll ask a series of questions about the code sample you’ve submitted, how it works, why you made the choices you did, and so on.
+> Thanks for interviewing with me today. The purpose of this interview is to explore the code you submitted to get a sense for how you think about coding problems. I’ll ask a series of questions about the code sample you’ve submitted, how it works, why you made the choices you did, and so on.
 >
 > My questions will take about 40 to 45 minutes or so, and then we’ll have the remaining time to answer any questions that you may have. Feel free to think for a moment before answering if that’s your style - you won’t be judged for it.
 >
