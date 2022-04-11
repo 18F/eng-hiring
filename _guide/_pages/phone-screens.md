@@ -61,10 +61,10 @@ Begin by introducing yourself by saying this or something similar to it:
 
 Give the candidate space to tell their story, so we can hear how they view themselves and where they are heading in their career.
 
-- "Tell me your professional story."
+- "I’ve had the opportunity to take a look at your resume, but I’d love to hear in your own words a brief version of your professional story."
   - "Tell me about a few of your recent projects."
-- "What got you interested in 18F?"
 - "What are you looking for in your next ideal role, and what things are most important for you?"
+- "What got you interested in TTS?"
 
 ### Describe the role and ask for their experience
 
@@ -74,8 +74,8 @@ Reinforce information from the job post and gauge the candidate’s level of com
 
 We are an open source organization that prefers working with languages and tools which help avoid locking in to specific vendors or organizations.
 
-- "Can you tell me a bit more about [a project or projects you’ve worked on]? I’m looking to get a sense of the kinds of technology, tools, platforms, and frameworks you used."
 - "If we were to go on to a technical interview, what would be your preferred programming language?"
+- "Can you tell me a bit more about [a project or projects you’ve worked on]? I’m looking to get a sense of the kinds of technology, tools, platforms, and frameworks you used."
 - "Have you ever worked with open source or in public before?"
 
 #### Consulting and coaching
@@ -86,7 +86,7 @@ We are a consulting organization, and this role is focused on consulting; that i
 - understanding and processing resistance to change,
 - and applying your technical expertise to advise how a project will be most successful.
 
-- "Technical problems aren’t always the hardest problems we face. Can you tell me about a time when you've needed to solve a problem that had a non-technical dimension? How did you approach it?"
+- "As a result of how we engage with our partners, technical problems aren’t always the hardest problems we face. Can you tell me about a time when you needed to solve a problem that had a non-technical dimension? How did you approach it?"
 - "Can you tell me about a time when you've been on a project with multiple competing stakeholders and how you navigated it?"
 - "Can you tell me about a time when you've taught or coached others and how you went about it?"
 
@@ -94,8 +94,7 @@ We are a consulting organization, and this role is focused on consulting; that i
 
 We work on cross-functional teams. To us, that means teams which are made up of people with talents in product, design, content, strategy, engineering, and management who work as peers with each other and with the subject matter experts — those who we are assisting in our projects.
 
-- "Can you tell me about a time when you worked on a cross-functional team, especially one with user researchers or visual designers?"
-- "Can you describe a time or situation in which you saw or noted something that wasn’t working well and advocated for an improvement?"
+- "Can you describe a time or situation in which you saw or noted something that wasn’t working well and advocated for an improvement, especially when you were on a team with non-engineers?"
   - "Did your efforts succeed or fail, and can you explain why?"
 
 #### Values and team contributions
@@ -104,20 +103,21 @@ We are a team that values diversity, equity, and inclusion. 18F is committed to 
 
 - "In inclusive work environments, employees feel a sense of belonging within the organization and feel that their voices are heard. How do you foster a culture of belonging? What organizational cultures in workplaces do you admire, and why?"
 - "Can you tell me about a time you’ve worked with or for communities different than your own, and what did you learn?"
+- "How have you played a part, either professionally or personally, in making others feel welcome, included, and empowered?"
 
 #### Agility and agile methods
 
 We are an agile organization. We start our projects by exploring the problem space and performing research to see if we’re solving the right problem. As projects advance, we repeatedly check-in with experts — the end-users — to see if our understanding of the problem and our current proposed solution are correct, and be able to adjust or pivot if we need to change course.
 
-- "- "Can you tell me about a time when a project changed and you had to reset expectations for your work?"
+- "Can you tell me about a time when a project changed and you had to reset expectations for your work?"
 - "Can you tell me about your experience with agile methods and practices and how they affected your work?"
 
 #### Remote and distributed work
 
-We are a remote-first organization. Even if you plan to work in one of our offices when they re-open, you will be working with project teams which are geographically distributed. Under normal circumstances, you will be asked to travel occasionally (a few times a year) for 2-3 day periods to hold in-person workshops with project teams.
+We are a remote-first organization. Even if you plan to work in one of our offices, you will be working with project teams which are geographically distributed. When it is safe to do so, you will be asked to travel occasionally (a few times a year) for 2-3 day periods to participate in workshops more often than not to DC, with a day of travel on either end, depending on where you’re coming from. The time spent in transit is considered part of your work day.
 
-- "Have you ever worked with a remote/distributed team before? If so, how did you overcome any communication challenges and barriers? If not, how would you approach it?"
-- "What do you think are the crucial skills, tools, and resources needed to make a remote-first team collaborative?"
+- "How did you overcome any communication challenges and barriers in a remote work environment?"
+- "What do you think are the crucial skills needed to make a remote-first team collaborative?"
 
 ### Give the candidate space to interview us
 
