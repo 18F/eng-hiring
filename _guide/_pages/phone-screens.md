@@ -13,6 +13,8 @@ subnav:
     href: "#conversation-outline"
   - text: After the call
     href: "#after-the-call"
+  - text: Other job role questions
+  - href: "#other-job-role-interview-questions"
 ---
 
 The goal of a phone screen is to assess a candidate's rough fit for the position we're hiring, and to evaluate if a candidate should be interviewed for the position.
@@ -126,3 +128,61 @@ We are a remote-first organization. Even if you plan to work in one of our offic
 ## After the call
 
 **Thank you for your focus!** Use your notes to fill out the feedback form linked in the calendar invitation, which will help prepare for [interviews]({{site.baseurl}}/interviews/).
+
+## Other Job role interview questions
+
+The phone screen questions primarily focus on a consulting engineer role. Below are additional questions for other product development engineering roles.
+
+### Front-end
+
+In this role you will be working with other software engineers to build and maintain products. Day-to-day, this can mean: 
+- writing code or peer reviewing your teammate’s code,
+- working with designers and researchers to improve the usability of products,
+- and applying your technical expertise to advise on how the product will be most successful.
+
+- "Can you tell me about a time when you had to choose between front-end frameworks, libraries, or build systems on a project, what the outcome was, and how you navigated this?"
+- "You’re tasked with writing a guide for developers about front-end performance. What topics would you cover?"
+- "Would you ever recommend avoiding client-side JavaScript? If so, what would you consider when making this choice? If not, why not?"
+
+### Back-end
+In this role you will be working with other software engineers to build and maintain products. Day-to-day, this can mean: 
+- writing code or peer reviewing your teammate’s code,
+- working with front-end engineers to design APIs and server-rendered views,
+- working with designers and researchers to improve the usability of your product,
+- and applying your technical expertise to advise on how the product will be most successful.
+
+- "Tell me about a system you built or operated, or helped to build or operate, on top of an Infrastructure-as-a-Service or Platform-as-a-Service. What is something unexpected you learned about the Infrastructure- or Platform-as-a-Service you used?"
+- "Tell me about an infrastructure problem that you helped solve — for example, slow performance, unexpected downtime, a security breach, etc. What was the problem and how did you solve it?"
+- "Would you ever recommend avoiding server-side code? If so, what would you consider when making this choice? If not, why not?"
+
+### Full-stack
+In this role you will be working with other software engineers to build and maintain products. Day-to-day, this can mean: 
+- writing code or peer reviewing your teammate’s code,
+- working with designers and researchers to improve the usability of products,
+- and applying your technical expertise to advise on how the product will be most successful.
+
+- "Tell me about a system you built or operated, or helped to build or operate, on top of an Infrastructure-as-a-Service or Platform-as-a-Service. What is something unexpected you learned about the Infrastructure- or Platform-as-a-Service you used?"
+- "You’re tasked with writing a guide for developers about front-end performance. What topics would you cover?"
+- "Would you ever recommend avoiding server-side code? If so, what would you consider when making this choice? If not, why not?"
+
+### Infrastructure and DevOps
+In this role you will be working with other software engineers to build and maintain products. Day-to-day, this can mean: 
+- writing code or peer reviewing your teammate’s code,
+- working with front-end, back-end, and full-stack software engineers to ship reliable software systems, 
+- performing research on how to enable engineering productivity,
+- and applying your technical expertise to advise on how the product will be most successful. 
+
+- "Tell me about a system you built or operated, or helped to build or operate, on top of an Infrastructure-as-a-Service or Platform-as-a-Service. What is something unexpected you learned about the Infrastructure- or Platform-as-a-Service you used?"
+- "You’re tasked with writing a guide for developers about ensuring high reliability for a web application. What topics would you cover?"
+- "Would you ever recommend avoiding continuous deployment? If so, what would you consider when making this choice? If not, why not?"
+
+### Security and Compliance
+In this role you will be working with other software engineers to build and maintain products. Day-to-day, this can mean: 
+- writing code or peer reviewing your teammate’s code,
+- working with front-end, back-end, and full-stack software engineers to ship reliable software systems, 
+- performing research on how to enable engineering productivity,
+- and applying your technical expertise to advise on how the product will be most successful.
+
+- "Tell me about a secure development practice (or tool) you helped introduce to an engineering team. What was the outcome, and what did you learn?"
+- "Tell me about a time when you helped someone from a non-security background learn a security-related topic. What was the topic, and how did you go about it?"
+- "Tell me about a time that you worked with a team to remediate a security issue. What was the fix, and what other approaches did you consider?"
