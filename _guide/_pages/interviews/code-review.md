@@ -46,7 +46,7 @@ For the list of things to look for during code review, see [what to look for dur
 
 Begin by introducing yourself by saying this or something similar to it:
 
-> Hello! My name is \_\_\_, my pronouns are \_\_\_, and my role at TTS is \_\_\_.
+> Hello! My name is \_\_\_, my pronouns are \_\_\_, and my role is \_\_\_.
 >
 > Thanks for interviewing with me today. The purpose of this interview is to explore the code you submitted to get a sense for how you think about coding problems. I’ll ask a series of questions about the code sample you’ve submitted, how it works, why you made the choices you did, and so on.
 >
