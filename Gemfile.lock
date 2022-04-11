@@ -112,7 +112,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  html-proofer
+  html-proofer (>= 3.15.3)
   jekyll
   jekyll-last-modified-at
   jekyll-redirect-from
