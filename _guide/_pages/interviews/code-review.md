@@ -46,36 +46,37 @@ For the list of things to look for during code review, see [what to look for dur
 
 Begin by introducing yourself by saying this or something similar to it:
 
-> Hello! My name is \_\_\_, my pronouns are \_\_\_, and my role at 18F is \_\_\_.
+> Hello! My name is \_\_\_, my pronouns are \_\_\_, and my role is \_\_\_.
 >
-> Thanks for interviewing with me today. This is the code review interview, which means I’ll ask a series of questions about the code sample you’ve submitted, how it works, why you made the choices you did, and so on. I’ve got about [4-5 questions], and this will take us about an hour, perhaps a bit less. Feel free to think for a moment before answering if that's your style - you won't be judged for it.
+> Thanks for interviewing with me today. The purpose of this interview is to explore the code you submitted to get a sense for how you think about coding problems. I’ll ask a series of questions about the code sample you’ve submitted, how it works, why you made the choices you did, and so on.
+>
+> My questions will take about 40 to 45 minutes or so, and then we’ll have the remaining time to answer any questions that you may have. Feel free to think for a moment before answering if that’s your style - you won’t be judged for it.
 >
 > There will be times when I ask for more information, or want to dig deeper into your answers. That’s normal: I want to make sure I understand what you did and why. I’ll be taking notes, please don’t let that distract you.
->
-> I’ll ask you my questions first, and then I’ll leave some time to answer any questions you’ve got for me. I’m excited you’re here - let’s get started!
+> 
+> I’m excited you’re here - do you have any questions for me before we get started?
 
 ### Questions and follow-ups
 
-In all of these questions, you're trying to see that the candidate has a deep understanding of the code and the problem, and can explain it to you coherently. You don't need to agree with all of the candidate's choices, but they should be able to explain them clearly.
+In all of your questions, you should be trying to see that the candidate has a deep understanding of the code and the problem, and can explain it to you coherently. You don’t need to agree with all of the candidate’s choices, but they should be able to explain them clearly.
 
-Generally, we try ask these questions exactly as they’re worded to try to get consistency between multiple candidates. But this will obviously be hard since each candidate's code is different, so use your judgement about when to differ and when to stick to the suggestions below.
-
-- Walk me through how your code works.
-- How does this part (point to a tricky bit) work?
-- What would you do differently if you got to do this over again? What would you keep?
-- Where did you get stuck? How'd you get past it?
-- What was your testing strategy for this code?
-    - How effective do you think your test suite is? Are there any gaps?
-    - When did you write tests in relation to when you wrote your code? (Before/During/After)
-    - What would you do differently?
-- I see you used Module X here. How would you solve this problem without
-  Module X?
-- What other programming languages would be appropriate to solve this problem with?
-    - (Based on their answer) What would be different about the solution in Language X?
-- (Where applicable) If your data file was several orders of magnitude larger
+- "Walk me through how your code works."
+- "How does this part (point to a tricky bit) work?"
+- "What would you do differently if you got to do this over again? What would you keep?"
+- "Where did you get stuck? How'd you get past it?"
+- "What was your testing strategy for this code?"
+    - "How effective do you think your test suite is? Are there any gaps?"
+    - "When did you write tests in relation to when you wrote your code? (Before/During/After)"
+    - "What would you do differently?"
+- "I see you used Module X here. How would you solve this problem without
+  Module X?"
+- "What other programming languages would be appropriate to solve this problem with?"
+    - "(Based on their answer) What would be different about the solution in Language X?"
+- "(Where applicable) If your data file was several orders of magnitude larger
   (say, 1 TB), would this code still work? Why or why not? What would you
-  do differently?
-- What would you do differently if you had a whole week to work on this problem?
+  do differently?"
+- "What would you do differently if you had a whole week to work on this problem?"
+- "I’ve asked all of the questions on my list, and the rest of the time is yours. What questions can I answer for you?"
 
 For the list of things to look for, see [what to look for during the code review interview](https://docs.google.com/document/d/1rP7_yYr_IbfDi-Tj-1troJG2rTDcfVRnI_iH7Ngrzds/edit#heading=h.6l09j457zrt).
 
