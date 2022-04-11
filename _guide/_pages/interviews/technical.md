@@ -64,13 +64,13 @@ to produce and defend a desired solution. Preface by saying there’s no right a
 
 Help guide the candidate to the right line of thinking, don’t allow them to get too bogged down in the wrong line of thinking — help them get back on track.
 
-* ["Let’s say your team is working for the Public Building Service, an arm of the GSA that is responsible for the maintenance and upkeep of all government buildings. They’ve asked you to create a feature where a building inspector can upload photos of their building inspection findings so they can document them visually and ensure issues are fixed. How would you approach the design and build for this?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.tgd47iei6k4w)
+* "Let’s say your team is working for the Public Building Service, an arm of the GSA that is responsible for the maintenance and upkeep of all government buildings. They’ve asked you to create a feature where a building inspector can upload photos of their building inspection findings so they can document them visually and ensure issues are fixed. How would you approach the design and build for this?"
 
-* ["Tell me about a difficult technical problem that you helped solve: what was the problem, and how was it solved?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.ory7bezha9al)
+* "Tell me about a difficult technical problem that you helped solve: what was the problem, and how was it solved?"
 
 ### Agile orientation
 
-* ["Whether or not you’ve had direct experience with agile, in an agile environment, how do you analyze trade-offs between technical approaches to problems you face?"](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.p3zgydisjuv3)
+* "Whether or not you’ve had direct experience with agile, in an agile environment, how do you analyze trade-offs between technical approaches to problems you face?"
 
 
 ### Position-specific questions
@@ -84,17 +84,17 @@ If the candidate is applying for a specific technical role, ask the relevant pos
     </button>
   </h4>
     <div id="communication" class="usa-accordion__content">
-        <a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.8lizmty3jisl">Pick a foundational web development concept or technology and explain it at two levels: first as you would to a colleague who’s not a software developer, like a designer or product manager; next, as you would to an engineer.</a>
+        Pick a foundational web development concept or technology and explain it at two levels: first as you would to a colleague who’s not a software developer, like a designer or product manager; next, as you would to an engineer.
     </div>
   <h4 class="usa-accordion__heading">
     <button class="usa-accordion__button" aria-expanded="false" aria-controls="testing-refactoring">
       Testing and refactoring
     </button>
   </h4>
-    <div id="testing-refactoring" class="usa-accordion__content">
-        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.8oo7fbtvctyj">“Tell me about your approach to software testing. Why is it important and when have you done it? Where does it belong in the process?”</a></p>
-
-        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.q9bs0tbbozgq">“What does refactoring mean to you? Why is it important and when have you done it? Where does it belong in the process?”</a></p>
+    <div id="testing-refactoring" class="usa-accordion__content" markdown="1">
+      
+        * "Tell me about your approach to software testing. Why is it important and when have you done it? Where does it belong in the process?”
+        * "What does refactoring mean to you? Why is it important and when have you done it? Where does it belong in the process?”
 
     </div>
   <h4 class="usa-accordion__heading">
@@ -102,21 +102,21 @@ If the candidate is applying for a specific technical role, ask the relevant pos
       Production readiness
     </button>
   </h4>
-    <div id="production-readiness" class="usa-accordion__content">
+    <div id="production-readiness" class="usa-accordion__content" markdown="1">
 
-        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.5z8517vrmoea">Thinking both technically and non-technically, what do you consider when getting an application or system ready for production?</a></p>
-
-        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.1s7pt8lyer05">You’re tasked with writing a guide for developers about ensuring high reliability for a web application. What topics would you cover?</a></p>
+        * Thinking both technically and non-technically, what do you consider when getting an application or system ready for production?
+        * You’re tasked with writing a guide for developers about ensuring high reliability for a web application. What topics would you cover?
+      
     </div>
   <h4 class="usa-accordion__heading">
     <button class="usa-accordion__button" aria-expanded="false" aria-controls="appsec">
       Security and stability
     </button>
   </h4>
-    <div id="appsec" class="usa-accordion__content">
-        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.kp7l6vfz1yhg">Tell me about an infrastructure problem that you helped solve — for example, slow performance, unexpected downtime, a security breach, etc. What was the problem and how did you solve it?</a></p>
-
-        <p><a href="https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#heading=h.tzmgeavlz1n8">Tell me about a time that you worked with a team to remediate a security issue.</a></p>
+    <div id="appsec" class="usa-accordion__content" markdown="1">
+      
+        * Tell me about an infrastructure problem that you helped solve — for example, slow performance, unexpected downtime, a security breach, etc. What was the problem and how did you solve it?
+        * Tell me about a time that you worked with a team to remediate a security issue.
     </div>
 </div>
 
