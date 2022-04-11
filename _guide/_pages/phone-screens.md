@@ -92,14 +92,14 @@ We are a consulting organization, and this role is focused on consulting; that i
 
 #### Cross-functional teams
 
-We work on cross-functional teams. To us, that means teams which are made up of people with talents in product, design, content, strategy, engineering, and management who work as peers with each other and with the subject matter experts — those who we are assisting in our projects.
+We work on cross-functional teams. To us, that means teams which are made up of people with skills in product, design, content, strategy, engineering, and management who work as peers with each other.
 
 - "Can you describe a time or situation in which you saw or noted something that wasn’t working well and advocated for an improvement, especially when you were on a team with non-engineers?"
   - "Did your efforts succeed or fail, and can you explain why?"
 
 #### Values and team contributions
 
-We are a team that values diversity, equity, and inclusion. 18F is committed to building a safe, welcoming, harassment-free culture for everyone where we as individuals are free to take risks and challenge each other. We do not merely want a work environment that is free from hostility; we want one that is actively welcoming, inclusive, and fosters an environment of belonging. We want our team and our workplace culture to reflect and celebrate the diversity of the public we serve, and we work hard to ensure that everyone is treated fairly and respectfully.
+We are a team that values diversity, equity, and inclusion. We want one that is actively welcoming, inclusive, and fosters an environment of belonging. TTS is committed to building a safe, welcoming, harassment-free culture for everyone where we as individuals are free to take risks and challenge each other. We do not merely want a work environment that is free from hostility — we want our team and our workplace culture to reflect and celebrate the diversity of the public we serve, and we work hard to ensure that everyone is treated fairly and respectfully.
 
 - "In inclusive work environments, employees feel a sense of belonging within the organization and feel that their voices are heard. How do you foster a culture of belonging? What organizational cultures in workplaces do you admire, and why?"
 - "Can you tell me about a time you’ve worked with or for communities different than your own, and what did you learn?"
@@ -107,7 +107,7 @@ We are a team that values diversity, equity, and inclusion. 18F is committed to 
 
 #### Agility and agile methods
 
-We are an agile organization. We start our projects by exploring the problem space and performing research to see if we’re solving the right problem. As projects advance, we repeatedly check-in with experts — the end-users — to see if our understanding of the problem and our current proposed solution are correct, and be able to adjust or pivot if we need to change course.
+We are an agile organization. We start new projects by exploring the problem space and performing research to see if we’re solving the right problem. As projects advance, we repeatedly check-in with end users and experts to see if our understanding of the problem and our current proposed solution are correct, and be able to adjust or pivot if we need to change course.
 
 - "Can you tell me about a time when a project changed and you had to reset expectations for your work?"
 - "Can you tell me about your experience with agile methods and practices and how they affected your work?"
