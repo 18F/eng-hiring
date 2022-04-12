@@ -57,7 +57,7 @@ There are a few people in play in the selection process:
 
 ## How candidates enter
 
-A majority of candidates entering our hiring process are in response to applications to a job announcement posted on the [Join TTS](https://join.tts.gsa.gov/) website or via [USA Jobs](usajobs.gov). When this happens, candidates are reviewed in a group, sometimes called a *cohort*.
+A majority of candidates entering our hiring process are in response to applications to a job announcement posted on the [Join TTS](https://join.tts.gsa.gov/) website or via [USA Jobs](https://www.usajobs.gov). When this happens, candidates are reviewed in a group, sometimes called a *cohort*.
 
 ### Running a hiring action for engineering
 
