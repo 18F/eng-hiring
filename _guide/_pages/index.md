@@ -72,17 +72,21 @@ A majority of candidates entering our hiring process are in response to applicat
 
 In some cases, we are able to submit candidates for interviews directly without a previously established job announcement. This is referred to as a **reserved hire**, and there are limits to the kinds of terms we can offer to these candidates. Speak with the TTS Talent team to discuss the specifics further.
 
+## Hiring training
+
+We have training sessions for the folks who want help with hiring. The [Interviewing Training](https://docs.google.com/presentation/d/1uezTFgDgNFvRlegkFnXDcHDS_wD6gsBsICFbbZJc-mE/edit) (1 hour) will help you understand the process and the efforts to ensure equity.
+
 ## Changes to the process
 
 While we’re always looking to improve, we do not make changes to our process while in the middle of a hiring round to ensure equity in the process. This helps ensure consistency and fairness into the process. It also lets us collect statistics and compare results between groups, letting us take a more data-driven approach to hiring.
 
 These guides are [an open source project](https://github.com/18F/eng-hiring).
 
-## Hiring training
+### Forking our work
 
-We have training sessions for the folks who want help with hiring. The [Interviewing Training](https://docs.google.com/presentation/d/1uezTFgDgNFvRlegkFnXDcHDS_wD6gsBsICFbbZJc-mE/edit) (1 hour) will help you understand the process and the efforts to ensure equity.
+This guide is more tailored to the shape of a consulting engineer - an engineer that has skills in modern open-source software engineering and in helping our government partners navigate the organizational and technical problems that arise in the course of our work. In some of the interview guides (especially the phone screen) we provide questions that are geared to understand the skills and experience of other engineering roles such as security and compliance, site reliability, and product development (front-end/back-end/full-stack). 
 
-For those conducting interviews, both technical and core values. Covers our interview process and guides, and how to interview effectively. We'll spend some time practicing interview questions on each other, to get a bit of experience before we start.
+Internal to TTS, some engineering hiring managers may want to take a look at the [engineering interviewing questions bank](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#).
 
 
 [resume-review-guide]: {{site.baseurl}}/resume-review/
