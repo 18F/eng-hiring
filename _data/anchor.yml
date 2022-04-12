@@ -4,6 +4,8 @@ agency_acronym: GSA
 agency_logo: gsa-logo-blue.svg
 agency_url: https://www.gsa.gov
 agency_about_url: https://www.gsa.gov/about
+edit_page:
+  text: Propose an update to this page
 org_primary: Technology Transformation Services
 org_primary_url: https://www.gsa.gov/tts/
 org_primary_bio: "As part of GSA’s Technology Transformation Services (TTS), we apply modern methodologies and technologies to improve the public’s experience with government. We help agencies make their services more accessible, efficient, and effective with modern applications, platforms, processes, personnel, and software solutions."
