@@ -81,48 +81,24 @@ Help guide the candidate to the right line of thinking, don’t allow them to ge
 
 If the candidate is applying for a specific technical role, ask the relevant position-specific questions.
 
-<div class="usa-accordion usa-accordion--bordered">
-<h4 class="usa-accordion__heading">
-<button class="usa-accordion__button" aria-expanded="true" aria-controls="communication">
-Communication
-</button>
-</h4>
-<div id="communication" class="usa-accordion__content" markdown="1">
-Pick a foundational web development concept or technology and explain it at two levels: first as you would to a colleague who's not a software developer, like a designer or product manager; next, as you would to an engineer.
-</div>
-<h4 class="usa-accordion__heading">
-<button class="usa-accordion__button" aria-expanded="false" aria-controls="testing-refactoring">
-Testing and refactoring
-</button>
-</h4>
-<div id="testing-refactoring" class="usa-accordion__content" markdown="1">
+#### Communication
+
+* "Pick a foundational web development concept or technology and explain it at two levels: first as you would to a colleague who's not a software developer, like a designer or product manager; next, as you would to an engineer."
+
+#### Testing and refactoring
 
 * "Tell me about your approach to software testing. Why is it important and when have you done it? Where does it belong in the process?"
 * "What does refactoring mean to you? Why is it important and when have you done it? Where does it belong in the process?"
 
-</div>
-<h4 class="usa-accordion__heading">
-<button class="usa-accordion__button" aria-expanded="false" aria-controls="production-readiness">
-Production readiness
-</button>
-</h4>
-<div id="production-readiness" class="usa-accordion__content" markdown="1">
+#### Production readiness
 
 * Thinking both technically and non-technically, what do you consider when getting an application or system ready for production?
 * You're tasked with writing a guide for developers about ensuring high reliability for a web application. What topics would you cover?
 
-</div>
-<h4 class="usa-accordion__heading">
-<button class="usa-accordion__button" aria-expanded="false" aria-controls="appsec">
-Security and stability
-</button>
-</h4>
-<div id="appsec" class="usa-accordion__content" markdown="1">
+#### Security and stability
 
 * Tell me about an infrastructure problem that you helped solve — for example, slow performance, unexpected downtime, a security breach, etc. What was the problem and how did you solve it?
 * Tell me about a time that you worked with a team to remediate a security issue.
-</div>
-</div>
 
 ### Conclusion
 
