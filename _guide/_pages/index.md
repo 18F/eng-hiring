@@ -33,11 +33,12 @@ This guide covers the engineering selection process, from resume review to turni
 The process surrounding the standard engineering hiring process varies depending on the [hiring action](https://handbook.tts.gsa.gov/hiring/) used — but the standard process consists of:
 
 1. The 18F Engineering Hiring team performs a [resume review][resume-review-guide] to determine if a candidate will be phone screened. The TTS Talent team then performs a specialized experience review of the candidate, ensuring they will be able to be offered the position should they pass the interviews.
-1. The TTS Talent team schedules a [phone screen][phone-screen-guide] with the candidate and a representative from the 18F Engineering Hiring team. The 18F Engineering Hiring team then determines if the candidate will be interviewed.
-1. The TTS Talent team notifies the candidate of their selection, and passing candidates are asked to provide or perform [technical pre-work]({{site.baseurl}}/pre-work/). The candidate provides or completes the technical pre-work.
-1. The TTS Talent team schedules the candidate for [interviews][interview-guide] with members of the Interview team.
-1. The Interview team holds a [debrief meeting][debrief-guide] to share information gathered about the candidate through interviews.
-1. The 18F Engineering Hiring team meets with a representative from the TTS Talent team to perform [final selection][final-selection-guide]. Then, the candidate is provided to the General Service Administration (GSA)’s Office of Human Resources Management (OHRM) team, who performs the final review and extends an offer.
+1. The TTS Talent team schedules a [phone screen][phone-screen-guide] with the candidate and a representative from the 18F Engineering Hiring team. The 18F Engineering Hiring team then determines if the candidate will continue to the next round of interviews.
+1. The TTS Talent team notifies the candidate of their selection, and passing candidates are asked to provide or perform [technical pre-work]({{site.baseurl}}/pre-work/). The candidate provides or completes the technical pre-work and shares the work with TTS.
+1. The TTS Talent team schedules the candidate for a round of interviews.
+2. The Interview team conducts [interviews][interview-guide] with the candidate to understand their [technical](https://eng-hiring.18f.gov/interviews/technical/), [coding](https://eng-hiring.18f.gov/interviews/code-review/), and collaborative ([core-values](https://eng-hiring.18f.gov/interviews/core-values/) and [wrap-up](https://eng-hiring.18f.gov/interviews/wrap-up/)) skills and expereince.
+3. The Interview team holds a [debrief meeting][debrief-guide] to share information gathered about the candidate through interviews.
+4. The 18F Engineering Hiring team meets with a representative from the TTS Talent team to perform [final selection][final-selection-guide]. Then, the candidate is provided to the General Service Administration (GSA)’s Office of Human Resources Management (OHRM) team, who performs the final review and extends an offer.
 
 The candidate is always notified of the outcome of each determination step, either of a continuation of the process, selection for an offer, or declination. We hope that candidates will have a positive experience of TTS regardless of the outcome, and consider re-applying for future positions.
 
@@ -56,9 +57,9 @@ There are a few people in play in the selection process:
 
 ## How candidates enter
 
-A majority of candidates entering our hiring process are in response to applications to a job announcement posted on the [Join TTS](https://join.tts.gsa.gov/) website. When this happens, candidates are reviewed in a group, sometimes called a *cohort*.
+A majority of candidates entering our hiring process are in response to applications to a job announcement posted on the [Join TTS](https://join.tts.gsa.gov/) website or via [USA Jobs](https://www.usajobs.gov). When this happens, candidates are reviewed in a group, sometimes called a *cohort*.
 
-### Running a hiring group
+### Running a hiring action for engineering
 
 1. The 18F Engineering Hiring team collaborates with the TTS Talent team to post a job announcement.
 1. The candidate submits their resume to this job as specified in the job announcement.
@@ -71,29 +72,21 @@ A majority of candidates entering our hiring process are in response to applicat
 
 In some cases, we are able to submit candidates for interviews directly without a previously established job announcement. This is referred to as a **reserved hire**, and there are limits to the kinds of terms we can offer to these candidates. Speak with the TTS Talent team to discuss the specifics further.
 
+## Hiring training
+
+We have training sessions for the folks who want help with hiring. The [Interviewing Training](https://docs.google.com/presentation/d/1uezTFgDgNFvRlegkFnXDcHDS_wD6gsBsICFbbZJc-mE/edit) (1 hour) will help you understand the process and the efforts to ensure equity.
+
 ## Changes to the process
 
-While we’re always looking to improve, we do not make changes to our process while reviewing a hiring group unless there are egregious errors. This helps ensure consistency and fairness into the process. It also lets us collect statistics and compare results between groups, letting us take a more data-driven approach to hiring.
+While we’re always looking to improve, we do not make changes to our process while in the middle of a hiring round to ensure equity in the process. This helps ensure consistency and fairness into the process. It also lets us collect statistics and compare results between groups, letting us take a more data-driven approach to hiring.
 
 These guides are [an open source project](https://github.com/18F/eng-hiring).
 
-## Hiring training
+### Forking our work
 
-We have training sessions for the folks who want help with hiring. You'll find these events on the 18F Engineering calendar; here are links to the slide decks for each:
+This guide is more tailored to the shape of a consulting engineer - an engineer that has skills in modern open-source software engineering and in helping our government partners navigate the organizational and technical problems that arise in the course of our work. In some of the interview guides (especially the phone screen) we provide questions that are geared to understand the skills and experience of other engineering roles such as security and compliance, site reliability, and product development (front-end/back-end/full-stack). 
 
-### [Intro to Engineering Hiring](https://docs.google.com/a/gsa.gov/presentation/d/1HNHU7SNz95byy0c70DP54arFzhuRch5rUeC2tbBljdg/edit?usp=sharing) (30 minutes)
-
-An introductory session, covering the overall hiring process, how selection works, our standards, and the parts of hiring that are common for all roles.
-
-I think this session might be the most interesting for everyone, not just people who're participating in the process.
-
-### [Resume Review](https://docs.google.com/a/gsa.gov/presentation/d/1a7gGq_Ua-lXXzJ5ixmTuRQE6HZGX2WMS9tSgCoPnSOQ/edit?usp=sharing) (30 minutes)
-
-For those who will be reviewing resumes. Covers our resume review rubrics ("crediting plans"), how to apply them to a resume, and some tips and tricks for reading resumes. There'll also be a chance to practice on some sample resumes and get some experience before you do it for real.
-
-### [Interviewing](https://docs.google.com/a/gsa.gov/presentation/d/1_H8em52_fF2Dyf41bE38ZCNhcWS0rCy3tgAGoPntpzQ/edit?usp=sharing) (1 hour)
-
-For those conducting interviews, both technical and core values. Covers our interview process and guides, and how to interview effectively. We'll spend some time practicing interview questions on each other, to get a bit of experience before we start.
+Internal to TTS, some engineering hiring managers may want to take a look at the [engineering interviewing questions bank](https://docs.google.com/document/d/1oYmx_93-mq2QrqICCo8SNk8hHmnPPonPA1kg0vhy540/edit#).
 
 
 [resume-review-guide]: {{site.baseurl}}/resume-review/
