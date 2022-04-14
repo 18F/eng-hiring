@@ -29,7 +29,7 @@ One of your interviews will be with someone who has reviewed and run your code, 
 
 Your choices for code samples are:
 
-**Option 1**: Submit a code sample you've written elsewhere to share with us and discuss. This is subject to a few conditions:
+**Option 1**: Submit a code sample you've written elsewhere to share with us and discuss. This could be something you've done at a previous job, for an outside project, or even something you did for fun. This is subject to a few conditions:
 
 - You must be allowed to share this code with us (so, nothing you've produced under NDA, etc.). Open source is best.
 
