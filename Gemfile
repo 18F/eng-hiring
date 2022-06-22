@@ -1,4 +1,4 @@
-ruby '2.7.3'
+ruby '2.7.6'
 
 source 'https://rubygems.org'
 
@@ -18,6 +18,6 @@ group :jekyll_plugins do
 end
 
 group :development do
-  gem 'html-proofer', '>= 3.15.3'
+  gem 'html-proofer', '>= 3.19.3'
   gem 'rake'
 end
