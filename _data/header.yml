@@ -1,2 +1,5 @@
 usa_banner: true
 type: extended
+logo:
+  src: /assets/images/18F-Logo.svg 
+  alt: 18F

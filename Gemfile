@@ -10,7 +10,7 @@ gem 'rouge'
 gem 'mini_racer'
 
 group :jekyll_plugins do
-  gem 'uswds-jekyll', '~> 5.0', '>= 5.0.0'
+  gem 'uswds-jekyll', '~> 5.3', '>= 5.0.0'
   gem 'jekyll-redirect-from', '>= 0.16.0'
   gem 'jekyll-sitemap', '>= 1.4.0'
   gem 'jemoji', '>= 0.12.0'
