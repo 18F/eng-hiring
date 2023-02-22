@@ -10,9 +10,12 @@ jobs:
     name: Initialize new issue
     runs-on: ubuntu-latest
     steps:
-      # Rather than use a personal access token to interact with the project, we
+      # Rather than use a personal access token (PAT) to interact with the project, we
       # can use this GitHub App. There's an API for exchanging app credentials
       # for a short-term token, and we use that API here.
+      # More details on GitHub Apps and why giving them permissions is preferable to PATs
+      # or service accounts
+      # [here](https://josh-ops.com/posts/github-apps/).
       - name: get token
         uses: tibdex/github-app-token@v1
         id: app_token
