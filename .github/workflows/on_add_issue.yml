@@ -30,6 +30,6 @@ jobs:
         uses: actions/add-to-project@v0.4.0
         with:
           project-url: https://github.com/orgs/18F/projects/41
-          github-token: ${{ steps.app_token.outputs.token }
+          github-token: ${{ steps.app_token.outputs.token }}
           labeled: da-team
           label-operator: AND
