@@ -74,7 +74,7 @@ In some cases, we are able to submit candidates for interviews directly without 
 
 ## Hiring training
 
-We have training sessions for the folks who want help with hiring. The [Interviewing Training](https://docs.google.com/presentation/d/1uezTFgDgNFvRlegkFnXDcHDS_wD6gsBsICFbbZJc-mE/edit) (1 hour) will help you understand the process and the efforts to ensure equity.
+We have training sessions for the folks who want help with hiring. The interviewing training will help you understand the process and our efforts to ensure equity.
 
 ## Changes to the process
 
