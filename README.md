@@ -1,3 +1,5 @@
+**⚠️ This guide has moved to the [consolidated 18F guides repository](https://github.com/18F/guides).**
+
 # 18F Engineering hiring guides
 
 Our guide to how 18F Engineering selects candidates, from
